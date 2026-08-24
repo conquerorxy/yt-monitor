@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-08-24T14:26:06.238921+00:00",
+  "checked_at": "2026-08-24T19:19:34.587906+00:00",
   "new_count": 2,
   "videos": [
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Runway",
       "category": "AI",
-      "title": "You Can Just Use Your Voice | ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=ceBruD6v5Bk",
-      "published": "2026-08-24T13:55:45+00:00"
+      "title": "Getting Started with Runway Ruby | Runway",
+      "url": "https://www.youtube.com/watch?v=YK5Rgbb0FK4",
+      "published": "2026-08-24T15:21:26+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "Pika Labs",
       "category": "AI",
-      "title": "This AI Creates Insane 3D Worlds",
-      "url": "https://www.youtube.com/watch?v=ZY628bslSYY",
-      "published": "2026-08-24T12:18:26+00:00"
+      "title": "WAN 3.0 — Now on the Pika API Club",
+      "url": "https://www.youtube.com/watch?v=jr2RAOYBItg",
+      "published": "2026-08-24T17:05:45+00:00"
     }
   ]
 }
