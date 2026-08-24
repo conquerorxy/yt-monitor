@@ -1,0 +1,124 @@
+{
+  "channels": [
+    {
+      "name": "Dan Bell (This is Dan Bell.)",
+      "channel_id": "UCjU-Cwjfqbo2hMRItlXwnnQ",
+      "category": "猎奇",
+      "url": "https://www.youtube.com/channel/UCjU-Cwjfqbo2hMRItlXwnnQ"
+    },
+    {
+      "name": "Steve Ronin",
+      "channel_id": "UCa7xWePhgtgYNgyXSK63I4Q",
+      "category": "猎奇",
+      "url": "https://www.youtube.com/steveronin"
+    },
+    {
+      "name": "BKFC (Bare Knuckle Fighting)",
+      "channel_id": "UCbQ0KAaKXwI0M4ABoy6xlRw",
+      "category": "猎奇",
+      "url": "https://www.youtube.com/bareknucklefightingchampionship"
+    },
+    {
+      "name": "Exploring With Josh",
+      "channel_id": "UCBGxwnBJhKsQ3g4tk5WM0Uw",
+      "category": "猎奇",
+      "url": "https://www.youtube.com/@exploringwithjosh"
+    },
+    {
+      "name": "Street Beefs",
+      "channel_id": "UCfQLJqfPDqR2yBZndjRBl-g",
+      "category": "猎奇",
+      "url": "https://www.youtube.com/@STREETBEEFS_"
+    },
+    {
+      "name": "Kentucky Ballistics",
+      "channel_id": "UCH09kM3_cghj2rJLeIcFMSA",
+      "category": "猎奇",
+      "url": "https://www.youtube.com/@KentuckyBallistics"
+    },
+    {
+      "name": "Edwin Sarkissian",
+      "channel_id": "UCIOGCEG14rj9GpIFhszkWoQ",
+      "category": "猎奇",
+      "url": "https://www.youtube.com/@EdwinSarkissian"
+    },
+    {
+      "name": "OpenAI",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "category": "AI",
+      "url": "https://www.youtube.com/@OpenAI"
+    },
+    {
+      "name": "Google DeepMind",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "category": "AI",
+      "url": "https://www.youtube.com/@googledeepmind"
+    },
+    {
+      "name": "NVIDIA",
+      "channel_id": "UCHuiy8bXnmK5nisYHKIIrdA",
+      "category": "AI",
+      "url": "https://www.youtube.com/@NVIDIA"
+    },
+    {
+      "name": "Runway",
+      "channel_id": "UCUBqu_GjKCRbS1Gx_IFRKyw",
+      "category": "AI",
+      "url": "https://www.youtube.com/@runwayml"
+    },
+    {
+      "name": "Kling AI",
+      "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "category": "AI",
+      "url": "https://www.youtube.com/@Kling_ai"
+    },
+    {
+      "name": "Pika Labs",
+      "channel_id": "UC5dPkVbH-S3WBuvlDqPDYSQ",
+      "category": "AI",
+      "url": "https://www.youtube.com/@Pika_Labs"
+    },
+    {
+      "name": "Luma AI",
+      "channel_id": "UCeJOkz0b6sHXwwcIGeIy1SQ",
+      "category": "AI",
+      "url": "https://www.youtube.com/@lumalabsai"
+    },
+    {
+      "name": "TheAIGRID",
+      "channel_id": "UCIkHWjPJBfRApMahan3_jzg",
+      "category": "AI",
+      "url": "https://www.youtube.com/@TheAiGrid"
+    },
+    {
+      "name": "MattVidPro AI",
+      "channel_id": "UCk24KxEaiqHnBFLEjx3gWYQ",
+      "category": "AI",
+      "url": "https://www.youtube.com/@MattVidPro"
+    },
+    {
+      "name": "Matt Wolfe",
+      "channel_id": "UCJifBnBaRIk64rl4QTBfpUQ",
+      "category": "AI",
+      "url": "https://www.youtube.com/@mreflow"
+    },
+    {
+      "name": "Wes Roth",
+      "channel_id": "UC_xT4WGDCQIJ3PDB9W1Hf3A",
+      "category": "AI",
+      "url": "https://www.youtube.com/@WesRoth"
+    },
+    {
+      "name": "Theoretically Media",
+      "channel_id": "UC3OHeOTE95-uyNVNnsSj4Pg",
+      "category": "AI",
+      "url": "https://www.youtube.com/@TheoreticallyMedia"
+    },
+    {
+      "name": "ElevenLabs",
+      "channel_id": "UCgHnDt19YOrElf5DzYyNfzA",
+      "category": "AI",
+      "url": "https://www.youtube.com/@Elevenlabs"
+    }
+  ]
+}
