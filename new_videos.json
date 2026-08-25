@@ -1,41 +1,20 @@
 {
-  "checked_at": "2026-08-25T08:07:41.772648+00:00",
-  "new_count": 5,
+  "checked_at": "2026-08-25T14:28:16.089255+00:00",
+  "new_count": 2,
   "videos": [
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "Some good ground action",
-      "url": "https://www.youtube.com/watch?v=nmYDCU6XLBI",
-      "published": "2026-08-25T01:20:18+00:00"
+      "title": "TKO by strikes #mma",
+      "url": "https://www.youtube.com/watch?v=nUIb3oiXPBo",
+      "published": "2026-08-25T13:00:13+00:00"
     },
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Takedown attempt backfired 😮‍💨",
-      "url": "https://www.youtube.com/watch?v=y51UU2LB0_U",
-      "published": "2026-08-24T23:49:10+00:00"
-    },
-    {
-      "channel_name": "Exploring With Josh",
-      "category": "猎奇",
-      "title": "Abandoned Race Car Dealership With Millions in Cars Left Behind (KEYS STILL IN THE CAR)",
-      "url": "https://www.youtube.com/watch?v=Vmq8qJbq3q8",
-      "published": "2026-08-24T19:17:03+00:00"
-    },
-    {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "The Iron Mistress (The Grandmother Of Anti-Materiel Rifles !!!)",
-      "url": "https://www.youtube.com/watch?v=ryfBbp1DVb4",
-      "published": "2026-08-24T22:03:29+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Make information visual with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=jzmNh8lbSp8",
-      "published": "2026-08-24T23:09:56+00:00"
+      "title": "This AI Found Money I Was Wasting",
+      "url": "https://www.youtube.com/watch?v=f74JmwXm-sQ",
+      "published": "2026-08-25T14:08:30+00:00"
     }
   ]
 }
