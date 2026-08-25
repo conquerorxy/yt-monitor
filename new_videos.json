@@ -1,20 +1,41 @@
 {
-  "checked_at": "2026-08-25T14:28:16.089255+00:00",
-  "new_count": 2,
+  "checked_at": "2026-08-25T19:45:25.997373+00:00",
+  "new_count": 5,
   "videos": [
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "TKO by strikes #mma",
-      "url": "https://www.youtube.com/watch?v=nUIb3oiXPBo",
-      "published": "2026-08-25T13:00:13+00:00"
+      "title": "Good sportsmanship 🤝",
+      "url": "https://www.youtube.com/watch?v=64MIsGoFLNA",
+      "published": "2026-08-25T16:05:37+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "This AI Found Money I Was Wasting",
-      "url": "https://www.youtube.com/watch?v=f74JmwXm-sQ",
-      "published": "2026-08-25T14:08:30+00:00"
+      "title": "Codex, but make it weird. Hahahacks.",
+      "url": "https://www.youtube.com/watch?v=2f9bBlGOuX4",
+      "published": "2026-08-25T18:26:41+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "No Limits on Text Chats with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=9MIkJHcMtVA",
+      "published": "2026-08-25T17:21:58+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "This New SECRET LLM Is Taking The World By Storm 0x Alpha",
+      "url": "https://www.youtube.com/watch?v=DKNmrpppgfw",
+      "published": "2026-08-25T16:45:22+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Introducing Composer, a section-by-section song editor.",
+      "url": "https://www.youtube.com/watch?v=OzfgOjEfK98",
+      "published": "2026-08-25T16:04:23+00:00"
     }
   ]
 }
