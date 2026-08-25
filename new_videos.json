@@ -1,20 +1,5 @@
 {
-  "checked_at": "2026-08-24T19:19:34.587906+00:00",
-  "new_count": 2,
-  "videos": [
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Getting Started with Runway Ruby | Runway",
-      "url": "https://www.youtube.com/watch?v=YK5Rgbb0FK4",
-      "published": "2026-08-24T15:21:26+00:00"
-    },
-    {
-      "channel_name": "Pika Labs",
-      "category": "AI",
-      "title": "WAN 3.0 — Now on the Pika API Club",
-      "url": "https://www.youtube.com/watch?v=jr2RAOYBItg",
-      "published": "2026-08-24T17:05:45+00:00"
-    }
-  ]
+  "checked_at": "2026-08-25T03:15:48.447664+00:00",
+  "new_count": 0,
+  "videos": []
 }
