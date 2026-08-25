@@ -1,5 +1,41 @@
 {
-  "checked_at": "2026-08-25T03:15:48.447664+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-08-25T08:07:41.772648+00:00",
+  "new_count": 5,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Some good ground action",
+      "url": "https://www.youtube.com/watch?v=nmYDCU6XLBI",
+      "published": "2026-08-25T01:20:18+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Takedown attempt backfired 😮‍💨",
+      "url": "https://www.youtube.com/watch?v=y51UU2LB0_U",
+      "published": "2026-08-24T23:49:10+00:00"
+    },
+    {
+      "channel_name": "Exploring With Josh",
+      "category": "猎奇",
+      "title": "Abandoned Race Car Dealership With Millions in Cars Left Behind (KEYS STILL IN THE CAR)",
+      "url": "https://www.youtube.com/watch?v=Vmq8qJbq3q8",
+      "published": "2026-08-24T19:17:03+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "The Iron Mistress (The Grandmother Of Anti-Materiel Rifles !!!)",
+      "url": "https://www.youtube.com/watch?v=ryfBbp1DVb4",
+      "published": "2026-08-24T22:03:29+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Make information visual with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=jzmNh8lbSp8",
+      "published": "2026-08-24T23:09:56+00:00"
+    }
+  ]
 }
