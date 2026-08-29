@@ -1,34 +1,20 @@
 {
-  "checked_at": "2026-08-29T12:03:57.793817+00:00",
-  "new_count": 4,
+  "checked_at": "2026-08-29T18:03:35.160277+00:00",
+  "new_count": 2,
   "videos": [
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=CM4Aj5zPYyE",
-      "published": "2026-08-29T02:15:59+00:00"
+      "title": "BKFC 92 Before The Bell | FIGHT WEEK VLOG | Kai Stewart vs Harry Gigliotti | Episode 4",
+      "url": "https://www.youtube.com/watch?v=FXE7EHwjrN4",
+      "published": "2026-08-29T16:10:47+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Wes Roth",
       "category": "AI",
-      "title": "Magic Manga Girl (:30)",
-      "url": "https://www.youtube.com/watch?v=S6TIVzqTmu8",
-      "published": "2026-08-29T05:22:53+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Tennis (:30)",
-      "url": "https://www.youtube.com/watch?v=IEpTT48oW5Y",
-      "published": "2026-08-29T05:22:32+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "This Robot Is Faster Than Usain Bolt?!",
-      "url": "https://www.youtube.com/watch?v=2_UcYzbYnAI",
-      "published": "2026-08-28T15:10:41+00:00"
+      "title": "Sam Altman \"AGI by December\"",
+      "url": "https://www.youtube.com/watch?v=7uSjh5bde44",
+      "published": "2026-08-29T13:15:58+00:00"
     }
   ]
 }
