@@ -1,20 +1,132 @@
 {
-  "checked_at": "2026-08-29T18:03:35.160277+00:00",
-  "new_count": 2,
+  "checked_at": "2026-08-30T00:04:03.787758+00:00",
+  "new_count": 18,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "BKFC 92 Before The Bell | FIGHT WEEK VLOG | Kai Stewart vs Harry Gigliotti | Episode 4",
-      "url": "https://www.youtube.com/watch?v=FXE7EHwjrN4",
-      "published": "2026-08-29T16:10:47+00:00"
+      "title": "BKFC 92 Fenway Park Full Pay Per View Event | Live!",
+      "url": "https://www.youtube.com/watch?v=snToAeTugwQ",
+      "published": "2026-07-21T20:22:01+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Countdown to BKFC 92 BOSTON STEWART vs GIGLIOTTI and FREE LIVE FIGHTS!",
+      "url": "https://www.youtube.com/watch?v=jZv7R4-7obs",
+      "published": "2026-08-29T23:06:38+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* STREETBEEFS FIGHT FIX | A Fresh Stack of Fights",
+      "url": "https://www.youtube.com/watch?v=W_3YF6kdAes",
+      "published": "2026-08-29T21:03:37+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Sam Altman \"AGI by December\"",
-      "url": "https://www.youtube.com/watch?v=7uSjh5bde44",
-      "published": "2026-08-29T13:15:58+00:00"
+      "title": "AI News: OpenAI Made a Massive Move Against NVIDIA",
+      "url": "https://www.youtube.com/watch?v=TInwQglNkzo",
+      "published": "2026-08-28T15:00:09+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This Company Will Buy Your AI Training Data",
+      "url": "https://www.youtube.com/watch?v=Z93MPi8ZO3A",
+      "published": "2026-08-27T13:06:18+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "I Built a FREE App That Runs Your Entire Business",
+      "url": "https://www.youtube.com/watch?v=rKo9iLGjUbs",
+      "published": "2026-08-26T22:36:30+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "How To EASILY Run Local AI Models",
+      "url": "https://www.youtube.com/watch?v=uS2gi-D8C0k",
+      "published": "2026-08-26T13:22:25+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This AI Found Money I Was Wasting",
+      "url": "https://www.youtube.com/watch?v=f74JmwXm-sQ",
+      "published": "2026-08-25T14:08:30+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This AI Creates Insane 3D Worlds",
+      "url": "https://www.youtube.com/watch?v=ZY628bslSYY",
+      "published": "2026-08-24T12:18:26+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "The Wildest Smartphone I’ve Ever Seen 🤯",
+      "url": "https://www.youtube.com/watch?v=aOzaO5AAGjk",
+      "published": "2026-08-22T13:05:27+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This Pyramid Could Be Your Next Intern",
+      "url": "https://www.youtube.com/watch?v=1m5Ee9QbLF0",
+      "published": "2026-08-21T22:09:39+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "AI News: OpenAI Just Put the Brakes on AI",
+      "url": "https://www.youtube.com/watch?v=EfGF7QbJItA",
+      "published": "2026-08-21T15:00:23+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Claude’s Text Watermark Could Follow It Everywhere",
+      "url": "https://www.youtube.com/watch?v=O-8TbMFOAfg",
+      "published": "2026-08-20T12:41:43+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Your New Backup Brain Is Here",
+      "url": "https://www.youtube.com/watch?v=r-ORCmsRHOE",
+      "published": "2026-08-19T13:37:12+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Exclusive BTS of my Automated AI System (LIVE)",
+      "url": "https://www.youtube.com/watch?v=IeT5Jn7d1aM",
+      "published": "2026-08-18T21:11:16+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Are AI Models Escaping On Purpose?",
+      "url": "https://www.youtube.com/watch?v=9ZKeu_7k9ik",
+      "published": "2026-08-17T13:18:26+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "The Hank Green Situation",
+      "url": "https://www.youtube.com/watch?v=ZePfpQ7lbcs",
+      "published": "2026-08-15T13:14:44+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "3 New Ways To Use ChatGPT Codex",
+      "url": "https://www.youtube.com/watch?v=aszRSGI_Iwg",
+      "published": "2026-08-15T00:47:28+00:00"
     }
   ]
 }
