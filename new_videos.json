@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-08-31T06:04:02.328150+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-08-31T12:03:50.241816+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=XbFvbH5xI8k",
+      "published": "2026-08-31T01:56:52+00:00"
+    }
+  ]
 }
