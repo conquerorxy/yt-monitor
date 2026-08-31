@@ -1,13 +1,27 @@
 {
-  "checked_at": "2026-08-31T12:03:50.241816+00:00",
-  "new_count": 1,
+  "checked_at": "2026-08-31T18:03:37.305790+00:00",
+  "new_count": 3,
   "videos": [
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=XbFvbH5xI8k",
-      "published": "2026-08-31T01:56:52+00:00"
+      "title": "Knocked his mouthpiece out 😳",
+      "url": "https://www.youtube.com/watch?v=8vsARud6llo",
+      "published": "2026-08-31T16:09:22+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Delayed knockdown #boxing",
+      "url": "https://www.youtube.com/watch?v=Vr8U9DutJZU",
+      "published": "2026-08-31T13:34:32+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Introducing Solaris our first Interface World Model | Runway",
+      "url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
+      "published": "2026-08-31T16:36:02+00:00"
     }
   ]
 }
