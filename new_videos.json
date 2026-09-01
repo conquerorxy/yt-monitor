@@ -1,27 +1,20 @@
 {
-  "checked_at": "2026-09-01T12:07:59.965614+00:00",
-  "new_count": 3,
+  "checked_at": "2026-09-01T18:07:12.421803+00:00",
+  "new_count": 2,
   "videos": [
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "He is slick with it 🔥",
-      "url": "https://www.youtube.com/watch?v=O2EAplDn5Wc",
-      "published": "2026-09-01T03:45:04+00:00"
+      "title": "The guillotine that actually worked #mma #streetbeefs ￼",
+      "url": "https://www.youtube.com/watch?v=lCHtruNHe2M",
+      "published": "2026-09-01T12:15:41+00:00"
     },
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Clean armbar",
-      "url": "https://www.youtube.com/watch?v=QAnfWlqCO6E",
-      "published": "2026-09-01T01:50:27+00:00"
-    },
-    {
-      "channel_name": "Wes Roth",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Apple became an AI company OVERNIGHT...",
-      "url": "https://www.youtube.com/watch?v=Dxix8GQD-P4",
-      "published": "2026-09-01T03:09:43+00:00"
+      "title": "The One-Prompt Dashboard Trick",
+      "url": "https://www.youtube.com/watch?v=-goIBDS9UNU",
+      "published": "2026-09-01T14:27:45+00:00"
     }
   ]
 }
