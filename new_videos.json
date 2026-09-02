@@ -1,20 +1,41 @@
 {
-  "checked_at": "2026-09-01T18:07:12.421803+00:00",
-  "new_count": 2,
+  "checked_at": "2026-09-02T00:09:35.414445+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "Kentucky Ballistics",
       "category": "猎奇",
-      "title": "The guillotine that actually worked #mma #streetbeefs ￼",
-      "url": "https://www.youtube.com/watch?v=lCHtruNHe2M",
-      "published": "2026-09-01T12:15:41+00:00"
+      "title": "I Shot SLAP Rounds...Again (Shooting SLAP Rounds For The First Time Since My Incident)",
+      "url": "https://www.youtube.com/watch?v=6NeWxAZC3_8",
+      "published": "2026-09-01T22:04:29+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "The One-Prompt Dashboard Trick",
-      "url": "https://www.youtube.com/watch?v=-goIBDS9UNU",
-      "published": "2026-09-01T14:27:45+00:00"
+      "title": "Tokenomics 101: What Are Tokens & Why They Matter | AI Factory Insider Ep. 4",
+      "url": "https://www.youtube.com/watch?v=MkbepPfaeMU",
+      "published": "2026-09-01T22:56:50+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind",
+      "url": "https://www.youtube.com/watch?v=MKNMReFVcp4",
+      "published": "2026-09-01T22:16:56+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "The Most Powerful AI Research Tool You Haven’t Tried Yet - Apodex AI",
+      "url": "https://www.youtube.com/watch?v=YAPKoRLrigY",
+      "published": "2026-09-01T18:38:57+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "Fable 5.1 just smoked ASTRA...",
+      "url": "https://www.youtube.com/watch?v=GdArAq7WMSM",
+      "published": "2026-09-01T22:55:24+00:00"
     }
   ]
 }
