@@ -1,5 +1,48 @@
 {
-  "checked_at": "2026-09-02T06:07:53.065575+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-02T12:08:03.343406+00:00",
+  "new_count": 6,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Don’t turn your back #boxing",
+      "url": "https://www.youtube.com/watch?v=O5AypqpSjYs",
+      "published": "2026-09-02T11:38:58+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "This was crazy",
+      "url": "https://www.youtube.com/watch?v=AnyAA14y2yI",
+      "published": "2026-09-02T02:02:24+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Bro was stumbling #boxing",
+      "url": "https://www.youtube.com/watch?v=8hfmcxzMrsA",
+      "published": "2026-09-02T01:08:55+00:00"
+    },
+    {
+      "channel_name": "Luma AI",
+      "category": "AI",
+      "title": "Luma AI to Launch Native Arabic-Language Interface for Saudi and Arabic-Speaking Creative Community",
+      "url": "https://www.youtube.com/watch?v=q6jSMQ6G81Q",
+      "published": "2026-09-02T12:05:16+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Keep Your Character Consistent with Elements in Kling MCP",
+      "url": "https://www.youtube.com/watch?v=WQZjYq179uk",
+      "published": "2026-09-02T03:40:01+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "GPT-6 Astra Just Went CRITICAL...",
+      "url": "https://www.youtube.com/watch?v=qRNZMGc7TMc",
+      "published": "2026-09-02T05:41:07+00:00"
+    }
+  ]
 }
