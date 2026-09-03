@@ -1,5 +1,132 @@
 {
-  "checked_at": "2026-09-03T06:09:40.137579+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-03T12:08:31.525046+00:00",
+  "new_count": 18,
+  "videos": [
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use Your Computer and Browser",
+      "url": "https://www.youtube.com/watch?v=981SivztzOc",
+      "published": "2026-08-28T20:51:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Talk to ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc",
+      "published": "2026-08-28T20:51:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Create Slides, Docs, and Templates",
+      "url": "https://www.youtube.com/watch?v=syML5KT-HzI",
+      "published": "2026-08-28T20:51:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work on Your Phone",
+      "url": "https://www.youtube.com/watch?v=yfnh8SuMbNw",
+      "published": "2026-08-28T20:51:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Build a Shareable Site",
+      "url": "https://www.youtube.com/watch?v=0qK3KqvtRrg",
+      "published": "2026-08-28T20:51:45+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Plugins & Skills",
+      "url": "https://www.youtube.com/watch?v=5QPBVrAAdBk",
+      "published": "2026-08-28T20:51:45+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Scheduled Tasks",
+      "url": "https://www.youtube.com/watch?v=urXc4xxixVU",
+      "published": "2026-08-28T20:51:45+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Getting Started with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=Rk4VyQxDq5s",
+      "published": "2026-08-28T20:51:11+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Delivering more meals to more moms with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=Lj03DNImB3s",
+      "published": "2026-08-27T21:30:15+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How to Build a Personalized Meal Planner with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=t64oZKCdG8Q",
+      "published": "2026-08-27T16:16:32+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "What Codex Unlocks for loveholidays",
+      "url": "https://www.youtube.com/watch?v=o38xYi2mtgc",
+      "published": "2026-08-26T09:06:31+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How to Manage Your Workspace With ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=29SyCndnMZs",
+      "published": "2026-08-25T20:17:22+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Build agent-ready sites with WebMCP",
+      "url": "https://www.youtube.com/watch?v=Is2NHa7awWY",
+      "published": "2026-08-25T20:15:30+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Codex, but make it weird. Hahahacks.",
+      "url": "https://www.youtube.com/watch?v=2f9bBlGOuX4",
+      "published": "2026-08-25T18:26:41+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "No Limits on Text Chats with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=9MIkJHcMtVA",
+      "published": "2026-08-25T17:21:58+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Creator Off Script with Qiguang: Building Dreamlike Worlds with AI",
+      "url": "https://www.youtube.com/watch?v=lEEz5RX4nqI",
+      "published": "2026-09-03T12:00:21+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "The Most Overhyped and Underhyped New AI Models",
+      "url": "https://www.youtube.com/watch?v=Po_Dh7WLgmM",
+      "published": "2026-09-03T02:14:55+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "Fable 5.1 is the BEST MODEL EVER...",
+      "url": "https://www.youtube.com/watch?v=4AOCZuaYQ2U",
+      "published": "2026-09-03T09:24:16+00:00"
+    }
+  ]
 }
