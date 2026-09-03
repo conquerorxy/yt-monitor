@@ -1,27 +1,27 @@
 {
-  "checked_at": "2026-09-02T18:07:39.875560+00:00",
+  "checked_at": "2026-09-03T00:09:50.433776+00:00",
   "new_count": 3,
   "videos": [
     {
-      "channel_name": "BKFC",
+      "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "UFC VET MAKES BKFC DEBUT! Joe Lauzon vs Stash Kuykendall!",
-      "url": "https://www.youtube.com/watch?v=DfYUmlxzdE0",
-      "published": "2026-09-02T16:00:37+00:00"
+      "title": "They kept going till the end",
+      "url": "https://www.youtube.com/watch?v=W62yE6fM48Q",
+      "published": "2026-09-02T23:51:10+00:00"
     },
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "THAT KO WAS CRAZY! BKFC 92 Most Viral Moments",
-      "url": "https://www.youtube.com/watch?v=kandAoOwnDI",
-      "published": "2026-08-30T04:48:41+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Translate Static Ads into 37 Languages with AI (Full Tutorial)",
-      "url": "https://www.youtube.com/watch?v=1NyTAOUva7I",
-      "published": "2026-09-02T14:36:05+00:00"
+      "title": "The Industrialization of Intelligence",
+      "url": "https://www.youtube.com/watch?v=3eNtVFTEys4",
+      "published": "2026-09-02T22:11:08+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "10 INSANE Things Created With Claude FABLE 5.1 (Fable 5.1 Use Cases)",
+      "url": "https://www.youtube.com/watch?v=9V_M1ehCoec",
+      "published": "2026-09-02T20:01:01+00:00"
     }
   ]
 }
