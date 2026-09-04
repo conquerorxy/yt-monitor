@@ -1,34 +1,48 @@
 {
-  "checked_at": "2026-09-03T18:07:34.873200+00:00",
-  "new_count": 4,
+  "checked_at": "2026-09-04T00:09:04.825024+00:00",
+  "new_count": 6,
   "videos": [
     {
-      "channel_name": "Google DeepMind",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
-      "url": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
-      "published": "2026-09-03T14:58:32+00:00"
+      "title": "First impressions of GPT-6 Astra from developers",
+      "url": "https://www.youtube.com/watch?v=-TTyyY3VWh8",
+      "published": "2026-09-03T21:20:49+00:00"
     },
     {
-      "channel_name": "Runway",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Introducing GWM Worlds 2, a Playable World Model | Runway",
-      "url": "https://www.youtube.com/watch?v=pmjyB-lc4KQ",
-      "published": "2026-09-03T15:51:03+00:00"
+      "title": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world.",
+      "url": "https://www.youtube.com/watch?v=1QNsdr-Qx_I",
+      "published": "2026-09-03T19:40:03+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "OpenAI’s New Breakthrough Is Freaking Researchers Out",
-      "url": "https://www.youtube.com/watch?v=iyvjldHVcj4",
-      "published": "2026-09-03T12:30:35+00:00"
+      "title": "The Easiest Way to Run Hermes Locally | @Nousresearch",
+      "url": "https://www.youtube.com/watch?v=TaqNUvMCRBs",
+      "published": "2026-09-03T19:31:53+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "This Robot Can Learn Almost ANY Task",
-      "url": "https://www.youtube.com/watch?v=K_iUGDw2Sho",
-      "published": "2026-09-03T14:23:29+00:00"
+      "title": "GPT-6 Astra Is Finally Here (And It’s REALLY Good)",
+      "url": "https://www.youtube.com/watch?v=GGzT7zVrRTU",
+      "published": "2026-09-03T22:45:47+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "AGI IS HERE",
+      "url": "https://www.youtube.com/watch?v=3rSFxrKAb3o",
+      "published": "2026-09-03T21:57:17+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "OpenAI Declared AGI & World Models Get WILD!",
+      "url": "https://www.youtube.com/watch?v=_uZTCOfaSUk",
+      "published": "2026-09-03T23:12:52+00:00"
     }
   ]
 }
