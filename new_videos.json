@@ -1,13 +1,83 @@
 {
-  "checked_at": "2026-09-04T12:08:03.012381+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-04T18:07:18.863831+00:00",
+  "new_count": 11,
   "videos": [
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "These were CLEAN",
-      "url": "https://www.youtube.com/watch?v=hQnRHxBuUag",
-      "published": "2026-09-04T02:52:30+00:00"
+      "title": "THAT KO WAS CRAZY! BKFC 92 Most Viral Moments",
+      "url": "https://www.youtube.com/watch?v=kandAoOwnDI",
+      "published": "2026-09-04T17:00:06+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to analyze ad performance and refine creative",
+      "url": "https://www.youtube.com/watch?v=5iu0nY9lIy8",
+      "published": "2026-09-04T12:29:12+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to build custom creative tools",
+      "url": "https://www.youtube.com/watch?v=D-QteDHdHes",
+      "published": "2026-09-04T12:27:16+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Images to explore campaign concepts",
+      "url": "https://www.youtube.com/watch?v=Ez-anO32D_s",
+      "published": "2026-09-04T12:25:30+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to create campaign emails",
+      "url": "https://www.youtube.com/watch?v=N-MJ1W8Vj9E",
+      "published": "2026-09-04T12:23:37+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to pressure-test marketing campaign briefs",
+      "url": "https://www.youtube.com/watch?v=HHt8CPJRviA",
+      "published": "2026-09-04T12:21:56+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to turn marketing ideas into finished work",
+      "url": "https://www.youtube.com/watch?v=NSqlZ1L81nQ",
+      "published": "2026-09-04T12:20:19+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Full Metal Lunchbox | Runway",
+      "url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
+      "published": "2026-09-04T13:37:35+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "AI News: The Most Insane Week So Far This Year!",
+      "url": "https://www.youtube.com/watch?v=GfPZm9yucQo",
+      "published": "2026-09-04T15:00:34+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "He Had Never Heard Her Voice, Until She Read Her Wedding Vows",
+      "url": "https://www.youtube.com/watch?v=FsrMHArvyQw",
+      "published": "2026-09-04T17:00:14+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Gemini Omni Flash 1.1 Is Here — Here’s What’s NEW",
+      "url": "https://www.youtube.com/watch?v=g5z6kZecmAQ",
+      "published": "2026-09-04T15:01:39+00:00"
     }
   ]
 }
