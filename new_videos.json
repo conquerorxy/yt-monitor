@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-09-04T06:07:58.169253+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-04T12:08:03.012381+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "These were CLEAN",
+      "url": "https://www.youtube.com/watch?v=hQnRHxBuUag",
+      "published": "2026-09-04T02:52:30+00:00"
+    }
+  ]
 }
