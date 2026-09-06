@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-09-05T18:06:49.746452+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-06T00:10:01.000384+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "OpenAI just crossed a THRESHOLD...",
+      "url": "https://www.youtube.com/watch?v=aHy7cNj-W2I",
+      "published": "2026-09-05T22:17:45+00:00"
+    }
+  ]
 }
