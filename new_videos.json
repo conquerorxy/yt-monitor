@@ -1,13 +1,20 @@
 {
-  "checked_at": "2026-09-06T12:07:27.496130+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-06T18:06:58.970568+00:00",
+  "new_count": 2,
   "videos": [
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "Exploring With Josh",
       "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=gTyN4_oq5QM",
-      "published": "2026-09-06T01:38:58+00:00"
+      "title": "The 3 Strangest Abandoned Mansions I've Ever Found",
+      "url": "https://www.youtube.com/watch?v=whdMybx6xsA",
+      "published": "2026-09-06T17:38:16+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "GPT-6 Astra with Peter Gostev",
+      "url": "https://www.youtube.com/watch?v=A4BUbpKdenc",
+      "published": "2026-09-06T17:53:59+00:00"
     }
   ]
 }
