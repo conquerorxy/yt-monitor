@@ -1,20 +1,13 @@
 {
-  "checked_at": "2026-09-06T18:06:58.970568+00:00",
-  "new_count": 2,
+  "checked_at": "2026-09-07T00:09:53.070035+00:00",
+  "new_count": 1,
   "videos": [
-    {
-      "channel_name": "Exploring With Josh",
-      "category": "猎奇",
-      "title": "The 3 Strangest Abandoned Mansions I've Ever Found",
-      "url": "https://www.youtube.com/watch?v=whdMybx6xsA",
-      "published": "2026-09-06T17:38:16+00:00"
-    },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "GPT-6 Astra with Peter Gostev",
-      "url": "https://www.youtube.com/watch?v=A4BUbpKdenc",
-      "published": "2026-09-06T17:53:59+00:00"
+      "title": "GPT-6 Astra cracked a DEF CON puzzle",
+      "url": "https://www.youtube.com/watch?v=J2nV3d_A1f0",
+      "published": "2026-09-06T20:44:02+00:00"
     }
   ]
 }
