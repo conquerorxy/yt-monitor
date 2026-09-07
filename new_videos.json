@@ -1,5 +1,27 @@
 {
-  "checked_at": "2026-09-07T06:08:16.258353+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-07T12:08:14.736451+00:00",
+  "new_count": 3,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* This Fight Needed Scarface To Step In | CONAN vs JAM MAN",
+      "url": "https://www.youtube.com/watch?v=n2QPqFCoBxw",
+      "published": "2026-09-07T02:26:39+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He tapped",
+      "url": "https://www.youtube.com/watch?v=mzTMf4KOEJw",
+      "published": "2026-09-07T02:20:33+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "OpenAI’s chief scientist just issued a warning...",
+      "url": "https://www.youtube.com/watch?v=Vjh3YCnI3vo",
+      "published": "2026-09-07T08:45:18+00:00"
+    }
+  ]
 }
