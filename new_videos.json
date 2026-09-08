@@ -1,34 +1,5 @@
 {
-  "checked_at": "2026-09-07T18:07:22.835158+00:00",
-  "new_count": 4,
-  "videos": [
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Manhandled him #mma #streetbeefs",
-      "url": "https://www.youtube.com/watch?v=eN1ETLkSxmo",
-      "published": "2026-09-07T12:24:38+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "GPT-6 Astra with Tom Krcha",
-      "url": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk",
-      "published": "2026-09-07T17:15:32+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "This AI Turns Insane Ideas Into 3D Objects",
-      "url": "https://www.youtube.com/watch?v=tqUEnRj0NbM",
-      "published": "2026-09-07T16:06:22+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Watch Me Create a Cinematic Promo Video for Halloween",
-      "url": "https://www.youtube.com/watch?v=oGB2yEu7NbA",
-      "published": "2026-09-07T16:11:30+00:00"
-    }
-  ]
+  "checked_at": "2026-09-08T00:09:50.950038+00:00",
+  "new_count": 0,
+  "videos": []
 }
