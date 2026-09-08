@@ -1,20 +1,27 @@
 {
-  "checked_at": "2026-09-08T12:08:34.992786+00:00",
-  "new_count": 2,
+  "checked_at": "2026-09-08T18:07:49.177091+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Ref Had Seen Enough 😳🥊",
-      "url": "https://www.youtube.com/watch?v=93i170ZDu9A",
-      "published": "2026-09-08T01:04:51+00:00"
+      "channel_name": "Google DeepMind",
+      "category": "AI",
+      "title": "AlphaGenome Atlas: Using AI to find disease causing variants 🧬",
+      "url": "https://www.youtube.com/watch?v=ya04CpsRJH0",
+      "published": "2026-09-08T14:02:28+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "Google DeepMind",
       "category": "AI",
-      "title": "Building Europe's AI Stack — Inside the Barcelona Supercomputing Center",
-      "url": "https://www.youtube.com/watch?v=4GY-x4WAafc",
-      "published": "2026-09-08T10:40:51+00:00"
+      "title": "AlphaGenome Atlas: Understanding the human genome",
+      "url": "https://www.youtube.com/watch?v=U0aToL5C-bQ",
+      "published": "2026-09-08T13:58:27+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "3 Big ChatGPT Updates You Need to Know",
+      "url": "https://www.youtube.com/watch?v=LJ2YeWQ_uJE",
+      "published": "2026-09-08T15:55:26+00:00"
     }
   ]
 }
