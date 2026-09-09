@@ -1,13 +1,41 @@
 {
-  "checked_at": "2026-09-09T12:08:13.623664+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-09T18:08:03.776668+00:00",
+  "new_count": 5,
   "videos": [
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=Ko_dcgGR10g",
-      "published": "2026-09-09T02:10:16+00:00"
+      "title": "He Turned Up Before The Bell 😳🥊",
+      "url": "https://www.youtube.com/watch?v=o_QZdw3vU1c",
+      "published": "2026-09-09T15:49:21+00:00"
+    },
+    {
+      "channel_name": "Google DeepMind",
+      "category": "AI",
+      "title": "Can AI help us better predict the weather?",
+      "url": "https://www.youtube.com/watch?v=O_EWbnkjXdk",
+      "published": "2026-09-09T16:10:39+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA GTC Europe: Advancing AI Together",
+      "url": "https://www.youtube.com/watch?v=a6qM4YHSKRQ",
+      "published": "2026-09-09T13:14:11+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Maybe the last time we'll ever meet",
+      "url": "https://www.youtube.com/watch?v=1RcCwQo8Fak",
+      "published": "2026-09-09T15:59:39+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Turn ONE Photo Into An Entire 3D World",
+      "url": "https://www.youtube.com/watch?v=iSXeiUXiln8",
+      "published": "2026-09-09T12:26:29+00:00"
     }
   ]
 }
