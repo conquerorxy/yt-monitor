@@ -1,62 +1,13 @@
 {
-  "checked_at": "2026-09-09T00:09:52.570840+00:00",
-  "new_count": 8,
+  "checked_at": "2026-09-09T06:08:08.910292+00:00",
+  "new_count": 1,
   "videos": [
     {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "The Butt Pump Shotgun ???",
-      "url": "https://www.youtube.com/watch?v=s5_Y7b3Decw",
-      "published": "2026-09-08T21:48:18+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
+      "channel_name": "Wes Roth",
       "category": "AI",
-      "title": "Introducing GPT-Image-2.5 in the API",
-      "url": "https://www.youtube.com/watch?v=A7MSwdXj86k",
-      "published": "2026-09-08T19:11:55+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Templates with ChatGPT Images 2.5",
-      "url": "https://www.youtube.com/watch?v=-VukmrOT1eE",
-      "published": "2026-09-08T18:48:03+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Sketch with ChatGPT Images 2.5",
-      "url": "https://www.youtube.com/watch?v=imPtIEAEHSU",
-      "published": "2026-09-08T18:46:42+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://www.youtube.com/watch?v=6l7ble9P74o",
-      "published": "2026-09-08T18:44:08+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "Editing Faster in Adobe Premiere with NVIDIA RTX Spark",
-      "url": "https://www.youtube.com/watch?v=V0Hx37EqcMI",
-      "published": "2026-09-08T19:30:36+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Runway is now in Adobe | Runway",
-      "url": "https://www.youtube.com/watch?v=gkuRNUkYbJA",
-      "published": "2026-09-08T21:37:30+00:00"
-    },
-    {
-      "channel_name": "MattVidPro AI",
-      "category": "AI",
-      "title": "GPT-6 Astra is a Monster... That Still Needs You!",
-      "url": "https://www.youtube.com/watch?v=UZZ53F_kEAA",
-      "published": "2026-09-08T21:34:46+00:00"
+      "title": "OpenAI JUST solved math....",
+      "url": "https://www.youtube.com/watch?v=lkujyxUdUIk",
+      "published": "2026-09-09T05:41:44+00:00"
     }
   ]
 }
