@@ -1,41 +1,5 @@
 {
-  "checked_at": "2026-09-10T00:08:39.403688+00:00",
-  "new_count": 5,
-  "videos": [
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "ChatGPT Work, now powered by GPT-6 Astra",
-      "url": "https://www.youtube.com/watch?v=kuGjypoJKwk",
-      "published": "2026-09-09T21:54:53+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "GPT-6 Astra turned London into a game",
-      "url": "https://www.youtube.com/watch?v=cmN6XVuLEd4",
-      "published": "2026-09-09T21:39:53+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "GPT-6 Astra First Impressions From Businesses",
-      "url": "https://www.youtube.com/watch?v=n-dqdVMwoas",
-      "published": "2026-09-09T19:00:16+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "Trying To Solve The Biggest AI Problem",
-      "url": "https://www.youtube.com/watch?v=-KcHn0QcSb0",
-      "published": "2026-09-09T22:18:17+00:00"
-    },
-    {
-      "channel_name": "Theoretically Media",
-      "category": "AI",
-      "title": "GPT-IMAGE 2.5: The New King of AI Images!",
-      "url": "https://www.youtube.com/watch?v=VsmL_KROmyI",
-      "published": "2026-09-09T22:35:38+00:00"
-    }
-  ]
+  "checked_at": "2026-09-10T06:08:56.074268+00:00",
+  "new_count": 0,
+  "videos": []
 }
