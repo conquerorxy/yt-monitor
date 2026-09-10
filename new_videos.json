@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-09-10T06:08:56.074268+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-10T12:08:15.037668+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "we JUST got played...",
+      "url": "https://www.youtube.com/watch?v=WBK2WX7TA4g",
+      "published": "2026-09-10T08:37:45+00:00"
+    }
+  ]
 }
