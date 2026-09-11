@@ -1,48 +1,13 @@
 {
-  "checked_at": "2026-09-11T00:09:10.071040+00:00",
-  "new_count": 6,
+  "checked_at": "2026-09-11T06:07:46.086581+00:00",
+  "new_count": 1,
   "videos": [
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Weigh-In: BKFC HOLLYWOOD PERDOMO vs HILL | LIVE!",
-      "url": "https://www.youtube.com/watch?v=NI3Lmzl7m0U",
-      "published": "2026-09-11T00:05:30+00:00"
-    },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "*NEW* You Look Like You Need Some Fights | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=hrjD7Zq5nVM",
-      "published": "2026-09-10T23:31:27+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Introducing the Agents API",
-      "url": "https://www.youtube.com/watch?v=2YHa1vhnmK0",
-      "published": "2026-09-10T19:26:05+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "NVIDIA Bionemo Inference Runtime",
-      "url": "https://www.youtube.com/watch?v=pHQcVJrHveA",
-      "published": "2026-09-10T21:10:09+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Connect Runway to ChatGPT Astra",
-      "url": "https://www.youtube.com/watch?v=KjPqQksDnvA",
-      "published": "2026-09-10T21:57:09+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Create any SFX in ElevenCreative.",
-      "url": "https://www.youtube.com/watch?v=m4_GSe7jmZM",
-      "published": "2026-09-10T19:31:57+00:00"
+      "title": "Bro started unleashing",
+      "url": "https://www.youtube.com/watch?v=F_RQO96vBoA",
+      "published": "2026-09-11T02:12:01+00:00"
     }
   ]
 }
