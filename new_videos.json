@@ -1,13 +1,27 @@
 {
-  "checked_at": "2026-09-11T06:07:46.086581+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-11T12:08:17.307103+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Bro started unleashing",
-      "url": "https://www.youtube.com/watch?v=F_RQO96vBoA",
-      "published": "2026-09-11T02:12:01+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "GPT-6 Astra built a font playground",
+      "url": "https://www.youtube.com/watch?v=0NUm552iB3U",
+      "published": "2026-09-11T04:08:16+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Waiting for a savior?",
+      "url": "https://www.youtube.com/watch?v=_4J9jqEWLyA",
+      "published": "2026-09-11T11:53:49+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "MiniMax H3 Max in ElevenCreative.",
+      "url": "https://www.youtube.com/watch?v=XxSwHXp3gds",
+      "published": "2026-09-11T10:23:56+00:00"
     }
   ]
 }
