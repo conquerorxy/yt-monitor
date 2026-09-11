@@ -1,27 +1,34 @@
 {
-  "checked_at": "2026-09-11T12:08:17.307103+00:00",
-  "new_count": 3,
+  "checked_at": "2026-09-11T18:06:44.966543+00:00",
+  "new_count": 4,
   "videos": [
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "GPT-6 Astra built a font playground",
-      "url": "https://www.youtube.com/watch?v=0NUm552iB3U",
-      "published": "2026-09-11T04:08:16+00:00"
+      "title": "GPT-Live-1 is now in the API",
+      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44",
+      "published": "2026-09-11T17:06:25+00:00"
     },
     {
-      "channel_name": "Kling AI",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Waiting for a savior?",
-      "url": "https://www.youtube.com/watch?v=_4J9jqEWLyA",
-      "published": "2026-09-11T11:53:49+00:00"
+      "title": "GPT-6 Astra handles the editing busywork",
+      "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA",
+      "published": "2026-09-11T15:00:24+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "AI News: The AI World is REALLY Scared Right Now",
+      "url": "https://www.youtube.com/watch?v=JwTCjarfJYw",
+      "published": "2026-09-11T15:00:00+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "MiniMax H3 Max in ElevenCreative.",
-      "url": "https://www.youtube.com/watch?v=XxSwHXp3gds",
-      "published": "2026-09-11T10:23:56+00:00"
+      "title": "Introducing Music v2.5",
+      "url": "https://www.youtube.com/watch?v=zXlVQ8rMJM0",
+      "published": "2026-09-11T16:28:10+00:00"
     }
   ]
 }
