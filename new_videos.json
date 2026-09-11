@@ -1,55 +1,48 @@
 {
-  "checked_at": "2026-09-10T18:07:33.033893+00:00",
-  "new_count": 7,
+  "checked_at": "2026-09-11T00:09:10.071040+00:00",
+  "new_count": 6,
   "videos": [
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "In Harmony",
-      "url": "https://www.youtube.com/watch?v=PbfXbDbCthA",
-      "published": "2026-09-10T17:29:32+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Weigh-In: BKFC HOLLYWOOD PERDOMO vs HILL | LIVE!",
+      "url": "https://www.youtube.com/watch?v=NI3Lmzl7m0U",
+      "published": "2026-09-11T00:05:30+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* You Look Like You Need Some Fights | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=hrjD7Zq5nVM",
+      "published": "2026-09-10T23:31:27+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Two blind brothers using ChatGPT to navigate life and run their nonprofit",
-      "url": "https://www.youtube.com/watch?v=qg_54P-oPgI",
-      "published": "2026-09-10T16:00:27+00:00"
+      "title": "Introducing the Agents API",
+      "url": "https://www.youtube.com/watch?v=2YHa1vhnmK0",
+      "published": "2026-09-10T19:26:05+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Helping a small business go big with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=mPAmXQnhv2E",
-      "published": "2026-09-10T16:00:09+00:00"
+      "title": "NVIDIA Bionemo Inference Runtime",
+      "url": "https://www.youtube.com/watch?v=pHQcVJrHveA",
+      "published": "2026-09-10T21:10:09+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Runway",
       "category": "AI",
-      "title": "Discovering new antibiotics with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=0XLGisanEAs",
-      "published": "2026-09-10T15:59:55+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Data agent in ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=MSiAd36bGeQ",
-      "published": "2026-09-10T15:07:22+00:00"
+      "title": "Connect Runway to ChatGPT Astra",
+      "url": "https://www.youtube.com/watch?v=KjPqQksDnvA",
+      "published": "2026-09-10T21:57:09+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "MiniMax H3 Is Here — Everything You NEED to Know",
-      "url": "https://www.youtube.com/watch?v=FwkWHkoKtcA",
-      "published": "2026-09-10T16:45:00+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Gemini Omni Flash 1.1 is here.",
-      "url": "https://www.youtube.com/watch?v=EhZPfc7Q8bM",
-      "published": "2026-09-10T14:04:05+00:00"
+      "title": "Create any SFX in ElevenCreative.",
+      "url": "https://www.youtube.com/watch?v=m4_GSe7jmZM",
+      "published": "2026-09-10T19:31:57+00:00"
     }
   ]
 }
