@@ -1,34 +1,41 @@
 {
-  "checked_at": "2026-09-11T18:06:44.966543+00:00",
-  "new_count": 4,
+  "checked_at": "2026-09-12T00:08:04.016225+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "GPT-Live-1 is now in the API",
-      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44",
-      "published": "2026-09-11T17:06:25+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BKFC 93 HOLLYWOOD PERDOMO vs HILL Full Pay Per View Event | Live!",
+      "url": "https://www.youtube.com/watch?v=MhL6L2GYhJA",
+      "published": "2026-07-21T20:26:43+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Countdown to BKFC HOLLYWOOD PERDOMO vs HILL and FREE LIVE FIGHTS!",
+      "url": "https://www.youtube.com/watch?v=T9aSYnGyWQI",
+      "published": "2026-09-05T00:12:25+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "A \"Butt Pump\" Shotgun ???",
+      "url": "https://www.youtube.com/watch?v=X0cKSsntPZ8",
+      "published": "2026-09-11T19:44:15+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "GPT-6 Astra handles the editing busywork",
-      "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA",
-      "published": "2026-09-11T15:00:24+00:00"
+      "title": "GPT-6 Astra added unexpected details",
+      "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE",
+      "published": "2026-09-11T21:00:04+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "MattVidPro AI",
       "category": "AI",
-      "title": "AI News: The AI World is REALLY Scared Right Now",
-      "url": "https://www.youtube.com/watch?v=JwTCjarfJYw",
-      "published": "2026-09-11T15:00:00+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Introducing Music v2.5",
-      "url": "https://www.youtube.com/watch?v=zXlVQ8rMJM0",
-      "published": "2026-09-11T16:28:10+00:00"
+      "title": "I Gave ChatGPT Images 2.5 Some VERY Weird Prompts",
+      "url": "https://www.youtube.com/watch?v=Q5-LJDxZlrg",
+      "published": "2026-09-11T19:21:01+00:00"
     }
   ]
 }
