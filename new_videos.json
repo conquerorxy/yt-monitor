@@ -1,27 +1,34 @@
 {
-  "checked_at": "2026-09-12T12:07:28.661631+00:00",
-  "new_count": 3,
+  "checked_at": "2026-09-12T18:07:11.139173+00:00",
+  "new_count": 4,
   "videos": [
     {
-      "channel_name": "BKFC",
+      "channel_name": "Kentucky Ballistics",
       "category": "猎奇",
-      "title": "Post-Event Press Conference: BKFC 93 HOLLYWOOD PERDOMO vs HILL | LIVE!",
-      "url": "https://www.youtube.com/watch?v=by8WbJKZ7wQ",
-      "published": "2026-09-12T04:21:39+00:00"
+      "title": "Pillow Silencer Part 2 (Shotgun)",
+      "url": "https://www.youtube.com/watch?v=3pq0IRi-FBQ",
+      "published": "2026-09-12T17:10:13+00:00"
     },
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Body shot did the job 🥊",
-      "url": "https://www.youtube.com/watch?v=axaYO2Q-Poo",
-      "published": "2026-09-12T03:10:11+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "GPT-6 Astra needs less babysitting",
+      "url": "https://www.youtube.com/watch?v=SiJGdlmdUms",
+      "published": "2026-09-12T15:00:30+00:00"
     },
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Old head got hands 👀",
-      "url": "https://www.youtube.com/watch?v=GV71LHabIoo",
-      "published": "2026-09-12T01:08:11+00:00"
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Something Is Seriously Wrong at Anthropic…",
+      "url": "https://www.youtube.com/watch?v=QP8PWvxpQ9I",
+      "published": "2026-09-12T17:08:10+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "GPT Image 2 vs 2.5 Sunburst",
+      "url": "https://www.youtube.com/watch?v=wqfWMe7malY",
+      "published": "2026-09-12T15:24:29+00:00"
     }
   ]
 }
