@@ -1,5 +1,27 @@
 {
-  "checked_at": "2026-09-12T06:07:40.620662+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-12T12:07:28.661631+00:00",
+  "new_count": 3,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Post-Event Press Conference: BKFC 93 HOLLYWOOD PERDOMO vs HILL | LIVE!",
+      "url": "https://www.youtube.com/watch?v=by8WbJKZ7wQ",
+      "published": "2026-09-12T04:21:39+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Body shot did the job 🥊",
+      "url": "https://www.youtube.com/watch?v=axaYO2Q-Poo",
+      "published": "2026-09-12T03:10:11+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Old head got hands 👀",
+      "url": "https://www.youtube.com/watch?v=GV71LHabIoo",
+      "published": "2026-09-12T01:08:11+00:00"
+    }
+  ]
 }
