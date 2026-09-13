@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-09-13T06:09:50.198512+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-13T12:08:07.802382+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "This was an illegal move…",
+      "url": "https://www.youtube.com/watch?v=UksB0IcgFLc",
+      "published": "2026-09-13T01:40:29+00:00"
+    }
+  ]
 }
