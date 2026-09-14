@@ -1,13 +1,34 @@
 {
-  "checked_at": "2026-09-13T18:06:41.822506+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-14T00:09:19.465801+00:00",
+  "new_count": 4,
   "videos": [
     {
-      "channel_name": "Exploring With Josh",
+      "channel_name": "Steve Ronin",
       "category": "猎奇",
-      "title": "We Found an Abandoned Nuclear Bunker That Looks Like Chernobyl",
-      "url": "https://www.youtube.com/watch?v=Ou9ceTvhUjI",
-      "published": "2026-09-13T17:43:35+00:00"
+      "title": "I Investigated Places in Japan Nobody Dares to Go",
+      "url": "https://www.youtube.com/watch?v=SN0OLb4ThkU",
+      "published": "2026-09-14T00:00:20+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They made these last couple seconds count",
+      "url": "https://www.youtube.com/watch?v=q-x5GtI32jY",
+      "published": "2026-09-14T00:08:19+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Bro got scooped up",
+      "url": "https://www.youtube.com/watch?v=PPc4Tkp1tt4",
+      "published": "2026-09-13T20:08:29+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "AI time freeze effect using Seedance 2.5 in ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=_JyomXlAcXM",
+      "published": "2026-09-13T18:12:28+00:00"
     }
   ]
 }
