@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-09-14T06:08:38.398790+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-14T12:08:30.581834+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://www.youtube.com/watch?v=uA5PiAXKGis",
+      "published": "2026-09-14T09:00:55+00:00"
+    }
+  ]
 }
