@@ -1,5 +1,20 @@
 {
-  "checked_at": "2026-09-15T06:08:18.888652+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-15T12:07:39.380223+00:00",
+  "new_count": 2,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He couldn’t continue",
+      "url": "https://www.youtube.com/watch?v=2x7vwtYOs4g",
+      "published": "2026-09-15T00:34:44+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "This All-in-One Tool Can Build and Automate Your Online Business",
+      "url": "https://www.youtube.com/watch?v=AUuFVfvq_JI",
+      "published": "2026-09-15T11:14:24+00:00"
+    }
+  ]
 }
