@@ -1,20 +1,41 @@
 {
-  "checked_at": "2026-09-15T12:07:39.380223+00:00",
-  "new_count": 2,
+  "checked_at": "2026-09-15T18:06:54.007931+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He couldn’t continue",
-      "url": "https://www.youtube.com/watch?v=2x7vwtYOs4g",
-      "published": "2026-09-15T00:34:44+00:00"
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Build Custom AI Infrastructure with NVIDIA NVLink Fusion",
+      "url": "https://www.youtube.com/watch?v=YkojG31MIBI",
+      "published": "2026-09-15T18:00:24+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "This All-in-One Tool Can Build and Automate Your Online Business",
-      "url": "https://www.youtube.com/watch?v=AUuFVfvq_JI",
-      "published": "2026-09-15T11:14:24+00:00"
+      "title": "Building More Energy Efficient AI Factories With NVIDIA DSX",
+      "url": "https://www.youtube.com/watch?v=4O1Gl4_xk3w",
+      "published": "2026-09-15T16:00:12+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "But I still came back for you",
+      "url": "https://www.youtube.com/watch?v=MLcyxqZ7RE4",
+      "published": "2026-09-15T15:00:08+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "The Actual Easiest AI Agent Setup",
+      "url": "https://www.youtube.com/watch?v=FxcYK5WOk1c",
+      "published": "2026-09-15T12:26:35+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Create AI Ads in Claude with ElevenLabs (Full Tutorial)",
+      "url": "https://www.youtube.com/watch?v=bw3eA-eSS4o",
+      "published": "2026-09-15T14:24:17+00:00"
     }
   ]
 }
