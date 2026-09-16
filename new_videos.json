@@ -1,41 +1,27 @@
 {
-  "checked_at": "2026-09-15T18:06:54.007931+00:00",
-  "new_count": 5,
+  "checked_at": "2026-09-16T00:08:23.472443+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "The 8 Bore Double Rifle (The Original Giant Slayer)",
+      "url": "https://www.youtube.com/watch?v=en5lNpNhKmA",
+      "published": "2026-09-15T21:42:20+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Build Custom AI Infrastructure with NVIDIA NVLink Fusion",
-      "url": "https://www.youtube.com/watch?v=YkojG31MIBI",
-      "published": "2026-09-15T18:00:24+00:00"
+      "title": "Stay on top of the pack with ChatGPT Work.",
+      "url": "https://www.youtube.com/watch?v=DhAsqpjliYw",
+      "published": "2026-09-15T23:31:15+00:00"
     },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Building More Energy Efficient AI Factories With NVIDIA DSX",
-      "url": "https://www.youtube.com/watch?v=4O1Gl4_xk3w",
-      "published": "2026-09-15T16:00:12+00:00"
-    },
-    {
-      "channel_name": "Kling AI",
-      "category": "AI",
-      "title": "But I still came back for you",
-      "url": "https://www.youtube.com/watch?v=MLcyxqZ7RE4",
-      "published": "2026-09-15T15:00:08+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "The Actual Easiest AI Agent Setup",
-      "url": "https://www.youtube.com/watch?v=FxcYK5WOk1c",
-      "published": "2026-09-15T12:26:35+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Create AI Ads in Claude with ElevenLabs (Full Tutorial)",
-      "url": "https://www.youtube.com/watch?v=bw3eA-eSS4o",
-      "published": "2026-09-15T14:24:17+00:00"
+      "title": "NVIDIA CEO Jensen Huang at the All-In Summit",
+      "url": "https://www.youtube.com/watch?v=CC380G7fyH0",
+      "published": "2026-09-15T18:07:19+00:00"
     }
   ]
 }
