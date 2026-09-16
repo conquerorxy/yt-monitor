@@ -1,27 +1,5 @@
 {
-  "checked_at": "2026-09-16T00:08:23.472443+00:00",
-  "new_count": 3,
-  "videos": [
-    {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "The 8 Bore Double Rifle (The Original Giant Slayer)",
-      "url": "https://www.youtube.com/watch?v=en5lNpNhKmA",
-      "published": "2026-09-15T21:42:20+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Stay on top of the pack with ChatGPT Work.",
-      "url": "https://www.youtube.com/watch?v=DhAsqpjliYw",
-      "published": "2026-09-15T23:31:15+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "NVIDIA CEO Jensen Huang at the All-In Summit",
-      "url": "https://www.youtube.com/watch?v=CC380G7fyH0",
-      "published": "2026-09-15T18:07:19+00:00"
-    }
-  ]
+  "checked_at": "2026-09-16T06:08:13.708646+00:00",
+  "new_count": 0,
+  "videos": []
 }
