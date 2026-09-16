@@ -1,13 +1,20 @@
 {
-  "checked_at": "2026-09-16T12:07:48.769445+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-16T18:07:48.791917+00:00",
+  "new_count": 2,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He was chasing him down",
-      "url": "https://www.youtube.com/watch?v=IDlnoMrUleM",
-      "published": "2026-09-16T01:45:03+00:00"
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Minecraft + ChatGPT (Holy Crap!)",
+      "url": "https://www.youtube.com/watch?v=nF45_dhsmWY",
+      "published": "2026-09-16T14:32:01+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Reception by ElevenAgents",
+      "url": "https://www.youtube.com/watch?v=3RojrjVVFSg",
+      "published": "2026-09-16T16:02:59+00:00"
     }
   ]
 }
