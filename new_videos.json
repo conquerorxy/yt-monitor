@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-09-16T06:08:13.708646+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-16T12:07:48.769445+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He was chasing him down",
+      "url": "https://www.youtube.com/watch?v=IDlnoMrUleM",
+      "published": "2026-09-16T01:45:03+00:00"
+    }
+  ]
 }
