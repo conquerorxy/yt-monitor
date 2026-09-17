@@ -1,20 +1,90 @@
 {
-  "checked_at": "2026-09-16T18:07:48.791917+00:00",
-  "new_count": 2,
+  "checked_at": "2026-09-17T00:08:09.344540+00:00",
+  "new_count": 12,
   "videos": [
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Meet ChatGPT: Ask Your First Question | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=4UTn7oWvSJc",
+      "published": "2026-09-16T22:29:47+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How to Ask ChatGPT Better Questions | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=P-8sCH6syag",
+      "published": "2026-09-16T22:29:43+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT to Organize Everyday Tasks | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=gKyEzP_jhZc",
+      "published": "2026-09-16T22:29:39+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How to Spot Scam Messages with ChatGPT | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=WY_PHjGilVs",
+      "published": "2026-09-16T22:29:36+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "ChatGPT Privacy: What Not to Share and When to Double-Check | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=dfAZbuAQxi8",
+      "published": "2026-09-16T22:29:31+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Create a Coloring Page with ChatGPT | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=4gYJxduFN3c",
+      "published": "2026-09-16T22:29:27+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Assess Usage and Value of ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=iZE2r-Vx5b8",
+      "published": "2026-09-16T19:03:38+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Advancing Infrastructure for the Era of Agentic AI | Ian Buck at AI Infra Summit 2026",
+      "url": "https://www.youtube.com/watch?v=RuXF7ck32b8",
+      "published": "2026-09-16T22:24:54+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "The Infrastructure of Intelligence: NVIDIA and OpenAI on a Decade of Building Frontier AI",
+      "url": "https://www.youtube.com/watch?v=KT89PEe9d7U",
+      "published": "2026-09-16T22:11:26+00:00"
+    },
+    {
+      "channel_name": "MattVidPro AI",
+      "category": "AI",
+      "title": "I Didn't Expect YuE2 to Sound THIS Good",
+      "url": "https://www.youtube.com/watch?v=dQVmJog7au8",
+      "published": "2026-09-16T23:45:18+00:00"
+    },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Minecraft + ChatGPT (Holy Crap!)",
-      "url": "https://www.youtube.com/watch?v=nF45_dhsmWY",
-      "published": "2026-09-16T14:32:01+00:00"
+      "title": "He Built The Ultimate Spy Tool (Free and Open-Source)",
+      "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU",
+      "published": "2026-09-16T20:57:15+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Reception by ElevenAgents",
-      "url": "https://www.youtube.com/watch?v=3RojrjVVFSg",
-      "published": "2026-09-16T16:02:59+00:00"
+      "title": "Bring your idea to life inside ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=ZoJgrmflhg0",
+      "published": "2026-09-16T20:23:24+00:00"
     }
   ]
 }
