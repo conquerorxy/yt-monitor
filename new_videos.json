@@ -1,41 +1,27 @@
 {
-  "checked_at": "2026-09-17T12:07:55.505793+00:00",
-  "new_count": 5,
+  "checked_at": "2026-09-17T18:07:44.449958+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "*NEW* Things Got Active Real Quick | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=rz6ALSiBSdY",
-      "published": "2026-09-17T02:51:27+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "These were a good last couple seconds",
-      "url": "https://www.youtube.com/watch?v=CsIXBs5tnlc",
-      "published": "2026-09-17T00:39:08+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Reimagining IT with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=Q_MEaNdMpZw",
-      "published": "2026-09-17T02:11:53+00:00"
+      "title": "Build Custom AI Infrastructure with NVIDIA NVLink Fusion",
+      "url": "https://www.youtube.com/watch?v=cr61seCie_c",
+      "published": "2026-09-17T17:51:28+00:00"
     },
     {
-      "channel_name": "Kling AI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "ODYSSEUS: The Fall is here!",
-      "url": "https://www.youtube.com/watch?v=KoIdyxiLGbY",
-      "published": "2026-09-17T03:32:52+00:00"
+      "title": "AI-RAN: 5 Things to Know",
+      "url": "https://www.youtube.com/watch?v=ehDCT62U-IA",
+      "published": "2026-09-17T16:39:53+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "Theoretically Media",
       "category": "AI",
-      "title": "Google is SO back...",
-      "url": "https://www.youtube.com/watch?v=thR9_VYJiQo",
-      "published": "2026-09-17T07:35:41+00:00"
+      "title": "This Cinematic AI Film Workflow Changes Everything",
+      "url": "https://www.youtube.com/watch?v=WKO-YgMQhLI",
+      "published": "2026-09-17T14:20:28+00:00"
     }
   ]
 }
