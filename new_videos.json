@@ -1,34 +1,83 @@
 {
-  "checked_at": "2026-09-18T12:07:41.539254+00:00",
-  "new_count": 4,
+  "checked_at": "2026-09-18T18:06:49.279150+00:00",
+  "new_count": 11,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He secured the choke 🫡",
-      "url": "https://www.youtube.com/watch?v=15-II4lx82Q",
-      "published": "2026-09-18T04:01:42+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Good stoppage",
-      "url": "https://www.youtube.com/watch?v=TbbsvWXRPrg",
-      "published": "2026-09-18T02:28:30+00:00"
-    },
-    {
-      "channel_name": "TheAIGRID",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "This New AI Could Be the Biggest Breakthrough Since ChatGPT - Jev",
-      "url": "https://www.youtube.com/watch?v=LYveAOjtqqM",
-      "published": "2026-09-18T05:52:57+00:00"
+      "title": "Use ChatGPT Work to ground analysis in your semantic layer",
+      "url": "https://www.youtube.com/watch?v=bbNTY8O0GTY",
+      "published": "2026-09-18T13:28:31+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "OpenAI's Astra class model JAILBROKE ITSELF...",
-      "url": "https://www.youtube.com/watch?v=NQQsAegQXuw",
-      "published": "2026-09-18T05:28:05+00:00"
+      "title": "Use ChatGPT Work to build dashboards from a business question",
+      "url": "https://www.youtube.com/watch?v=GzCsKuDgr6Q",
+      "published": "2026-09-18T13:27:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to tailor dashboards for every stakeholder",
+      "url": "https://www.youtube.com/watch?v=Wb8MhkpQpX8",
+      "published": "2026-09-18T13:27:02+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to help teams answer their own data questions",
+      "url": "https://www.youtube.com/watch?v=euED8JRunBA",
+      "published": "2026-09-18T13:25:54+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to turn product insights into a team action plan",
+      "url": "https://www.youtube.com/watch?v=wK0zWeVyLM4",
+      "published": "2026-09-18T13:25:37+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Use ChatGPT Work to build your data agent",
+      "url": "https://www.youtube.com/watch?v=cXUmFec2PNY",
+      "published": "2026-09-18T13:25:00+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Meet the Data Agent in ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=VMgEQ7ym9WU",
+      "published": "2026-09-18T13:24:22+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Why the AI Ecosystem Builds on NVIDIA - Jensen Huang at the All-In Summit",
+      "url": "https://www.youtube.com/watch?v=wgd9C8JYZEM",
+      "published": "2026-09-18T16:07:31+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Master Realistic AI Casting | Runway",
+      "url": "https://www.youtube.com/watch?v=ZK9NkUIqNZQ",
+      "published": "2026-09-18T16:49:23+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "From Traditional Filmmaking to AI Animation: Diane Shorthouse’s Journey with Kling AI",
+      "url": "https://www.youtube.com/watch?v=dn376baf_Ds",
+      "published": "2026-09-18T12:00:26+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "AI News: All AI Labs Want To Slow Down (Except One)",
+      "url": "https://www.youtube.com/watch?v=Kof2VcHTjrk",
+      "published": "2026-09-18T15:12:55+00:00"
     }
   ]
 }
