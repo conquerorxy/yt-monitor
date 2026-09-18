@@ -1,27 +1,34 @@
 {
-  "checked_at": "2026-09-17T18:07:44.449958+00:00",
-  "new_count": 3,
+  "checked_at": "2026-09-18T00:07:52.676406+00:00",
+  "new_count": 4,
   "videos": [
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Build Custom AI Infrastructure with NVIDIA NVLink Fusion",
-      "url": "https://www.youtube.com/watch?v=cr61seCie_c",
-      "published": "2026-09-17T17:51:28+00:00"
+      "title": "Astra for Law: Frontier intelligence built for your practice.",
+      "url": "https://www.youtube.com/watch?v=YeeGHCixr7o",
+      "published": "2026-09-17T20:41:08+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "AI-RAN: 5 Things to Know",
-      "url": "https://www.youtube.com/watch?v=ehDCT62U-IA",
-      "published": "2026-09-17T16:39:53+00:00"
+      "title": "ChatGPT for Word is now available",
+      "url": "https://www.youtube.com/watch?v=lxVMdEpe0RQ",
+      "published": "2026-09-17T19:12:10+00:00"
     },
     {
-      "channel_name": "Theoretically Media",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "This Cinematic AI Film Workflow Changes Everything",
-      "url": "https://www.youtube.com/watch?v=WKO-YgMQhLI",
-      "published": "2026-09-17T14:20:28+00:00"
+      "title": "Jump Trading points GPT-6 Astra to its most ambiguous, difficult tasks",
+      "url": "https://www.youtube.com/watch?v=s495saGYWFg",
+      "published": "2026-09-17T18:03:17+00:00"
+    },
+    {
+      "channel_name": "Pika Labs",
+      "category": "AI",
+      "title": "The new Pika platform",
+      "url": "https://www.youtube.com/watch?v=zIyjTj2dk10",
+      "published": "2026-09-17T18:01:33+00:00"
     }
   ]
 }
