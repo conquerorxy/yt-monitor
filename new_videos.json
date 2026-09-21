@@ -1,5 +1,27 @@
 {
-  "checked_at": "2026-09-21T06:08:37.294901+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-21T12:07:18.882315+00:00",
+  "new_count": 3,
+  "videos": [
+    {
+      "channel_name": "Steve Ronin",
+      "category": "猎奇",
+      "title": "No One was Suppose to Find this Inside Japans Most Haunted Forest",
+      "url": "https://www.youtube.com/watch?v=aTvmo6qMHYo",
+      "published": "2026-09-21T00:00:13+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "These were some nice exchanges",
+      "url": "https://www.youtube.com/watch?v=g_zFZ5SW4VU",
+      "published": "2026-09-21T02:08:43+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "OpenAI Just Revealed Something Terrifying About Its AI Models",
+      "url": "https://www.youtube.com/watch?v=0QxW7f_mwf8",
+      "published": "2026-09-21T08:45:27+00:00"
+    }
+  ]
 }
