@@ -1,27 +1,48 @@
 {
-  "checked_at": "2026-09-21T12:07:18.882315+00:00",
-  "new_count": 3,
+  "checked_at": "2026-09-21T18:07:23.503389+00:00",
+  "new_count": 6,
   "videos": [
     {
-      "channel_name": "Steve Ronin",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "No One was Suppose to Find this Inside Japans Most Haunted Forest",
-      "url": "https://www.youtube.com/watch?v=aTvmo6qMHYo",
-      "published": "2026-09-21T00:00:13+00:00"
+      "title": "Countdown to BKFC 94 MANCHESTER TILL vs ROMERO and FREE LIVE FIGHTS!",
+      "url": "https://www.youtube.com/watch?v=KCZu_9ccFc8",
+      "published": "2026-09-21T15:33:43+00:00"
     },
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "These were some nice exchanges",
-      "url": "https://www.youtube.com/watch?v=g_zFZ5SW4VU",
-      "published": "2026-09-21T02:08:43+00:00"
+      "title": "Weigh-In: BKFC 94 MANCHESTER TILL vs ROMERO | LIVE!",
+      "url": "https://www.youtube.com/watch?v=biJatXDkgDE",
+      "published": "2026-09-21T15:31:14+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Fight Week Press Conference: BKFC 94 MANCHESTER TILL vs ROMERO | LIVE!",
+      "url": "https://www.youtube.com/watch?v=nUYI5J0Pru0",
+      "published": "2026-09-21T15:27:31+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "OpenAI Just Revealed Something Terrifying About Its AI Models",
-      "url": "https://www.youtube.com/watch?v=0QxW7f_mwf8",
-      "published": "2026-09-21T08:45:27+00:00"
+      "title": "“It Blew Me Away” | Box’s First Look at GPT-6 Astra",
+      "url": "https://www.youtube.com/watch?v=QFxDF30qf_4",
+      "published": "2026-09-21T16:13:36+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This Robot Looks DEMONIC... On Purpose?",
+      "url": "https://www.youtube.com/watch?v=rcUTZysF9s4",
+      "published": "2026-09-21T12:43:38+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Introducing Studio 4.0, the agentic video editor in ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=P-OZwbegYss",
+      "published": "2026-09-21T17:13:25+00:00"
     }
   ]
 }
