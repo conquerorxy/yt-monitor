@@ -1,41 +1,5 @@
 {
-  "checked_at": "2026-09-22T00:09:13.611037+00:00",
-  "new_count": 5,
-  "videos": [
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Figma Gave GPT-6 Astra a Moonshot. Here's what happened.",
-      "url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY",
-      "published": "2026-09-21T19:25:46+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra",
-      "url": "https://www.youtube.com/watch?v=p7TjXroM4ak",
-      "published": "2026-09-21T19:22:03+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "“A Staff Engineer Collaborator” | Notion’s First Look at GPT-6 Astra",
-      "url": "https://www.youtube.com/watch?v=dtNlpZI86Dk",
-      "published": "2026-09-21T19:17:35+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "“A Jaw Drop. Literally.” How Cooley Is Reimagining IPOs with OpenAI",
-      "url": "https://www.youtube.com/watch?v=4swQ0YknTLs",
-      "published": "2026-09-21T19:02:38+00:00"
-    },
-    {
-      "channel_name": "Theoretically Media",
-      "category": "AI",
-      "title": "Seedance 2.5 Just Got a Load of Awesome New Features!",
-      "url": "https://www.youtube.com/watch?v=ky9Gj5N3wyQ",
-      "published": "2026-09-21T22:04:40+00:00"
-    }
-  ]
+  "checked_at": "2026-09-22T06:08:14.960984+00:00",
+  "new_count": 0,
+  "videos": []
 }
