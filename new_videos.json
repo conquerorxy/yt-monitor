@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-09-22T06:08:14.960984+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-22T12:07:34.241194+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "This was a good start",
+      "url": "https://www.youtube.com/watch?v=F2dfJ2uGfzY",
+      "published": "2026-09-22T01:53:43+00:00"
+    }
+  ]
 }
