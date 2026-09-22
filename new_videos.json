@@ -1,13 +1,34 @@
 {
-  "checked_at": "2026-09-22T12:07:34.241194+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-22T18:08:03.736307+00:00",
+  "new_count": 4,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "This was a good start",
-      "url": "https://www.youtube.com/watch?v=F2dfJ2uGfzY",
-      "published": "2026-09-22T01:53:43+00:00"
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Introducing DIFFUSE | Runway",
+      "url": "https://www.youtube.com/watch?v=4oNzKoODTVA",
+      "published": "2026-09-22T17:02:25+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Elon Musk Just Released Grok 4.7 — And It’s NOT What We Expected",
+      "url": "https://www.youtube.com/watch?v=wB5eMyhFfRQ",
+      "published": "2026-09-22T12:45:13+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "AI labs may be hiding their biggest breakthroughs",
+      "url": "https://www.youtube.com/watch?v=p2i-fcx0G0M",
+      "published": "2026-09-22T12:20:07+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "GPT Image 2.5 Is Here — Everything You NEED to Know",
+      "url": "https://www.youtube.com/watch?v=20vo5nW9yXI",
+      "published": "2026-09-22T12:48:12+00:00"
     }
   ]
 }
