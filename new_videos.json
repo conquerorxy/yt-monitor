@@ -1,48 +1,41 @@
 {
-  "checked_at": "2026-09-21T18:07:23.503389+00:00",
-  "new_count": 6,
+  "checked_at": "2026-09-22T00:09:13.611037+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Countdown to BKFC 94 MANCHESTER TILL vs ROMERO and FREE LIVE FIGHTS!",
-      "url": "https://www.youtube.com/watch?v=KCZu_9ccFc8",
-      "published": "2026-09-21T15:33:43+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Weigh-In: BKFC 94 MANCHESTER TILL vs ROMERO | LIVE!",
-      "url": "https://www.youtube.com/watch?v=biJatXDkgDE",
-      "published": "2026-09-21T15:31:14+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Fight Week Press Conference: BKFC 94 MANCHESTER TILL vs ROMERO | LIVE!",
-      "url": "https://www.youtube.com/watch?v=nUYI5J0Pru0",
-      "published": "2026-09-21T15:27:31+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Figma Gave GPT-6 Astra a Moonshot. Here's what happened.",
+      "url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY",
+      "published": "2026-09-21T19:25:46+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "“It Blew Me Away” | Box’s First Look at GPT-6 Astra",
-      "url": "https://www.youtube.com/watch?v=QFxDF30qf_4",
-      "published": "2026-09-21T16:13:36+00:00"
+      "title": "One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra",
+      "url": "https://www.youtube.com/watch?v=p7TjXroM4ak",
+      "published": "2026-09-21T19:22:03+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "This Robot Looks DEMONIC... On Purpose?",
-      "url": "https://www.youtube.com/watch?v=rcUTZysF9s4",
-      "published": "2026-09-21T12:43:38+00:00"
+      "title": "“A Staff Engineer Collaborator” | Notion’s First Look at GPT-6 Astra",
+      "url": "https://www.youtube.com/watch?v=dtNlpZI86Dk",
+      "published": "2026-09-21T19:17:35+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Introducing Studio 4.0, the agentic video editor in ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=P-OZwbegYss",
-      "published": "2026-09-21T17:13:25+00:00"
+      "title": "“A Jaw Drop. Literally.” How Cooley Is Reimagining IPOs with OpenAI",
+      "url": "https://www.youtube.com/watch?v=4swQ0YknTLs",
+      "published": "2026-09-21T19:02:38+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "Seedance 2.5 Just Got a Load of Awesome New Features!",
+      "url": "https://www.youtube.com/watch?v=ky9Gj5N3wyQ",
+      "published": "2026-09-21T22:04:40+00:00"
     }
   ]
 }
