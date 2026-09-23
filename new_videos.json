@@ -1,5 +1,34 @@
 {
-  "checked_at": "2026-09-23T06:08:07.224524+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-23T12:07:59.888196+00:00",
+  "new_count": 4,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Good Scrap 🔥",
+      "url": "https://www.youtube.com/watch?v=QpQvVKS994k",
+      "published": "2026-09-23T06:49:35+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=K6wWH__Rv2k",
+      "published": "2026-09-23T02:05:01+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* Fights to Watch While You Kill Some Time | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=xWgnLI7pb9w",
+      "published": "2026-09-23T01:47:08+00:00"
+    },
+    {
+      "channel_name": "Pika Labs",
+      "category": "AI",
+      "title": "Seedance 2.5 Draft Mode on Pika",
+      "url": "https://www.youtube.com/watch?v=haLaF-FI6kI",
+      "published": "2026-09-23T02:07:55+00:00"
+    }
+  ]
 }
