@@ -1,55 +1,13 @@
 {
-  "checked_at": "2026-09-23T20:56:43.160421+00:00",
-  "new_count": 7,
+  "checked_at": "2026-09-24T02:38:26.920447+00:00",
+  "new_count": 1,
   "videos": [
     {
-      "channel_name": "OpenAI",
+      "channel_name": "MattVidPro AI",
       "category": "AI",
-      "title": "Today’s forecast? Nothing but 80s, baby.",
-      "url": "https://www.youtube.com/watch?v=rmDu2sSBIrw",
-      "published": "2026-09-23T18:48:52+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Get Stuff Done with ChatGPT Voice",
-      "url": "https://www.youtube.com/watch?v=96ogPwN9ykM",
-      "published": "2026-09-23T17:11:13+00:00"
-    },
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "Create your own voices with Gemini 3.8 text-to-speech",
-      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
-      "published": "2026-09-23T15:23:38+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "NVIDIA CEO Jensen Huang on The Ezra Klein Show",
-      "url": "https://www.youtube.com/watch?v=hirhw-LZL6M",
-      "published": "2026-09-23T18:03:25+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "We got @unsloth a DGX Station!",
-      "url": "https://www.youtube.com/watch?v=vFXpC3GOe0E",
-      "published": "2026-09-23T16:00:18+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Runway is now in DaVinci Resolve | Runway",
-      "url": "https://www.youtube.com/watch?v=hcAMFjvwduI",
-      "published": "2026-09-23T20:10:32+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "I hate it when they do this!",
-      "url": "https://www.youtube.com/watch?v=nsA_HeY3idE",
-      "published": "2026-09-23T16:41:20+00:00"
+      "title": "Opus 5.5, GPT-6 Sol & Luna TESTED on Creative Ideas",
+      "url": "https://www.youtube.com/watch?v=2WyFHZ6lkWE",
+      "published": "2026-09-23T23:40:23+00:00"
     }
   ]
 }
