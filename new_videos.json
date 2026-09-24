@@ -1,13 +1,27 @@
 {
-  "checked_at": "2026-09-24T02:38:26.920447+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-24T10:54:58.104669+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "MattVidPro AI",
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=wmF14geXDuk",
+      "published": "2026-09-24T02:08:12+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
       "category": "AI",
-      "title": "Opus 5.5, GPT-6 Sol & Luna TESTED on Creative Ideas",
-      "url": "https://www.youtube.com/watch?v=2WyFHZ6lkWE",
-      "published": "2026-09-23T23:40:23+00:00"
+      "title": "Claude Opus 5.5 Just Did Something That Looks Like AGI",
+      "url": "https://www.youtube.com/watch?v=ky_T22Lw5rM",
+      "published": "2026-09-24T10:15:15+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "Claude JUST found hidden DNA...",
+      "url": "https://www.youtube.com/watch?v=H7KruLVX2Rk",
+      "published": "2026-09-24T05:24:14+00:00"
     }
   ]
 }
