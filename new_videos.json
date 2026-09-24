@@ -1,20 +1,13 @@
 {
-  "checked_at": "2026-09-24T16:17:17.873613+00:00",
-  "new_count": 2,
+  "checked_at": "2026-09-24T21:00:59.637003+00:00",
+  "new_count": 1,
   "videos": [
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Fight Week Press Conference: BKFC 94 MANCHESTER TILL vs ROMERO | LIVE!",
-      "url": "https://www.youtube.com/watch?v=nUYI5J0Pru0",
-      "published": "2026-09-24T14:47:44+00:00"
-    },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "10 Years of NVIDIA DGX: From One System to AI Factories",
-      "url": "https://www.youtube.com/watch?v=xAgq8ByWK0M",
-      "published": "2026-09-24T16:00:27+00:00"
+      "title": "10 Years of NVIDIA DGX",
+      "url": "https://www.youtube.com/watch?v=AIH_9dOpAmU",
+      "published": "2026-09-24T17:49:58+00:00"
     }
   ]
 }
