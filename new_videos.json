@@ -1,13 +1,20 @@
 {
-  "checked_at": "2026-09-24T21:00:59.637003+00:00",
-  "new_count": 1,
+  "checked_at": "2026-09-25T02:55:14.082971+00:00",
+  "new_count": 2,
   "videos": [
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "10 Years of NVIDIA DGX",
-      "url": "https://www.youtube.com/watch?v=AIH_9dOpAmU",
-      "published": "2026-09-24T17:49:58+00:00"
+      "title": "5 Prompts For Every ChatGPT New Feature",
+      "url": "https://www.youtube.com/watch?v=SUtGm-nr4Hk",
+      "published": "2026-09-24T21:27:54+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "Meta Won? Alibaba's \"Seedance Killer\" & AI Audio Levels Up!",
+      "url": "https://www.youtube.com/watch?v=U4231qULtm8",
+      "published": "2026-09-24T21:08:10+00:00"
     }
   ]
 }
