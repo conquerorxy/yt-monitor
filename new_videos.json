@@ -1,20 +1,27 @@
 {
-  "checked_at": "2026-09-25T02:55:14.082971+00:00",
-  "new_count": 2,
+  "checked_at": "2026-09-25T10:56:12.494467+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "5 Prompts For Every ChatGPT New Feature",
-      "url": "https://www.youtube.com/watch?v=SUtGm-nr4Hk",
-      "published": "2026-09-24T21:27:54+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BKFC 94 Main Event Preview! Full Fights: Darren Till vs Chalmers & Yoel Romero vs Theo Doukas",
+      "url": "https://www.youtube.com/watch?v=msy-MAR5QEM",
+      "published": "2026-09-24T21:03:41+00:00"
     },
     {
-      "channel_name": "Theoretically Media",
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They stopped this",
+      "url": "https://www.youtube.com/watch?v=xCH5B2L3EdI",
+      "published": "2026-09-25T02:18:04+00:00"
+    },
+    {
+      "channel_name": "Pika Labs",
       "category": "AI",
-      "title": "Meta Won? Alibaba's \"Seedance Killer\" & AI Audio Levels Up!",
-      "url": "https://www.youtube.com/watch?v=U4231qULtm8",
-      "published": "2026-09-24T21:08:10+00:00"
+      "title": "Grok Bot on Pika API Club",
+      "url": "https://www.youtube.com/watch?v=MoXwWtLTw6o",
+      "published": "2026-09-24T23:58:13+00:00"
     }
   ]
 }
