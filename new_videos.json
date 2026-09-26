@@ -1,27 +1,5 @@
 {
-  "checked_at": "2026-09-26T10:37:18.248465+00:00",
-  "new_count": 3,
-  "videos": [
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=Ytr75eTrNbI",
-      "published": "2026-09-26T02:50:18+00:00"
-    },
-    {
-      "channel_name": "TheAIGRID",
-      "category": "AI",
-      "title": "Google Just Took  A Massive Step Towards AGI",
-      "url": "https://www.youtube.com/watch?v=s3WB5SSJc8w",
-      "published": "2026-09-26T00:00:07+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!",
-      "url": "https://www.youtube.com/watch?v=aDpIra7NFuE",
-      "published": "2026-09-26T02:37:49+00:00"
-    }
-  ]
+  "checked_at": "2026-09-26T15:31:13.681077+00:00",
+  "new_count": 0,
+  "videos": []
 }
