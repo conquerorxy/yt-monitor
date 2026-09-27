@@ -1,5 +1,20 @@
 {
-  "checked_at": "2026-09-27T03:02:25.825090+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-27T11:09:45.224322+00:00",
+  "new_count": 2,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Post-Event Press Conference: BKFC 94 MANCHESTER TILL vs ROMERO | LIVE!",
+      "url": "https://www.youtube.com/watch?v=yKFjRphCJmI",
+      "published": "2026-09-26T23:25:36+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=_kDX_YQcg1g",
+      "published": "2026-09-27T03:31:08+00:00"
+    }
+  ]
 }
