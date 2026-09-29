@@ -1,5 +1,41 @@
 {
-  "checked_at": "2026-09-29T03:40:18.234867+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-29T11:56:09.968260+00:00",
+  "new_count": 5,
+  "videos": [
+    {
+      "channel_name": "Steve Ronin",
+      "category": "猎奇",
+      "title": "What Are They Hiding? Inside Japan's GATES OF HELL",
+      "url": "https://www.youtube.com/watch?v=KapGtV3xivg",
+      "published": "2026-09-28T23:00:29+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "2 friends duke it out",
+      "url": "https://www.youtube.com/watch?v=mCByGQyHdBE",
+      "published": "2026-09-29T02:45:23+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* Throw This On While You Destroy Some Takeout | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=UgKo4lFIHOc",
+      "published": "2026-09-29T00:43:16+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "The Defender's Window at enterprise scale with Standard Chartered",
+      "url": "https://www.youtube.com/watch?v=a75xDflRooI",
+      "published": "2026-09-29T10:01:43+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Building the partner ecosystem with Sophos",
+      "url": "https://www.youtube.com/watch?v=zoohZ1BiHs0",
+      "published": "2026-09-29T10:00:28+00:00"
+    }
+  ]
 }
