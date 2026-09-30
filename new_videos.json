@@ -1,5 +1,48 @@
 {
-  "checked_at": "2026-09-30T03:27:25.950342+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-09-30T11:44:03.623389+00:00",
+  "new_count": 6,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Ref caught that quick 👀",
+      "url": "https://www.youtube.com/watch?v=fyY-WOwQF04",
+      "published": "2026-09-30T05:15:15+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "This Got Wild FAST 😭",
+      "url": "https://www.youtube.com/watch?v=QmoKzsYrfOk",
+      "published": "2026-09-30T03:35:19+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Back and forth all fight 🔥",
+      "url": "https://www.youtube.com/watch?v=05oOFsFhahk",
+      "published": "2026-09-29T22:41:54+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "OpenAI Just Revealed Dots… This Changes ChatGPT Forever",
+      "url": "https://www.youtube.com/watch?v=o3YTzebEs18",
+      "published": "2026-09-30T09:59:06+00:00"
+    },
+    {
+      "channel_name": "MattVidPro AI",
+      "category": "AI",
+      "title": "OpenAI's Answer to Opus 5.5? DevDay 2026 Reaction",
+      "url": "https://www.youtube.com/watch?v=NQ4Aoe8wTC0",
+      "published": "2026-09-30T00:00:56+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "OpenAI Cooked with Dots, But What Will It Cost You?",
+      "url": "https://www.youtube.com/watch?v=kVpXPHYXCG0",
+      "published": "2026-09-29T22:07:53+00:00"
+    }
+  ]
 }
