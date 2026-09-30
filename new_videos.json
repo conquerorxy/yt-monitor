@@ -1,41 +1,41 @@
 {
-  "checked_at": "2026-09-30T17:24:13.404965+00:00",
+  "checked_at": "2026-09-30T21:45:02.500435+00:00",
   "new_count": 5,
   "videos": [
     {
-      "channel_name": "Steve Ronin",
-      "category": "猎奇",
-      "title": "Would you go on a date here?  #abandonedplaces #urbex #steveronin",
-      "url": "https://www.youtube.com/watch?v=1r9Pgbp8DMo",
-      "published": "2026-09-30T16:00:11+00:00"
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
+      "url": "https://www.youtube.com/watch?v=UPmU8AG_548",
+      "published": "2026-09-30T19:30:29+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA DOCA Skills vs No Skills: Building RDMA on NVIDIA BlueField-3 with Fewer Commands & Less Code",
+      "url": "https://www.youtube.com/watch?v=vmAIpEHrCok",
+      "published": "2026-09-30T19:09:36+00:00"
     },
     {
       "channel_name": "Runway",
       "category": "AI",
-      "title": "Build an Ad Studio with Runway Dev | Runway",
-      "url": "https://www.youtube.com/watch?v=QNPkT1m2ifM",
-      "published": "2026-09-30T15:13:13+00:00"
+      "title": "Introducing Praxis-1 | Runway",
+      "url": "https://www.youtube.com/watch?v=sXiLq_3TaAI",
+      "published": "2026-09-30T18:07:08+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "Runway",
       "category": "AI",
-      "title": "The Hands Down Best Coding Model Right Now",
-      "url": "https://www.youtube.com/watch?v=c7twMUavy5Q",
-      "published": "2026-09-30T12:15:21+00:00"
+      "title": "Introducing Runway Ads | Runway",
+      "url": "https://www.youtube.com/watch?v=yeRj7xGYUoM",
+      "published": "2026-09-30T17:40:57+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "Pika Labs",
       "category": "AI",
-      "title": "Eleven v4 is free for the next two weeks.",
-      "url": "https://www.youtube.com/watch?v=8zw97ydkksA",
-      "published": "2026-09-30T15:43:41+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Eleven v4 Is Here - Everything You NEED to Know",
-      "url": "https://www.youtube.com/watch?v=WEyI3KL16Fs",
-      "published": "2026-09-30T15:35:24+00:00"
+      "title": "Ideogram 4.5 on Pika",
+      "url": "https://www.youtube.com/watch?v=1rNMKC0vm2k",
+      "published": "2026-09-30T21:03:31+00:00"
     }
   ]
 }
