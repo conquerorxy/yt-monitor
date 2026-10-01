@@ -1,5 +1,41 @@
 {
-  "checked_at": "2026-10-01T03:32:45.168956+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-01T12:12:59.211902+00:00",
+  "new_count": 5,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Lowkey ate the punches 👀",
+      "url": "https://www.youtube.com/watch?v=K6PlP4pYric",
+      "published": "2026-10-01T02:51:18+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Superman punch 🤜",
+      "url": "https://www.youtube.com/watch?v=la636T3iNAc",
+      "published": "2026-10-01T01:54:38+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Backyard boxers go at it 🥊",
+      "url": "https://www.youtube.com/watch?v=uhMyo1DsP78",
+      "published": "2026-10-01T00:17:47+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Meet The Startup: Probabl: by the Creators of Scikit-Learn",
+      "url": "https://www.youtube.com/watch?v=z1t-bp9UC3E",
+      "published": "2026-10-01T11:31:39+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Googles New Gemini 4 Argon is Now The Worlds Smartest AI",
+      "url": "https://www.youtube.com/watch?v=FfAYjDA35gY",
+      "published": "2026-10-01T08:15:24+00:00"
+    }
+  ]
 }
