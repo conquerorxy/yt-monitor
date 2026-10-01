@@ -1,41 +1,5 @@
 {
-  "checked_at": "2026-09-30T21:45:02.500435+00:00",
-  "new_count": 5,
-  "videos": [
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
-      "url": "https://www.youtube.com/watch?v=UPmU8AG_548",
-      "published": "2026-09-30T19:30:29+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "NVIDIA DOCA Skills vs No Skills: Building RDMA on NVIDIA BlueField-3 with Fewer Commands & Less Code",
-      "url": "https://www.youtube.com/watch?v=vmAIpEHrCok",
-      "published": "2026-09-30T19:09:36+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Introducing Praxis-1 | Runway",
-      "url": "https://www.youtube.com/watch?v=sXiLq_3TaAI",
-      "published": "2026-09-30T18:07:08+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Introducing Runway Ads | Runway",
-      "url": "https://www.youtube.com/watch?v=yeRj7xGYUoM",
-      "published": "2026-09-30T17:40:57+00:00"
-    },
-    {
-      "channel_name": "Pika Labs",
-      "category": "AI",
-      "title": "Ideogram 4.5 on Pika",
-      "url": "https://www.youtube.com/watch?v=1rNMKC0vm2k",
-      "published": "2026-09-30T21:03:31+00:00"
-    }
-  ]
+  "checked_at": "2026-10-01T03:32:45.168956+00:00",
+  "new_count": 0,
+  "videos": []
 }
