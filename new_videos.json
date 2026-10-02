@@ -1,5 +1,13 @@
 {
-  "checked_at": "2026-10-02T03:32:47.888436+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-02T11:42:31.094668+00:00",
+  "new_count": 1,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They were really throwing",
+      "url": "https://www.youtube.com/watch?v=qeLVAQilUgU",
+      "published": "2026-10-02T01:54:57+00:00"
+    }
+  ]
 }
