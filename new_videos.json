@@ -1,13 +1,27 @@
 {
-  "checked_at": "2026-10-02T11:42:31.094668+00:00",
-  "new_count": 1,
+  "checked_at": "2026-10-02T17:13:30.749723+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "They were really throwing",
-      "url": "https://www.youtube.com/watch?v=qeLVAQilUgU",
-      "published": "2026-10-02T01:54:57+00:00"
+      "title": "WEIGH-INS: BKFC AUSTRALIA KUHNE vs CURRAN",
+      "url": "https://www.youtube.com/watch?v=utXjt2gPMYY",
+      "published": "2026-10-02T15:06:22+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Accelerating No-Code Enterprise AI: Inside Simplismart’s NVIDIA Inception Journey",
+      "url": "https://www.youtube.com/watch?v=UxOQ2qyY6Qo",
+      "published": "2026-10-02T16:00:20+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
+      "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
+      "published": "2026-10-02T15:00:16+00:00"
     }
   ]
 }
