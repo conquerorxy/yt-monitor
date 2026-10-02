@@ -1,48 +1,5 @@
 {
-  "checked_at": "2026-10-01T22:12:59.291421+00:00",
-  "new_count": 6,
-  "videos": [
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "The dots demo, take two | OpenAI DevDay 2026",
-      "url": "https://www.youtube.com/watch?v=fHEIw5CcN5U",
-      "published": "2026-10-01T17:20:52+00:00"
-    },
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "From deepfakes to DNA: the science of watermarking AI",
-      "url": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
-      "published": "2026-10-01T16:37:46+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "What does “fungible” mean for AI infrastructure?",
-      "url": "https://www.youtube.com/watch?v=4VGqc9Xzx0M",
-      "published": "2026-10-01T13:04:11+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Introducing Continuum: A Real-Time Video Operating System | Runway Labs",
-      "url": "https://www.youtube.com/watch?v=K7Q7FESRHJY",
-      "published": "2026-10-01T15:45:30+00:00"
-    },
-    {
-      "channel_name": "Wes Roth",
-      "category": "AI",
-      "title": "GEMINI 4 is nuts...",
-      "url": "https://www.youtube.com/watch?v=Sy1Fjf-H-Qg",
-      "published": "2026-10-01T12:53:12+00:00"
-    },
-    {
-      "channel_name": "Theoretically Media",
-      "category": "AI",
-      "title": "Kling 4! Gemini 4! ElevenLabs v4! Ideogram 4.5! Everything Goes Four!",
-      "url": "https://www.youtube.com/watch?v=U9tFP81PSbQ",
-      "published": "2026-10-01T21:06:59+00:00"
-    }
-  ]
+  "checked_at": "2026-10-02T03:32:47.888436+00:00",
+  "new_count": 0,
+  "videos": []
 }
