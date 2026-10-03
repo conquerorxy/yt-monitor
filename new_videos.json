@@ -1,27 +1,13 @@
 {
-  "checked_at": "2026-10-03T15:32:37.050252+00:00",
-  "new_count": 3,
+  "checked_at": "2026-10-03T20:26:48.884785+00:00",
+  "new_count": 1,
   "videos": [
     {
-      "channel_name": "BKFC",
+      "channel_name": "Exploring With Josh",
       "category": "猎奇",
-      "title": "BKFC FIGHT NIGHT AUSTRALIA KUHNE vs CURRAN",
-      "url": "https://www.youtube.com/watch?v=29sZPVeeX-0",
-      "published": "2026-10-03T15:12:27+00:00"
-    },
-    {
-      "channel_name": "Kling AI",
-      "category": "AI",
-      "title": "Kling 4.0 Creator Highlights",
-      "url": "https://www.youtube.com/watch?v=4JyZUM7fdbE",
-      "published": "2026-10-03T14:00:25+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Eleven v4 is free for the next 10 days.",
-      "url": "https://www.youtube.com/watch?v=7UsscWi4ubU",
-      "published": "2026-10-03T13:40:38+00:00"
+      "title": "We Bought A Conjuring House - Failed Exorcism of Ed & Lorraine Warren",
+      "url": "https://www.youtube.com/watch?v=n8R8ix0RMrE",
+      "published": "2026-10-03T17:03:56+00:00"
     }
   ]
 }
