@@ -1,5 +1,34 @@
 {
-  "checked_at": "2026-10-03T03:17:19.323199+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-03T10:55:57.793960+00:00",
+  "new_count": 4,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Countdown to BKFC FIGHT NIGHT AUSTRALIA KUHNE vs CURRAN and FREE LIVE FIGHTS!",
+      "url": "https://www.youtube.com/watch?v=JzQRC2YMsgg",
+      "published": "2026-10-03T09:17:59+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Countdown to BKFC FIGHT NIGHT BETHLEHEM: CISNEROS vs PETERSEN and FREE LIVE FIGHTS!",
+      "url": "https://www.youtube.com/watch?v=BvbY0SL4H8I",
+      "published": "2026-10-03T07:44:45+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Weigh In: BKFC FIGHT NIGHT BETHLEHEM CISNEROS vs PETERSEN | LIVE!",
+      "url": "https://www.youtube.com/watch?v=Nwlklvzy40k",
+      "published": "2026-10-03T07:17:04+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* STREETBEEFS Super Session | 100 Minutes of MMA & Boxing",
+      "url": "https://www.youtube.com/watch?v=_TGRt_IasT8",
+      "published": "2026-10-03T05:58:19+00:00"
+    }
+  ]
 }
