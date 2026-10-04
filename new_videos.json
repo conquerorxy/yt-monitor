@@ -1,5 +1,125 @@
 {
-  "checked_at": "2026-10-04T03:45:12.316810+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-04T11:38:00.626311+00:00",
+  "new_count": 17,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=nlv2guqpszY",
+      "published": "2026-10-04T02:35:55+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Meet KLING 4.0 | You Call the Shots",
+      "url": "https://www.youtube.com/watch?v=nlM7kL3kv_Y",
+      "published": "2026-09-28T15:30:16+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "The Beat | Made with KLING 4.0",
+      "url": "https://www.youtube.com/watch?v=w3397LF5MAc",
+      "published": "2026-09-28T14:59:23+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "From Traditional Filmmaking to AI Animation: Diane Shorthouse’s Journey with Kling AI",
+      "url": "https://www.youtube.com/watch?v=dn376baf_Ds",
+      "published": "2026-09-18T12:00:26+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "ODYSSEUS: The Fall is here!",
+      "url": "https://www.youtube.com/watch?v=KoIdyxiLGbY",
+      "published": "2026-09-17T03:32:52+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "But I still came back for you",
+      "url": "https://www.youtube.com/watch?v=MLcyxqZ7RE4",
+      "published": "2026-09-15T15:00:08+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Live from Toronto: KlingAI at TIFF The Market",
+      "url": "https://www.youtube.com/watch?v=B0uQcIDBr9Y",
+      "published": "2026-09-14T15:00:18+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Waiting for a savior?",
+      "url": "https://www.youtube.com/watch?v=_4J9jqEWLyA",
+      "published": "2026-09-11T11:53:49+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Maybe the last time we'll ever meet",
+      "url": "https://www.youtube.com/watch?v=1RcCwQo8Fak",
+      "published": "2026-09-09T15:59:39+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Creator Off Script with Qiguang: Building Dreamlike Worlds with AI",
+      "url": "https://www.youtube.com/watch?v=lEEz5RX4nqI",
+      "published": "2026-09-03T12:00:21+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Keep Your Character Consistent with Elements in Kling MCP",
+      "url": "https://www.youtube.com/watch?v=WQZjYq179uk",
+      "published": "2026-09-02T03:40:01+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Who would you become in a parallel world? 🌙",
+      "url": "https://www.youtube.com/watch?v=KUqhswt3pLU",
+      "published": "2026-08-28T12:00:22+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Until I Reach You",
+      "url": "https://www.youtube.com/watch?v=a7lej_IdNp8",
+      "published": "2026-08-27T15:00:26+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Welcome to a World You’ve Never Seen #klingai #kling #myth",
+      "url": "https://www.youtube.com/watch?v=igSEEwEj-Sc",
+      "published": "2026-08-26T15:00:13+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Bro Picked the WRONG Cat 😼",
+      "url": "https://www.youtube.com/watch?v=xRQk5-Yo3zI",
+      "published": "2026-08-21T12:00:10+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Own every angle. Steal the spotlight. ✨",
+      "url": "https://www.youtube.com/watch?v=EYA90hDsHzc",
+      "published": "2026-08-20T12:02:12+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "OpenAI Is Building Past GPT-8… This Is Getting Serious",
+      "url": "https://www.youtube.com/watch?v=2dWC2vkIzAc",
+      "published": "2026-10-03T23:00:16+00:00"
+    }
+  ]
 }
