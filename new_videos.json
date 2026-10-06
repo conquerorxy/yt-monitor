@@ -1,34 +1,5 @@
 {
-  "checked_at": "2026-10-05T23:34:02.769734+00:00",
-  "new_count": 4,
-  "videos": [
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Mean overhand #boxing",
-      "url": "https://www.youtube.com/watch?v=DQBWjfkn2kc",
-      "published": "2026-10-05T19:00:11+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Meet the New Codex CLI",
-      "url": "https://www.youtube.com/watch?v=PUBc2G0Tj5E",
-      "published": "2026-10-05T18:29:08+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Eleven v4 is free for a limited time",
-      "url": "https://www.youtube.com/watch?v=S5watlofYYA",
-      "published": "2026-10-05T22:26:32+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "The Search: Make the World’s Catchiest Ad | $100,000 Competition",
-      "url": "https://www.youtube.com/watch?v=3wMjqko_v40",
-      "published": "2026-10-05T14:01:04+00:00"
-    }
-  ]
+  "checked_at": "2026-10-06T04:16:53.195101+00:00",
+  "new_count": 0,
+  "videos": []
 }
