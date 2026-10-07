@@ -1,20 +1,125 @@
 {
-  "checked_at": "2026-10-07T12:27:10.150459+00:00",
-  "new_count": 2,
+  "checked_at": "2026-10-07T22:30:56.657864+00:00",
+  "new_count": 17,
   "videos": [
     {
-      "channel_name": "Wes Roth",
-      "category": "AI",
-      "title": "OpenAI's secret model just BROKE math...",
-      "url": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
-      "published": "2026-10-07T04:02:49+00:00"
+      "channel_name": "Steve Ronin",
+      "category": "猎奇",
+      "title": "Which one would you be more scared to explore?  #abandoned #abandonedplaces #steveronin",
+      "url": "https://www.youtube.com/watch?v=yuOQvH24GpY",
+      "published": "2026-10-07T16:00:36+00:00"
     },
     {
-      "channel_name": "Theoretically Media",
+      "channel_name": "Exploring With Josh",
+      "category": "猎奇",
+      "title": "The Ship More Haunted Than the Queen Mary (ft. Sam & Colby) Duke of Lancaster",
+      "url": "https://www.youtube.com/watch?v=Fj6wxtXfWcY",
+      "published": "2026-10-07T18:02:11+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Make Any Game With AI  & 2 New Open Source Video Models!",
-      "url": "https://www.youtube.com/watch?v=V1AGM0IKFpg",
-      "published": "2026-10-06T22:10:07+00:00"
+      "title": "Introducing GPT-6 in ChatGPT with Intelligent UI",
+      "url": "https://www.youtube.com/watch?v=IsL4dVezs18",
+      "published": "2026-10-07T21:55:41+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Build Plugins for ChatGPT",
+      "url": "https://www.youtube.com/watch?v=LiNhqbetrbU",
+      "published": "2026-10-07T21:34:02+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Stop Overpaying for Intelligence | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=_nmlHbSB8kM",
+      "published": "2026-10-07T21:10:51+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Stack Overflow - From Idea to Product | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=3glzJZ-_qB8",
+      "published": "2026-10-07T21:10:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Higgsfield - Building Agents That Provision Their Own Compute | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=8804JYm81cc",
+      "published": "2026-10-07T21:10:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How OpenAI Puts ChatGPT to Work | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=SXCfs7mitPo",
+      "published": "2026-10-07T21:10:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Codex Has Left The Laptop | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=XkKdbPhIvbY",
+      "published": "2026-10-07T21:10:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "From Single Player to Multiplayer with Codex | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=aDTPTwnrRyA",
+      "published": "2026-10-07T21:10:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Qodo - The Last Human Code Review | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=bQ3-pXCpCTg",
+      "published": "2026-10-07T21:10:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "ClawLabs: Building Open Source Together | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=wZYnJfL4c2Y",
+      "published": "2026-10-07T21:10:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Build custom site annotations with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=ZcDFZzsp3_Y",
+      "published": "2026-10-07T19:36:26+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
+      "url": "https://www.youtube.com/watch?v=DmCaBWv5yG8",
+      "published": "2026-10-07T14:57:47+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "R&D Part 2",
+      "url": "https://www.youtube.com/watch?v=N5kTmoCKbe0",
+      "published": "2026-10-07T13:01:57+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "The new Jaguar Type 01, powered by NVIDIA.",
+      "url": "https://www.youtube.com/watch?v=XxHfJRnUG24",
+      "published": "2026-10-07T17:54:24+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "OpenAI'S Internal GPT-7 Model Just Changed Everything",
+      "url": "https://www.youtube.com/watch?v=MsJRynICEnU",
+      "published": "2026-10-07T19:30:27+00:00"
     }
   ]
 }
