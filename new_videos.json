@@ -1,5 +1,20 @@
 {
-  "checked_at": "2026-10-08T03:57:16.148429+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-08T12:36:50.154365+00:00",
+  "new_count": 2,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* Fights to Watch While You Wind Down | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=0su6jyCsZws",
+      "published": "2026-10-08T03:39:08+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=JZZiEjVW584",
+      "published": "2026-10-08T02:37:11+00:00"
+    }
+  ]
 }
