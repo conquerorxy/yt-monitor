@@ -1,146 +1,41 @@
 {
-  "checked_at": "2026-10-09T12:24:12.656033+00:00",
-  "new_count": 20,
+  "checked_at": "2026-10-09T22:06:08.875264+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "BKFC",
+      "channel_name": "Kentucky Ballistics",
       "category": "猎奇",
-      "title": "Weigh In: BKFC FIGHT NIGHT BETHLEHEM CISNEROS vs PETERSEN | LIVE!",
-      "url": "https://www.youtube.com/watch?v=Nwlklvzy40k",
-      "published": "2026-10-08T23:27:35+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "That up was beautiful",
-      "url": "https://www.youtube.com/watch?v=PQzOIQTP8B4",
-      "published": "2026-10-09T03:42:24+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "How did he get up from that headkick? 😳",
-      "url": "https://www.youtube.com/watch?v=QMMclEAPvUc",
-      "published": "2026-10-09T03:35:19+00:00"
+      "title": "45-70 Snub Nose Revolver",
+      "url": "https://www.youtube.com/watch?v=eOeLfhDswB0",
+      "published": "2026-10-09T17:39:43+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
-      "url": "https://www.youtube.com/watch?v=MUHjyljBPHI",
-      "published": "2026-10-09T08:37:55+00:00"
+      "title": "Set up your dot in the ChatGPT mobile app",
+      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE",
+      "published": "2026-10-09T19:13:03+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "OpenAI’s “Alien Math” Is Freaking People Out",
-      "url": "https://www.youtube.com/watch?v=rxpV3QLV-pg",
-      "published": "2026-10-09T04:28:24+00:00"
+      "title": "Building the Codex community",
+      "url": "https://www.youtube.com/watch?v=enPbh_A5F7E",
+      "published": "2026-10-09T17:00:34+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Eleven v4 is free for a limited time",
-      "url": "https://www.youtube.com/watch?v=oysu7gDuJ8I",
-      "published": "2026-10-08T13:00:31+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Introducing ElevenAgents Architect",
-      "url": "https://www.youtube.com/watch?v=kfkUcxtX2b4",
-      "published": "2026-10-06T15:49:08+00:00"
+      "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
+      "url": "https://www.youtube.com/watch?v=NUizyuGj-kE",
+      "published": "2026-10-09T15:00:01+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Eleven v4 is free for a limited time",
-      "url": "https://www.youtube.com/watch?v=S5watlofYYA",
-      "published": "2026-10-05T22:26:32+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "The Search: Make the World’s Catchiest Ad | $100,000 Competition",
-      "url": "https://www.youtube.com/watch?v=3wMjqko_v40",
-      "published": "2026-10-05T14:01:04+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Eleven v4 is free for the next 10 days.",
-      "url": "https://www.youtube.com/watch?v=7UsscWi4ubU",
-      "published": "2026-10-03T13:40:38+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Eleven v4 is free for the next two weeks.",
-      "url": "https://www.youtube.com/watch?v=8zw97ydkksA",
-      "published": "2026-09-30T15:43:41+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Eleven v4 Is Here - Everything You NEED to Know",
-      "url": "https://www.youtube.com/watch?v=WEyI3KL16Fs",
-      "published": "2026-09-30T15:35:24+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Booking an appointment with ElevenAgents | Eleven v4 Turbo",
-      "url": "https://www.youtube.com/watch?v=zDMQzF-bb_Q",
-      "published": "2026-09-29T19:36:32+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Telecommunications support by ElevenAgents | Eleven v4 Turbo",
-      "url": "https://www.youtube.com/watch?v=4YOTifamHqE",
-      "published": "2026-09-29T19:36:24+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Municipal services powered by ElevenAgents | Eleven v4 Turbo",
-      "url": "https://www.youtube.com/watch?v=ovVqGCPdcfg",
-      "published": "2026-09-29T19:36:21+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Agentic support and shopping with ElevenAgents | Eleven v4 Turbo",
-      "url": "https://www.youtube.com/watch?v=GagC4nKpBLQ",
-      "published": "2026-09-29T19:36:18+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Transaction dispute handled by ElevenAgents | Eleven v4 Turbo",
-      "url": "https://www.youtube.com/watch?v=1QJTfaaxVag",
-      "published": "2026-09-29T19:36:15+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Introducing Eleven v4 Turbo in ElevenAgents",
-      "url": "https://www.youtube.com/watch?v=JFVQKolFo5k",
-      "published": "2026-09-29T15:15:17+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Eleven v4 is free for the next 2 weeks",
-      "url": "https://www.youtube.com/watch?v=8hXY_2CcsyA",
-      "published": "2026-09-29T14:48:48+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Introducing Eleven v4 and Eleven v4 Turbo",
-      "url": "https://www.youtube.com/watch?v=th_tXR2QQ6U",
-      "published": "2026-09-28T14:01:57+00:00"
+      "title": "What makes a good ad",
+      "url": "https://www.youtube.com/watch?v=GlFDMd5XGD8",
+      "published": "2026-10-09T17:24:21+00:00"
     }
   ]
 }
