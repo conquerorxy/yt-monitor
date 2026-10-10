@@ -1,55 +1,20 @@
 {
-  "checked_at": "2026-10-10T11:43:08.541970+00:00",
-  "new_count": 7,
+  "checked_at": "2026-10-10T16:45:20.629460+00:00",
+  "new_count": 2,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "BKFC FIGHT NIGHT BETHLEHEM CISNEROS vs PETERSON FULL EVENT",
-      "url": "https://www.youtube.com/watch?v=ZuOL6_uFFQ4",
-      "published": "2026-10-10T06:08:10+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Countdown to BKFC 95 NEWARK: HERRING vs DODSON and FREE LIVE FIGHTS!",
-      "url": "https://www.youtube.com/watch?v=uUd3dW0bVZQ",
-      "published": "2026-10-10T02:04:16+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Weigh In: BKFC 95 NEWARK: HERRING vs DODSON | LIVE!",
-      "url": "https://www.youtube.com/watch?v=g4pNq29-tQY",
-      "published": "2026-10-10T01:20:29+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Countdown to BKFC FIGHT NIGHT BETHLEHEM: CISNEROS vs PETERSEN and FREE LIVE FIGHTS!",
-      "url": "https://www.youtube.com/watch?v=BvbY0SL4H8I",
-      "published": "2026-10-10T00:55:18+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He flew out the door",
-      "url": "https://www.youtube.com/watch?v=sV5xsicS2EQ",
-      "published": "2026-10-10T03:22:05+00:00"
-    },
-    {
-      "channel_name": "TheAIGRID",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Anthropic Has Officially Lost Its Mind...",
-      "url": "https://www.youtube.com/watch?v=Z9fvMJ9NSSI",
-      "published": "2026-10-09T23:05:38+00:00"
+      "title": "Supporting Clinicians With AI | Wenyi Zhu, Founder of Kuddo Health",
+      "url": "https://www.youtube.com/watch?v=58MTEgSmLB4",
+      "published": "2026-10-10T15:24:00+00:00"
     },
     {
-      "channel_name": "MattVidPro AI",
+      "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "I Built a Tornado Mod for Red Dead 2 with Claude (free)",
-      "url": "https://www.youtube.com/watch?v=nexQA1qdExw",
-      "published": "2026-10-09T22:41:25+00:00"
+      "title": "Introducing Brand Kit by ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=pxY3kp0RS2k",
+      "published": "2026-10-10T14:00:05+00:00"
     }
   ]
 }
