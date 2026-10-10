@@ -1,41 +1,5 @@
 {
-  "checked_at": "2026-10-09T22:06:08.875264+00:00",
-  "new_count": 5,
-  "videos": [
-    {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "45-70 Snub Nose Revolver",
-      "url": "https://www.youtube.com/watch?v=eOeLfhDswB0",
-      "published": "2026-10-09T17:39:43+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Set up your dot in the ChatGPT mobile app",
-      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE",
-      "published": "2026-10-09T19:13:03+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Building the Codex community",
-      "url": "https://www.youtube.com/watch?v=enPbh_A5F7E",
-      "published": "2026-10-09T17:00:34+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
-      "url": "https://www.youtube.com/watch?v=NUizyuGj-kE",
-      "published": "2026-10-09T15:00:01+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "What makes a good ad",
-      "url": "https://www.youtube.com/watch?v=GlFDMd5XGD8",
-      "published": "2026-10-09T17:24:21+00:00"
-    }
-  ]
+  "checked_at": "2026-10-10T03:47:48.598581+00:00",
+  "new_count": 0,
+  "videos": []
 }
