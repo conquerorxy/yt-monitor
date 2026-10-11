@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-10-11T11:55:53.275119+00:00",
+  "checked_at": "2026-10-11T17:14:59.497899+00:00",
   "new_count": 2,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=aITt9jvuSaY",
-      "published": "2026-10-11T03:05:46+00:00"
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Your Spark, Your Story: Allyson Vasquez | NVIDIA RTX Spark",
+      "url": "https://www.youtube.com/watch?v=nM21x3FFlPE",
+      "published": "2026-10-11T16:00:11+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
-      "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g",
-      "published": "2026-10-10T21:40:25+00:00"
+      "title": "Berlin’s TV Tower Glows Green for NVIDIA GTC Berlin",
+      "url": "https://www.youtube.com/watch?v=UGjOg3VRC7s",
+      "published": "2026-10-11T13:09:06+00:00"
     }
   ]
 }
