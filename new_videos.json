@@ -1,20 +1,5 @@
 {
-  "checked_at": "2026-10-10T20:59:23.934178+00:00",
-  "new_count": 2,
-  "videos": [
-    {
-      "channel_name": "TheAIGRID",
-      "category": "AI",
-      "title": "Something BIG Is Happening Behind Closed Doors At OpenAI And Anthropic",
-      "url": "https://www.youtube.com/watch?v=smvEu2N0Pv8",
-      "published": "2026-10-10T19:00:38+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Dictation is now on the ElevenLabs mobile app",
-      "url": "https://www.youtube.com/watch?v=kf8BuWceR-A",
-      "published": "2026-10-10T17:30:36+00:00"
-    }
-  ]
+  "checked_at": "2026-10-11T03:21:12.627656+00:00",
+  "new_count": 0,
+  "videos": []
 }
