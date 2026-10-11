@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-10-11T17:14:59.497899+00:00",
+  "checked_at": "2026-10-11T21:20:31.664623+00:00",
   "new_count": 2,
   "videos": [
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "TheAIGRID",
       "category": "AI",
-      "title": "Your Spark, Your Story: Allyson Vasquez | NVIDIA RTX Spark",
-      "url": "https://www.youtube.com/watch?v=nM21x3FFlPE",
-      "published": "2026-10-11T16:00:11+00:00"
+      "title": "Microsoft's MASSIVE AI Announcement Has Everyone Talking",
+      "url": "https://www.youtube.com/watch?v=ApsNLVLRvu0",
+      "published": "2026-10-11T20:15:15+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Berlin’s TV Tower Glows Green for NVIDIA GTC Berlin",
-      "url": "https://www.youtube.com/watch?v=UGjOg3VRC7s",
-      "published": "2026-10-11T13:09:06+00:00"
+      "title": "Only one day left to try Eleven v4 for free",
+      "url": "https://www.youtube.com/watch?v=6sdtNsNXUW0",
+      "published": "2026-10-11T17:18:56+00:00"
     }
   ]
 }
