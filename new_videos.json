@@ -1,5 +1,20 @@
 {
-  "checked_at": "2026-10-11T03:21:12.627656+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-11T11:55:53.275119+00:00",
+  "new_count": 2,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=aITt9jvuSaY",
+      "published": "2026-10-11T03:05:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g",
+      "published": "2026-10-10T21:40:25+00:00"
+    }
+  ]
 }
