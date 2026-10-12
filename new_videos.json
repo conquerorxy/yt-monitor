@@ -1,5 +1,34 @@
 {
-  "checked_at": "2026-10-12T03:44:14.350780+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-12T14:06:46.340805+00:00",
+  "new_count": 4,
+  "videos": [
+    {
+      "channel_name": "Steve Ronin",
+      "category": "猎奇",
+      "title": "Inside Japan's Scariest Abandoned Hospital (Patients Left To Die)",
+      "url": "https://www.youtube.com/watch?v=CZIuDbeNf1Q",
+      "published": "2026-10-11T22:00:17+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He took a knee",
+      "url": "https://www.youtube.com/watch?v=fGJWAcyAOas",
+      "published": "2026-10-12T03:10:03+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "What Makes an AI Music Video Feel Real? | Simon Meyer × Kling 4.0",
+      "url": "https://www.youtube.com/watch?v=b9lEL1hClRg",
+      "published": "2026-10-12T12:06:41+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "How to Make an Ad with a Jingle using AI (Full Workflow)",
+      "url": "https://www.youtube.com/watch?v=yj83TIdcgtA",
+      "published": "2026-10-12T13:02:09+00:00"
+    }
+  ]
 }
