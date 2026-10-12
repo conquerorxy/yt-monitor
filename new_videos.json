@@ -1,20 +1,5 @@
 {
-  "checked_at": "2026-10-11T21:20:31.664623+00:00",
-  "new_count": 2,
-  "videos": [
-    {
-      "channel_name": "TheAIGRID",
-      "category": "AI",
-      "title": "Microsoft's MASSIVE AI Announcement Has Everyone Talking",
-      "url": "https://www.youtube.com/watch?v=ApsNLVLRvu0",
-      "published": "2026-10-11T20:15:15+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Only one day left to try Eleven v4 for free",
-      "url": "https://www.youtube.com/watch?v=6sdtNsNXUW0",
-      "published": "2026-10-11T17:18:56+00:00"
-    }
-  ]
+  "checked_at": "2026-10-12T03:44:14.350780+00:00",
+  "new_count": 0,
+  "videos": []
 }
