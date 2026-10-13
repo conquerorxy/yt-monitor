@@ -1,48 +1,34 @@
 {
-  "checked_at": "2026-10-13T13:19:17.828688+00:00",
-  "new_count": 6,
+  "checked_at": "2026-10-13T22:09:26.189421+00:00",
+  "new_count": 4,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "The refs face says it all",
-      "url": "https://www.youtube.com/watch?v=w85V74gDn1c",
-      "published": "2026-10-12T22:31:11+00:00"
+      "channel_name": "Google DeepMind",
+      "category": "AI",
+      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
+      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
+      "published": "2026-10-13T16:38:17+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Google DeepMind",
       "category": "AI",
-      "title": "Code review is no longer the bottleneck",
-      "url": "https://www.youtube.com/watch?v=IZXv6a78NDw",
-      "published": "2026-10-12T16:00:08+00:00"
+      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
+      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
+      "published": "2026-10-13T16:38:14+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "Google DeepMind",
       "category": "AI",
-      "title": "The NVIDIA GTC pregame show is back.",
-      "url": "https://www.youtube.com/watch?v=ygMpRRrk6Q8",
-      "published": "2026-10-12T20:02:17+00:00"
+      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
+      "published": "2026-10-13T15:58:20+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "Google DeepMind",
       "category": "AI",
-      "title": "A new beginning for Windows PCs deserves a global celebration.",
-      "url": "https://www.youtube.com/watch?v=7yjzv6Ize4U",
-      "published": "2026-10-12T18:16:02+00:00"
-    },
-    {
-      "channel_name": "TheAIGRID",
-      "category": "AI",
-      "title": "Meta Just Unleashed Its Most Powerful AI Yet  (Meta Muse Wonder)",
-      "url": "https://www.youtube.com/watch?v=p_kGoHC3-Ys",
-      "published": "2026-10-13T03:00:34+00:00"
-    },
-    {
-      "channel_name": "Wes Roth",
-      "category": "AI",
-      "title": "Vibe Coding 2.0 is here...",
-      "url": "https://www.youtube.com/watch?v=S0JwWcLVzQA",
-      "published": "2026-10-13T04:16:47+00:00"
+      "title": "Untangling 500-page chemistry patents with Gemini 4",
+      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
+      "published": "2026-10-13T15:58:17+00:00"
     }
   ]
 }
