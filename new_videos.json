@@ -1,55 +1,27 @@
 {
-  "checked_at": "2026-10-14T16:18:40.161286+00:00",
-  "new_count": 7,
+  "checked_at": "2026-10-14T21:11:00.795112+00:00",
+  "new_count": 3,
   "videos": [
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Cooking up a catering business with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=PZxbaIp8PzE",
+      "published": "2026-10-14T17:47:37+00:00"
+    },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Join the RTX Spark Global Launch Celebration",
-      "url": "https://www.youtube.com/watch?v=roVDIuW_6HI",
-      "published": "2026-10-14T14:58:44+00:00"
+      "title": "The Road to NVIDIA RTX Spark",
+      "url": "https://www.youtube.com/watch?v=vJvFta7e76E",
+      "published": "2026-10-14T19:01:02+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Google Just DROPPED Its Most Powerful AI Ever",
-      "url": "https://www.youtube.com/watch?v=GzY9QXDo9UU",
-      "published": "2026-10-14T12:15:01+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "This Robot Is Unlike Any Other On The Market",
-      "url": "https://www.youtube.com/watch?v=XEl4ZQKKxig",
-      "published": "2026-10-14T14:41:38+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "How Razorpay and Cars24 Became AI-Native Companies — ElevenLabs Summit Bengaluru 2026",
-      "url": "https://www.youtube.com/watch?v=wRheOPMSY2k",
-      "published": "2026-10-14T16:15:00+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Try Recast in ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=WV5nqvHJ0Rw",
-      "published": "2026-10-14T15:01:23+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Building a Multilingual Ad Campaign with ElevenCreative — ElevenLabs Summit Bengaluru 2026",
-      "url": "https://www.youtube.com/watch?v=UFZEzryrF0I",
-      "published": "2026-10-14T12:47:01+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "How India Is Putting Voice AI Agents Into Production — ElevenLabs Summit Bengaluru 2026",
-      "url": "https://www.youtube.com/watch?v=NXpeUD9GbLc",
-      "published": "2026-10-14T12:44:53+00:00"
+      "title": "How NVIDIA AI Is Transforming Chip Design and Manufacturing",
+      "url": "https://www.youtube.com/watch?v=rBN0PDfJWIc",
+      "published": "2026-10-14T16:46:00+00:00"
     }
   ]
 }
