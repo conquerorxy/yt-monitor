@@ -1,118 +1,55 @@
 {
-  "checked_at": "2026-10-14T10:58:52.966781+00:00",
-  "new_count": 16,
+  "checked_at": "2026-10-14T16:18:40.161286+00:00",
+  "new_count": 7,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Big man down",
-      "url": "https://www.youtube.com/watch?v=xsJJVJO3GUM",
-      "published": "2026-10-13T23:45:38+00:00"
-    },
-    {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "The Shortest Shotgun To EVER Shotgun (How Short Is Too Short ???)",
-      "url": "https://www.youtube.com/watch?v=z6qX8SS3O5g",
-      "published": "2026-10-13T22:04:02+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
-      "url": "https://www.youtube.com/watch?v=DTcK95TAZ-k",
-      "published": "2026-10-14T09:35:27+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Work with your team in ChatGPT Space",
-      "url": "https://www.youtube.com/watch?v=G-9Y2xNiDKQ",
-      "published": "2026-10-13T21:01:10+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Block on Finding and Fixing Security Risks with OpenAI",
-      "url": "https://www.youtube.com/watch?v=9aDuSpVoB-Y",
-      "published": "2026-10-13T18:02:20+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Block on Finding and Fixing Security Risks with OpenAI",
-      "url": "https://www.youtube.com/watch?v=N6K_pxaAh0w",
-      "published": "2026-10-13T17:59:33+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Ride out this sticker storm in style",
-      "url": "https://www.youtube.com/watch?v=TD0bImyg_IM",
-      "published": "2026-10-13T15:47:28+00:00"
-    },
-    {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Jensen Huang speaks to media in Paris about NVIDIA OpenShell.",
-      "url": "https://www.youtube.com/watch?v=To27EtSUGbM",
-      "published": "2026-10-13T17:43:38+00:00"
+      "title": "Join the RTX Spark Global Launch Celebration",
+      "url": "https://www.youtube.com/watch?v=roVDIuW_6HI",
+      "published": "2026-10-14T14:58:44+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "TheAIGRID",
       "category": "AI",
-      "title": "A little something from Jensen Huang ✍️",
-      "url": "https://www.youtube.com/watch?v=kWqHXMkfKE0",
-      "published": "2026-10-13T14:58:03+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "The Road to GTC Berlin: Build-a-Claw in Barcelona",
-      "url": "https://www.youtube.com/watch?v=cT8z64yfh3w",
-      "published": "2026-10-13T13:11:11+00:00"
+      "title": "Google Just DROPPED Its Most Powerful AI Ever",
+      "url": "https://www.youtube.com/watch?v=GzY9QXDo9UU",
+      "published": "2026-10-14T12:15:01+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Google Just Caught Up (Gemini-4 Argon)",
-      "url": "https://www.youtube.com/watch?v=eBszYxzE2dk",
-      "published": "2026-10-13T16:47:07+00:00"
+      "title": "This Robot Is Unlike Any Other On The Market",
+      "url": "https://www.youtube.com/watch?v=XEl4ZQKKxig",
+      "published": "2026-10-14T14:41:38+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "How To Stop Being An \"AI Meat Proxy\"",
-      "url": "https://www.youtube.com/watch?v=b0jA6fkGsk8",
-      "published": "2026-10-13T15:10:54+00:00"
-    },
-    {
-      "channel_name": "Wes Roth",
-      "category": "AI",
-      "title": "GEMINI 4 ARGON IS WEIRD...",
-      "url": "https://www.youtube.com/watch?v=NL0yDYXAQ0E",
-      "published": "2026-10-14T03:28:07+00:00"
-    },
-    {
-      "channel_name": "Theoretically Media",
-      "category": "AI",
-      "title": "Google Cooked! Testing Gemini 4 Argon & Blasting 800 Million Tokens!",
-      "url": "https://www.youtube.com/watch?v=DD4oHSH5SEI",
-      "published": "2026-10-13T16:05:40+00:00"
+      "title": "How Razorpay and Cars24 Became AI-Native Companies — ElevenLabs Summit Bengaluru 2026",
+      "url": "https://www.youtube.com/watch?v=wRheOPMSY2k",
+      "published": "2026-10-14T16:15:00+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
       "title": "Try Recast in ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=ozXE36jAP0M",
-      "published": "2026-10-13T17:12:24+00:00"
+      "url": "https://www.youtube.com/watch?v=WV5nqvHJ0Rw",
+      "published": "2026-10-14T15:01:23+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Introducing Recast in ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=iVml2v458AQ",
-      "published": "2026-10-13T13:03:44+00:00"
+      "title": "Building a Multilingual Ad Campaign with ElevenCreative — ElevenLabs Summit Bengaluru 2026",
+      "url": "https://www.youtube.com/watch?v=UFZEzryrF0I",
+      "published": "2026-10-14T12:47:01+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "How India Is Putting Voice AI Agents Into Production — ElevenLabs Summit Bengaluru 2026",
+      "url": "https://www.youtube.com/watch?v=NXpeUD9GbLc",
+      "published": "2026-10-14T12:44:53+00:00"
     }
   ]
 }
