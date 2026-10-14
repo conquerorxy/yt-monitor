@@ -1,34 +1,5 @@
 {
-  "checked_at": "2026-10-13T22:09:26.189421+00:00",
-  "new_count": 4,
-  "videos": [
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-      "published": "2026-10-13T16:38:17+00:00"
-    },
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-      "published": "2026-10-13T16:38:14+00:00"
-    },
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
-      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
-      "published": "2026-10-13T15:58:20+00:00"
-    },
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "Untangling 500-page chemistry patents with Gemini 4",
-      "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
-      "published": "2026-10-13T15:58:17+00:00"
-    }
-  ]
+  "checked_at": "2026-10-14T03:03:29.340952+00:00",
+  "new_count": 0,
+  "videos": []
 }
