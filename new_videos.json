@@ -1,34 +1,27 @@
 {
-  "checked_at": "2026-10-15T10:40:50.906063+00:00",
-  "new_count": 4,
+  "checked_at": "2026-10-15T16:06:21.270775+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "*NEW* Just Put This On and Let It Run | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=fg0aMSo3vDM",
-      "published": "2026-10-15T04:29:58+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He did this last minute",
-      "url": "https://www.youtube.com/watch?v=xyiALckyqr8",
-      "published": "2026-10-15T01:30:13+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Cheers to the UK’s AI builders. 🇬🇧",
-      "url": "https://www.youtube.com/watch?v=mGQHufCewjc",
-      "published": "2026-10-14T21:50:16+00:00"
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "url": "https://www.youtube.com/watch?v=3IVo-MNwk2I",
+      "published": "2026-10-15T14:13:38+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "AI just BROKE all of the software industry...",
-      "url": "https://www.youtube.com/watch?v=EmaXeEdlJkI",
-      "published": "2026-10-15T03:46:29+00:00"
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "url": "https://www.youtube.com/watch?v=BOTAeAU5ExQ",
+      "published": "2026-10-15T14:12:09+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "King Card | Made with Kling 4.0",
+      "url": "https://www.youtube.com/watch?v=YuxI05lHLRk",
+      "published": "2026-10-15T15:00:15+00:00"
     }
   ]
 }
