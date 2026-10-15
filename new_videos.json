@@ -1,27 +1,5 @@
 {
-  "checked_at": "2026-10-14T21:11:00.795112+00:00",
-  "new_count": 3,
-  "videos": [
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Cooking up a catering business with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=PZxbaIp8PzE",
-      "published": "2026-10-14T17:47:37+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "The Road to NVIDIA RTX Spark",
-      "url": "https://www.youtube.com/watch?v=vJvFta7e76E",
-      "published": "2026-10-14T19:01:02+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "How NVIDIA AI Is Transforming Chip Design and Manufacturing",
-      "url": "https://www.youtube.com/watch?v=rBN0PDfJWIc",
-      "published": "2026-10-14T16:46:00+00:00"
-    }
-  ]
+  "checked_at": "2026-10-15T02:43:16.221591+00:00",
+  "new_count": 0,
+  "videos": []
 }
