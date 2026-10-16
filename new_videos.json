@@ -1,34 +1,5 @@
 {
-  "checked_at": "2026-10-15T20:49:12.937856+00:00",
-  "new_count": 4,
-  "videos": [
-    {
-      "channel_name": "Exploring With Josh",
-      "category": "猎奇",
-      "title": "Tracking Down a Crashed Plane Deep in the Forest",
-      "url": "https://www.youtube.com/watch?v=jkmfHOULDxA",
-      "published": "2026-10-15T19:49:23+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "GPT-Live-1.1 has new voices and better accents.",
-      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc",
-      "published": "2026-10-15T18:24:44+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Introducing Instant Soundtracks",
-      "url": "https://www.youtube.com/watch?v=WtPiZ0ym13k",
-      "published": "2026-10-15T19:01:07+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "From mood board to ad",
-      "url": "https://www.youtube.com/watch?v=8ThojaQdSOg",
-      "published": "2026-10-15T16:49:32+00:00"
-    }
-  ]
+  "checked_at": "2026-10-16T02:39:43.117068+00:00",
+  "new_count": 0,
+  "videos": []
 }
