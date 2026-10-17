@@ -1,27 +1,5 @@
 {
-  "checked_at": "2026-10-17T14:47:08.393187+00:00",
-  "new_count": 3,
-  "videos": [
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Building the rules for AI in America | Runway Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=v2IRGziWRKk",
-      "published": "2026-10-17T14:00:30+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Grounding intelligence in the physical world | Runway Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=B2roAnXovsI",
-      "published": "2026-10-17T14:00:27+00:00"
-    },
-    {
-      "channel_name": "Kling AI",
-      "category": "AI",
-      "title": "Kling at AWNY 2026",
-      "url": "https://www.youtube.com/watch?v=G48FqJUQ-Kw",
-      "published": "2026-10-17T12:04:48+00:00"
-    }
-  ]
+  "checked_at": "2026-10-17T19:56:29.045665+00:00",
+  "new_count": 0,
+  "videos": []
 }
