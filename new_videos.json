@@ -1,41 +1,5 @@
 {
-  "checked_at": "2026-10-16T20:22:28.964882+00:00",
-  "new_count": 5,
-  "videos": [
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Put ChatGPT to work on shared team tasks",
-      "url": "https://www.youtube.com/watch?v=OMxEUdIgsQc",
-      "published": "2026-10-16T18:00:49+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Runway Research Q&A | Runway Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=_ivmECCTMs8",
-      "published": "2026-10-16T17:14:14+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Opening Keynote | Runway AI Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=mV5rte32LBc",
-      "published": "2026-10-16T17:14:14+00:00"
-    },
-    {
-      "channel_name": "Pika Labs",
-      "category": "AI",
-      "title": "The Pika x ChatGPT Plugin Extension is here",
-      "url": "https://www.youtube.com/watch?v=HU_AfpToV_E",
-      "published": "2026-10-16T18:57:41+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "AI News: 6 New Models & A Nano Banana Killer",
-      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI",
-      "published": "2026-10-16T16:20:28+00:00"
-    }
-  ]
+  "checked_at": "2026-10-17T02:31:02.170585+00:00",
+  "new_count": 0,
+  "videos": []
 }
