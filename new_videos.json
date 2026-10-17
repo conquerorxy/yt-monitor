@@ -1,5 +1,34 @@
 {
-  "checked_at": "2026-10-17T02:31:02.170585+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-17T09:59:02.773837+00:00",
+  "new_count": 4,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Weigh In: BKFC 95 NEWARK: HERRING vs DODSON | LIVE!",
+      "url": "https://www.youtube.com/watch?v=g4pNq29-tQY",
+      "published": "2026-10-16T23:26:25+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "338 Lapua Magnum Sniper",
+      "url": "https://www.youtube.com/watch?v=0jp3Zb5Atvk",
+      "published": "2026-10-16T21:45:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Put your dot on call",
+      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw",
+      "published": "2026-10-16T21:43:48+00:00"
+    },
+    {
+      "channel_name": "MattVidPro AI",
+      "category": "AI",
+      "title": "Gemini 4 Argon is Cheaper Than Opus... But the Catch?",
+      "url": "https://www.youtube.com/watch?v=H6eduK5LgSI",
+      "published": "2026-10-16T22:06:03+00:00"
+    }
+  ]
 }
