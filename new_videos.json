@@ -1,20 +1,5 @@
 {
-  "checked_at": "2026-10-18T15:12:39.635973+00:00",
-  "new_count": 2,
-  "videos": [
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "AI diplomacy in a divided world | Runway Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=_HVHQpboPzo",
-      "published": "2026-10-18T14:00:32+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "From pilot to production: creative AI inside the enterprise | Runway Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=ZmUFbScM7rQ",
-      "published": "2026-10-18T14:00:19+00:00"
-    }
-  ]
+  "checked_at": "2026-10-18T19:56:19.580055+00:00",
+  "new_count": 0,
+  "videos": []
 }
