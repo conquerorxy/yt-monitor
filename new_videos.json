@@ -1,69 +1,20 @@
 {
-  "checked_at": "2026-10-18T10:11:56.494264+00:00",
-  "new_count": 9,
+  "checked_at": "2026-10-18T15:12:39.635973+00:00",
+  "new_count": 2,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Countdown to BKFC FIGHT NIGHT CLEARWATER REBER vs STREET and FREE LIVE FIGHTS!",
-      "url": "https://www.youtube.com/watch?v=wHXMIjgvA0M",
-      "published": "2026-10-18T04:57:06+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Weigh In: BKFC FIGHT NIGHT CLEARWATER REBER vs STREET | LIVE!",
-      "url": "https://www.youtube.com/watch?v=Fdi-ZVYC-pk",
-      "published": "2026-10-18T04:50:48+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Post-Event Press Conference: BKFC 95 NEWARK | LIVE!",
-      "url": "https://www.youtube.com/watch?v=gfQjwbaqboU",
-      "published": "2026-10-18T04:28:33+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "BKFC 94 NEWARK Full Pay Per View Event | Live!",
-      "url": "https://www.youtube.com/watch?v=wLqzprCYHaM",
-      "published": "2026-10-18T03:44:58+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Countdown to BKFC 95 NEWARK: HERRING vs DODSON and FREE LIVE FIGHTS!",
-      "url": "https://www.youtube.com/watch?v=uUd3dW0bVZQ",
-      "published": "2026-10-18T01:07:24+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "They gassed out",
-      "url": "https://www.youtube.com/watch?v=0XbWuxmBwxE",
-      "published": "2026-10-18T02:58:00+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=ElMO8d39--Y",
-      "published": "2026-10-18T02:57:33+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He said “nah bro 💀”",
-      "url": "https://www.youtube.com/watch?v=5NVPoI0_Tko",
-      "published": "2026-10-18T02:50:57+00:00"
-    },
-    {
-      "channel_name": "Theoretically Media",
+      "channel_name": "Runway",
       "category": "AI",
-      "title": "ByteDance's New World Model Can Re-Shoot Scenes!",
-      "url": "https://www.youtube.com/watch?v=DWaHaHdiDAM",
-      "published": "2026-10-17T20:25:05+00:00"
+      "title": "AI diplomacy in a divided world | Runway Summit SF 2026",
+      "url": "https://www.youtube.com/watch?v=_HVHQpboPzo",
+      "published": "2026-10-18T14:00:32+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "From pilot to production: creative AI inside the enterprise | Runway Summit SF 2026",
+      "url": "https://www.youtube.com/watch?v=ZmUFbScM7rQ",
+      "published": "2026-10-18T14:00:19+00:00"
     }
   ]
 }
