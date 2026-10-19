@@ -1,34 +1,62 @@
 {
-  "checked_at": "2026-10-19T11:47:38.748342+00:00",
-  "new_count": 4,
+  "checked_at": "2026-10-19T18:08:01.955761+00:00",
+  "new_count": 8,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Those were some clean shots",
-      "url": "https://www.youtube.com/watch?v=UkFL7i06TUo",
-      "published": "2026-10-19T00:49:57+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "url": "https://www.youtube.com/watch?v=7lC2N9woZy4",
+      "published": "2026-10-19T15:13:45+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "This is the new ChatGPT Voice, powered by GPT Live",
-      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM",
-      "published": "2026-10-19T05:30:13+00:00"
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0",
+      "published": "2026-10-19T15:07:35+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "This is the new ChatGPT Voice, powered by GPT Live",
-      "url": "https://www.youtube.com/watch?v=xIEzjwReF2s",
-      "published": "2026-10-19T04:30:15+00:00"
+      "title": "AI factories need to respond when the power grid needs relief.",
+      "url": "https://www.youtube.com/watch?v=HZQAbXW_5jU",
+      "published": "2026-10-19T16:47:40+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "This is the new ChatGPT Voice, powered by GPT Live",
-      "url": "https://www.youtube.com/watch?v=-vpwIHxkDFw",
-      "published": "2026-10-19T04:30:12+00:00"
+      "title": "Our CEO Jensen Huang on joining X.",
+      "url": "https://www.youtube.com/watch?v=tvejT5fN4jY",
+      "published": "2026-10-19T12:09:29+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "The new rules of safety in an era of real-time video generation | Runway Summit SF 2026",
+      "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
+      "published": "2026-10-19T14:00:28+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "The state of general-purpose robotics | Runway Summit SF 2026",
+      "url": "https://www.youtube.com/watch?v=EwDe4NeKOpo",
+      "published": "2026-10-19T14:00:13+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "3 New Claude Prompts You Need To Try",
+      "url": "https://www.youtube.com/watch?v=aIrrq3CLSKM",
+      "published": "2026-10-19T12:43:39+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "FREE 3d City Generator!",
+      "url": "https://www.youtube.com/watch?v=HR_3sJv1iaI",
+      "published": "2026-10-19T13:36:26+00:00"
     }
   ]
 }
