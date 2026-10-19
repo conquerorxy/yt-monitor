@@ -1,5 +1,34 @@
 {
-  "checked_at": "2026-10-19T02:45:57.366641+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-19T11:47:38.748342+00:00",
+  "new_count": 4,
+  "videos": [
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Those were some clean shots",
+      "url": "https://www.youtube.com/watch?v=UkFL7i06TUo",
+      "published": "2026-10-19T00:49:57+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "This is the new ChatGPT Voice, powered by GPT Live",
+      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM",
+      "published": "2026-10-19T05:30:13+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "This is the new ChatGPT Voice, powered by GPT Live",
+      "url": "https://www.youtube.com/watch?v=xIEzjwReF2s",
+      "published": "2026-10-19T04:30:15+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "This is the new ChatGPT Voice, powered by GPT Live",
+      "url": "https://www.youtube.com/watch?v=-vpwIHxkDFw",
+      "published": "2026-10-19T04:30:12+00:00"
+    }
+  ]
 }
