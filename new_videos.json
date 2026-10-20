@@ -1,13 +1,41 @@
 {
-  "checked_at": "2026-10-20T02:56:58.860243+00:00",
-  "new_count": 1,
+  "checked_at": "2026-10-20T10:46:53.363304+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Things started heating up 👀",
+      "url": "https://www.youtube.com/watch?v=a-vp0uGAIaQ",
+      "published": "2026-10-20T03:55:13+00:00"
+    },
+    {
+      "channel_name": "Luma AI",
       "category": "AI",
-      "title": "Cooking with Codex: Ep. 1",
-      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs",
-      "published": "2026-10-19T22:55:26+00:00"
+      "title": "Keep working from the same idea in Luma",
+      "url": "https://www.youtube.com/watch?v=7Q_fXBYUPrQ",
+      "published": "2026-10-19T22:50:16+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "My favorite new image editing tool",
+      "url": "https://www.youtube.com/watch?v=VVBszkWK0Io",
+      "published": "2026-10-20T04:19:39+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "To all fanfiction authors",
+      "url": "https://www.youtube.com/watch?v=SPrUee8ltPE",
+      "published": "2026-10-19T21:43:49+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Chroma Awards Season 2 | Official Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=xvfP2LMn_EI",
+      "published": "2026-10-19T19:01:23+00:00"
     }
   ]
 }
