@@ -1,48 +1,27 @@
 {
-  "checked_at": "2026-10-20T16:09:43.790901+00:00",
-  "new_count": 6,
+  "checked_at": "2026-10-20T21:06:42.352630+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "You need a better headshot.",
-      "url": "https://www.youtube.com/watch?v=v45XAMqH7pE",
-      "published": "2026-10-20T13:00:34+00:00"
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* Fights to Watch While You Mind Your Business | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=Lu3-kcy1thI",
+      "published": "2026-10-20T20:47:37+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "TheAIGRID",
       "category": "AI",
-      "title": "The road to NVIDIA GTC Berlin.",
-      "url": "https://www.youtube.com/watch?v=rRXdkLTVPGQ",
-      "published": "2026-10-20T15:45:31+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Scaling laws meet the real world | Runway AI Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=aWu4ZNmGZSA",
-      "published": "2026-10-20T14:00:32+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "The infrastructure behind frontier intelligence | Runway AI Summit SF 2026",
-      "url": "https://www.youtube.com/watch?v=suqHEh4_ET0",
-      "published": "2026-10-20T14:00:07+00:00"
-    },
-    {
-      "channel_name": "Luma AI",
-      "category": "AI",
-      "title": "Luma - See the art direction on the product",
-      "url": "https://www.youtube.com/watch?v=FoPxRVd3pEk",
-      "published": "2026-10-20T13:34:09+00:00"
+      "title": "Sam Altman Just Revealed The AI ENDGAE",
+      "url": "https://www.youtube.com/watch?v=pr6et84s4Xw",
+      "published": "2026-10-20T16:45:30+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Introducing Eleven Realtime: a simpler way to build natural voice agents",
-      "url": "https://www.youtube.com/watch?v=maJWhEStVBE",
-      "published": "2026-10-20T14:46:30+00:00"
+      "title": "With Eleven v4 the voices respond to each other",
+      "url": "https://www.youtube.com/watch?v=blRyvkBFGV4",
+      "published": "2026-10-20T19:36:35+00:00"
     }
   ]
 }
