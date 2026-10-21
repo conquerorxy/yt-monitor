@@ -1,27 +1,27 @@
 {
-  "checked_at": "2026-10-21T02:51:19.834473+00:00",
+  "checked_at": "2026-10-21T10:58:43.931252+00:00",
   "new_count": 3,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "They had to stop this",
-      "url": "https://www.youtube.com/watch?v=kemqM2QzgUQ",
-      "published": "2026-10-21T02:45:43+00:00"
-    },
-    {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "The Dragon Slayer Ballista (The World’s Biggest Crossbow !!!)",
-      "url": "https://www.youtube.com/watch?v=I6WSV8JvTZk",
-      "published": "2026-10-20T22:09:33+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
-      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8",
-      "published": "2026-10-20T22:57:52+00:00"
+      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=PvFjbPYEOZI",
+      "published": "2026-10-19T08:23:53+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
+      "url": "https://www.youtube.com/watch?v=PrA_ayyy22E",
+      "published": "2026-10-19T08:18:31+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Sung-Soo Kim: Reimagining Kafka with Kling 4.0",
+      "url": "https://www.youtube.com/watch?v=rOtUuQP-8SM",
+      "published": "2026-10-21T04:59:22+00:00"
     }
   ]
 }
