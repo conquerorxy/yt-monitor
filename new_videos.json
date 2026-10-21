@@ -1,27 +1,111 @@
 {
-  "checked_at": "2026-10-21T10:58:43.931252+00:00",
-  "new_count": 3,
+  "checked_at": "2026-10-21T16:25:15.391941+00:00",
+  "new_count": 15,
   "videos": [
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
-      "url": "https://www.youtube.com/watch?v=PvFjbPYEOZI",
-      "published": "2026-10-19T08:23:53+00:00"
+      "title": "How AI Enables Better, More Connected Patient Care",
+      "url": "https://www.youtube.com/watch?v=4idQxzAyPDo",
+      "published": "2026-10-21T16:16:52+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "How Lila Sciences’ AI and Automated Labs Help Scientists Discover New Medicines Faster",
+      "url": "https://www.youtube.com/watch?v=Y39uub4n0LA",
+      "published": "2026-10-21T14:00:29+00:00"
     },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
       "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
       "url": "https://www.youtube.com/watch?v=PrA_ayyy22E",
-      "published": "2026-10-19T08:18:31+00:00"
+      "published": "2026-10-21T13:32:16+00:00"
     },
     {
-      "channel_name": "Kling AI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Sung-Soo Kim: Reimagining Kafka with Kling 4.0",
-      "url": "https://www.youtube.com/watch?v=rOtUuQP-8SM",
-      "published": "2026-10-21T04:59:22+00:00"
+      "title": "RFD4-Proteina: How IPD Researchers and NVIDIA Design New Proteins with AI",
+      "url": "https://www.youtube.com/watch?v=S2rX2NHzwOs",
+      "published": "2026-10-21T11:30:10+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "From Prompt to Walking Robot With NVIDIA RTX Spark",
+      "url": "https://www.youtube.com/watch?v=VvJai6HGfyE",
+      "published": "2026-10-21T11:22:03+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA Foundational Technology Montage | GTC Berlin 2026 Edition",
+      "url": "https://www.youtube.com/watch?v=JegVE_xMY_w",
+      "published": "2026-10-21T11:21:20+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Official Keynote Closing Video | NVIDIA GTC Berlin 2026",
+      "url": "https://www.youtube.com/watch?v=qdUQJArUk30",
+      "published": "2026-10-21T11:20:58+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Introducing NVIDIA OpenShell Reference Architecture for Safer AI Agents",
+      "url": "https://www.youtube.com/watch?v=xaHdyqGtG1M",
+      "published": "2026-10-21T11:20:19+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Super AI Agents for Science, Manufacturing and Engineering  | GTC Berlin 2026 Edition",
+      "url": "https://www.youtube.com/watch?v=IqhDPbRrsh4",
+      "published": "2026-10-21T11:20:04+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "AI Factories That Use Less Power and Water, Built in Days | NVIDIA DSX",
+      "url": "https://www.youtube.com/watch?v=qDF7ARVxbWU",
+      "published": "2026-10-21T11:19:53+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Official Keynote Opening Video | NVIDIA GTC Berlin 2026",
+      "url": "https://www.youtube.com/watch?v=VsZpy3aFLeY",
+      "published": "2026-10-21T11:19:08+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Building, selling and implementing creativity at scale | Runway AI Summit SF 2026",
+      "url": "https://www.youtube.com/watch?v=gFpGPJsbWio",
+      "published": "2026-10-21T14:00:10+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "The future of real-world intelligence | Runway AI Summit SF 2026",
+      "url": "https://www.youtube.com/watch?v=fMV0Gs2hdKU",
+      "published": "2026-10-21T14:00:05+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "5 Prompts To Try With Google's Powerful New Model",
+      "url": "https://www.youtube.com/watch?v=S2srfNCa50A",
+      "published": "2026-10-21T12:53:28+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Introducing Chimera",
+      "url": "https://www.youtube.com/watch?v=InsqQFUWyXI",
+      "published": "2026-10-21T14:28:43+00:00"
     }
   ]
 }
