@@ -1,27 +1,27 @@
 {
-  "checked_at": "2026-10-20T21:06:42.352630+00:00",
+  "checked_at": "2026-10-21T02:51:19.834473+00:00",
   "new_count": 3,
   "videos": [
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "*NEW* Fights to Watch While You Mind Your Business | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=Lu3-kcy1thI",
-      "published": "2026-10-20T20:47:37+00:00"
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=kemqM2QzgUQ",
+      "published": "2026-10-21T02:45:43+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
-      "category": "AI",
-      "title": "Sam Altman Just Revealed The AI ENDGAE",
-      "url": "https://www.youtube.com/watch?v=pr6et84s4Xw",
-      "published": "2026-10-20T16:45:30+00:00"
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "The Dragon Slayer Ballista (The World’s Biggest Crossbow !!!)",
+      "url": "https://www.youtube.com/watch?v=I6WSV8JvTZk",
+      "published": "2026-10-20T22:09:33+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "With Eleven v4 the voices respond to each other",
-      "url": "https://www.youtube.com/watch?v=blRyvkBFGV4",
-      "published": "2026-10-20T19:36:35+00:00"
+      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
+      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8",
+      "published": "2026-10-20T22:57:52+00:00"
     }
   ]
 }
