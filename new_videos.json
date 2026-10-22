@@ -1,20 +1,62 @@
 {
-  "checked_at": "2026-10-22T02:50:02.176446+00:00",
-  "new_count": 2,
+  "checked_at": "2026-10-22T10:57:42.132278+00:00",
+  "new_count": 8,
   "videos": [
     {
-      "channel_name": "MattVidPro AI",
-      "category": "AI",
-      "title": "Claude Rebuilt This AI Video in Unreal Engine (Zero Imported Assets)",
-      "url": "https://www.youtube.com/watch?v=B0HN9kLxf7A",
-      "published": "2026-10-21T22:05:47+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "MIKE TRIZANO scored the Knockout of the Night at BKFC 82 💥🥶",
+      "url": "https://www.youtube.com/watch?v=QyNT6H3CGTU",
+      "published": "2026-10-22T00:54:50+00:00"
     },
     {
-      "channel_name": "MattVidPro AI",
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Darren Till got dropped in his BKFC debut, then came back to score a clean KO 💥👊",
+      "url": "https://www.youtube.com/watch?v=vf_I0SsPkdI",
+      "published": "2026-10-21T23:41:04+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "KALEB HARRIS scored one of the most memorable knockouts from the early days of BKFC 👊💥",
+      "url": "https://www.youtube.com/watch?v=SrFkNXUDelo",
+      "published": "2026-10-21T22:19:16+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Bro got caught CLEAN 🥊😳",
+      "url": "https://www.youtube.com/watch?v=aLD3jSx3M4c",
+      "published": "2026-10-22T02:46:37+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "GTA 6 Launch Night LIVE — Xbox 360 GTA V → PS5 GTA VI",
-      "url": "https://www.youtube.com/watch?v=biFz8gYnoak",
-      "published": "2026-10-21T21:24:13+00:00"
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
+      "url": "https://www.youtube.com/watch?v=20IRGgQwPkc",
+      "published": "2026-10-21T22:05:10+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Live from Los Angeles: Kling at LA Tech Week 2026",
+      "url": "https://www.youtube.com/watch?v=qIZk2fL7dB0",
+      "published": "2026-10-22T01:00:32+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "AI Just BROKE The Internet",
+      "url": "https://www.youtube.com/watch?v=7yFSH4VChUw",
+      "published": "2026-10-21T21:28:23+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Personal Body Guard Robot - What could go wrong?",
+      "url": "https://www.youtube.com/watch?v=dyrNQV0F3Zs",
+      "published": "2026-10-22T03:06:41+00:00"
     }
   ]
 }
