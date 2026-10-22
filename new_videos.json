@@ -1,34 +1,20 @@
 {
-  "checked_at": "2026-10-21T21:06:01.758495+00:00",
-  "new_count": 4,
+  "checked_at": "2026-10-22T02:50:02.176446+00:00",
+  "new_count": 2,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "MICHAEL LARRIMORE delivered an ICE-COLD knockout at BKFC 47 🥶💥",
-      "url": "https://www.youtube.com/watch?v=eWJZvEScjcA",
-      "published": "2026-10-21T20:53:25+00:00"
+      "channel_name": "MattVidPro AI",
+      "category": "AI",
+      "title": "Claude Rebuilt This AI Video in Unreal Engine (Zero Imported Assets)",
+      "url": "https://www.youtube.com/watch?v=B0HN9kLxf7A",
+      "published": "2026-10-21T22:05:47+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "MattVidPro AI",
       "category": "AI",
-      "title": "AI Breakthroughs Everyone Missed",
-      "url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
-      "published": "2026-10-21T17:45:26+00:00"
-    },
-    {
-      "channel_name": "Wes Roth",
-      "category": "AI",
-      "title": "this could BREAK the entire internet",
-      "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo",
-      "published": "2026-10-21T20:47:18+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Your videos won't sound like AI if you do this",
-      "url": "https://www.youtube.com/watch?v=06jwN3IQLDU",
-      "published": "2026-10-21T17:12:28+00:00"
+      "title": "GTA 6 Launch Night LIVE — Xbox 360 GTA V → PS5 GTA VI",
+      "url": "https://www.youtube.com/watch?v=biFz8gYnoak",
+      "published": "2026-10-21T21:24:13+00:00"
     }
   ]
 }
