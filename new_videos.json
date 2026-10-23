@@ -1,13 +1,83 @@
 {
-  "checked_at": "2026-10-23T02:53:27.957812+00:00",
-  "new_count": 1,
+  "checked_at": "2026-10-23T10:50:34.208894+00:00",
+  "new_count": 11,
   "videos": [
     {
-      "channel_name": "Luma AI",
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BKFC FIGHT CUT | JOHN GARBARINO vs KAINE TOMLINSON JR. 🔥",
+      "url": "https://www.youtube.com/watch?v=8zGQi9AWEk8",
+      "published": "2026-10-23T02:35:08+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "LEONARDO PERDOMO keeps steamrolling the BKFC heavyweight division 💥🥶",
+      "url": "https://www.youtube.com/watch?v=PoQRRiFztbQ",
+      "published": "2026-10-23T01:11:43+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Weigh In: BKFC FIGHT NIGHT CLEARWATER REBER vs STREET | LIVE!",
+      "url": "https://www.youtube.com/watch?v=Fdi-ZVYC-pk",
+      "published": "2026-10-22T23:22:18+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "WALTER PUGLIESI vs KARL THOMPSON | ROUND 1",
+      "url": "https://www.youtube.com/watch?v=ZiZnPBjW_Bs",
+      "published": "2026-10-22T23:15:01+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "LORENZO HUNT shut the lights out with a brutal one-punch KO against DAVID MUNDELL at KnuckleMania 6",
+      "url": "https://www.youtube.com/watch?v=qJMuOk8iF8Q",
+      "published": "2026-10-22T21:17:32+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "You could tell that hurt 😬🫨",
+      "url": "https://www.youtube.com/watch?v=G7PmlyiFw5I",
+      "published": "2026-10-23T03:11:33+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Try Kling 4.0 in Luma",
-      "url": "https://www.youtube.com/watch?v=xujMt35yYlE",
-      "published": "2026-10-23T02:08:21+00:00"
+      "title": "Messi asks ChatGPT to teach him a chess opening",
+      "url": "https://www.youtube.com/watch?v=RLQR5_5fJDA",
+      "published": "2026-10-22T21:58:00+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE",
+      "published": "2026-10-23T08:43:07+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "This New AI Video Model Changes EVERYTHING",
+      "url": "https://www.youtube.com/watch?v=FCt80_Qwwzg",
+      "published": "2026-10-23T05:13:03+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "This FREE AI Previz Tool is Awesome & a Secret Video Model!",
+      "url": "https://www.youtube.com/watch?v=qlSI_ZbRdEc",
+      "published": "2026-10-22T21:56:16+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Sapna Rana: Getting Her Voice Back After ALS",
+      "url": "https://www.youtube.com/watch?v=sgyjdk5bVX0",
+      "published": "2026-10-22T21:51:33+00:00"
     }
   ]
 }
