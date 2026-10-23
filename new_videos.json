@@ -1,27 +1,13 @@
 {
-  "checked_at": "2026-10-22T21:04:25.827796+00:00",
-  "new_count": 3,
+  "checked_at": "2026-10-23T02:53:27.957812+00:00",
+  "new_count": 1,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Two perfectly timed counter right hands changed everything for COLE CAMERON 💥🥶",
-      "url": "https://www.youtube.com/watch?v=KO6kUckVPTg",
-      "published": "2026-10-22T20:05:12+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "JIMMIE RIVERA delivered a brutal knockout at BKFC 95 in Newark 🥶💥",
-      "url": "https://www.youtube.com/watch?v=PULsVVl5bcc",
-      "published": "2026-10-22T18:31:14+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
+      "channel_name": "Luma AI",
       "category": "AI",
-      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
-      "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
-      "published": "2026-10-22T18:00:13+00:00"
+      "title": "Try Kling 4.0 in Luma",
+      "url": "https://www.youtube.com/watch?v=xujMt35yYlE",
+      "published": "2026-10-23T02:08:21+00:00"
     }
   ]
 }
