@@ -1,20 +1,27 @@
 {
-  "checked_at": "2026-10-24T15:11:58.631460+00:00",
-  "new_count": 2,
+  "checked_at": "2026-10-24T20:03:16.763464+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
-      "url": "https://www.youtube.com/watch?v=rySnll4sgu4",
-      "published": "2026-10-24T10:42:33+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "GERONIMO DOS SANTOS KNOCKS OUT ALEXEY OLEINIK 💥",
+      "url": "https://www.youtube.com/watch?v=cCp-at4gWJE",
+      "published": "2026-10-24T15:48:34+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Karya: Why India Needs AI Built in Its Own Languages",
-      "url": "https://www.youtube.com/watch?v=LkjEnORVSgs",
-      "published": "2026-10-24T12:00:35+00:00"
+      "title": "Open-Source AI Models Caught Up! (Kimi K3.1 Pro)",
+      "url": "https://www.youtube.com/watch?v=u3WV4nf8Jdo",
+      "published": "2026-10-24T18:44:59+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "New Mystery AI Video Model: Iron Goddess!",
+      "url": "https://www.youtube.com/watch?v=U6vf0kjMPqU",
+      "published": "2026-10-24T15:50:06+00:00"
     }
   ]
 }
