@@ -1,5 +1,62 @@
 {
-  "checked_at": "2026-10-25T15:23:05.555509+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-25T20:15:21.509981+00:00",
+  "new_count": 8,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BRYAN DURAN vs FELONY CHARLES BENNETT turned out to be way more competitive than many fans expected!",
+      "url": "https://www.youtube.com/watch?v=Hm1mITw6tu8",
+      "published": "2026-10-25T20:01:01+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "KAI STEWART vs BRYAN DURAN | THE FIRST FIGHT 🔥",
+      "url": "https://www.youtube.com/watch?v=CiL9a1CcnyY",
+      "published": "2026-10-25T18:12:40+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this #boxing #streetbeefs",
+      "url": "https://www.youtube.com/watch?v=zw3rGfi4RyU",
+      "published": "2026-10-25T18:50:27+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* You Found Your Next 33 Minutes | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=Gw_HqMxbu5U",
+      "published": "2026-10-25T15:15:36+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Favorite Robot at GTC Berlin #nvidiagtc #robots #robotics",
+      "url": "https://www.youtube.com/watch?v=nSjyyZEtYEg",
+      "published": "2026-10-25T19:37:57+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Jensen Huang’s Keynote Highlights at NVIDIA GTC Berlin 2026",
+      "url": "https://www.youtube.com/watch?v=rF1EsryCAwc",
+      "published": "2026-10-25T17:10:16+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Jack Dorsey Just Revealed a Terrifying AI Breakthrough",
+      "url": "https://www.youtube.com/watch?v=MFP7CRm2xW4",
+      "published": "2026-10-25T16:45:09+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "Free & Open Source AI Video Previz Tool!",
+      "url": "https://www.youtube.com/watch?v=rUpGzeoXwTs",
+      "published": "2026-10-25T18:02:20+00:00"
+    }
+  ]
 }
