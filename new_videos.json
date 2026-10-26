@@ -1,5 +1,62 @@
 {
-  "checked_at": "2026-10-26T02:40:31.111540+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-26T12:03:16.402430+00:00",
+  "new_count": 8,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BRYAN DURAN made quick work of his opponent at BKFC 49, scoring the knockout in under a minute 💥🥶",
+      "url": "https://www.youtube.com/watch?v=dYfhKUFVp2I",
+      "published": "2026-10-26T01:56:25+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "JOSHUA HUBER ran right through ANDREW YATES at BKFC PROSPECTS DENVER 💥🔥",
+      "url": "https://www.youtube.com/watch?v=K0WFcqSraHc",
+      "published": "2026-10-26T00:33:23+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "A textbook one-two from LUIS PALOMINO sent TOM SHOAFF crashing to the canvas in their title fight!",
+      "url": "https://www.youtube.com/watch?v=mCTCvX9PuX4",
+      "published": "2026-10-25T22:47:08+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "ONE OF THE FASTEST KNOCKOUTS IN BKFC HISTORY 🤯💥",
+      "url": "https://www.youtube.com/watch?v=EQSLEO-aD3o",
+      "published": "2026-10-25T21:17:13+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "This was insane 👀",
+      "url": "https://www.youtube.com/watch?v=az2AhgXHS7k",
+      "published": "2026-10-26T02:55:28+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Microducks Took Over GTC Berlin #NVIDIAGTC #Robots #Microducks",
+      "url": "https://www.youtube.com/watch?v=MLHcSiNVIto",
+      "published": "2026-10-25T23:00:08+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "The Robot Butler Will Clean Up After You",
+      "url": "https://www.youtube.com/watch?v=B8YFkYY20OY",
+      "published": "2026-10-26T05:18:59+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Mati Staniszewski on Voice AI in India | ElevenLabs Summit",
+      "url": "https://www.youtube.com/watch?v=hy5xVXAy8Cs",
+      "published": "2026-10-26T10:49:40+00:00"
+    }
+  ]
 }
