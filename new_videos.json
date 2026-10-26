@@ -1,62 +1,104 @@
 {
-  "checked_at": "2026-10-26T12:03:16.402430+00:00",
-  "new_count": 8,
+  "checked_at": "2026-10-26T22:09:42.862508+00:00",
+  "new_count": 14,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "BRYAN DURAN made quick work of his opponent at BKFC 49, scoring the knockout in under a minute 💥🥶",
-      "url": "https://www.youtube.com/watch?v=dYfhKUFVp2I",
-      "published": "2026-10-26T01:56:25+00:00"
+      "title": "JOHN GARBARINO vs APOSTLE SPENCER",
+      "url": "https://www.youtube.com/watch?v=sFtf54eibM8",
+      "published": "2026-10-26T21:06:58+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "JOSHUA HUBER ran right through ANDREW YATES at BKFC PROSPECTS DENVER 💥🔥",
-      "url": "https://www.youtube.com/watch?v=K0WFcqSraHc",
-      "published": "2026-10-26T00:33:23+00:00"
+      "title": "Feel what it’s like to be there live. Pure BKFC chaos from the stands 🤯💥",
+      "url": "https://www.youtube.com/watch?v=htRcgTH2ou8",
+      "published": "2026-10-26T19:31:24+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "A textbook one-two from LUIS PALOMINO sent TOM SHOAFF crashing to the canvas in their title fight!",
-      "url": "https://www.youtube.com/watch?v=mCTCvX9PuX4",
-      "published": "2026-10-25T22:47:08+00:00"
+      "title": "PAWEL “GORILLA” WERSZYNIN announced himself in a big way in his BKFC debut 😳💥",
+      "url": "https://www.youtube.com/watch?v=UZO51D33n7E",
+      "published": "2026-10-26T17:26:23+00:00"
     },
     {
-      "channel_name": "BKFC",
+      "channel_name": "Exploring With Josh",
       "category": "猎奇",
-      "title": "ONE OF THE FASTEST KNOCKOUTS IN BKFC HISTORY 🤯💥",
-      "url": "https://www.youtube.com/watch?v=EQSLEO-aD3o",
-      "published": "2026-10-25T21:17:13+00:00"
+      "title": "I Explored the Deadliest Island in New York City (North Brother Island) FULL MOVIE",
+      "url": "https://www.youtube.com/watch?v=6pY4wKs0-3Y",
+      "published": "2026-10-26T19:17:10+00:00"
     },
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "This was insane 👀",
-      "url": "https://www.youtube.com/watch?v=az2AhgXHS7k",
-      "published": "2026-10-26T02:55:28+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
+      "url": "https://www.youtube.com/watch?v=crEHJon4iD4",
+      "published": "2026-10-26T20:06:50+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Hebbia on Astra: Better research, better presentations | OpenAI",
+      "url": "https://www.youtube.com/watch?v=aNMZjoPGPOg",
+      "published": "2026-10-26T19:58:02+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "GPT-6.1 Terra is now in orbit",
+      "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
+      "published": "2026-10-26T18:12:28+00:00"
     },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Microducks Took Over GTC Berlin #NVIDIAGTC #Robots #Microducks",
-      "url": "https://www.youtube.com/watch?v=MLHcSiNVIto",
-      "published": "2026-10-25T23:00:08+00:00"
+      "title": "How Audi is Reimagining Production With Digital Twins and Physical AI",
+      "url": "https://www.youtube.com/watch?v=ouNWfNvqlDg",
+      "published": "2026-10-26T19:49:36+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Using AI Agents to Teach Robots to Walk in Simulation #NVIDIAGTC #Microducks #Robotics",
+      "url": "https://www.youtube.com/watch?v=bXNTUB209KE",
+      "published": "2026-10-26T16:00:24+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Getting started with App Studio | Runway",
+      "url": "https://www.youtube.com/watch?v=pH0VxfRj3Is",
+      "published": "2026-10-26T17:56:54+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Introducing App Studio | Runway",
+      "url": "https://www.youtube.com/watch?v=W2t7CbNpZ8M",
+      "published": "2026-10-26T17:56:52+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "The Robot Butler Will Clean Up After You",
-      "url": "https://www.youtube.com/watch?v=B8YFkYY20OY",
-      "published": "2026-10-26T05:18:59+00:00"
+      "title": "ANOTHER Flying Car? (Not Tesla / Not AI)",
+      "url": "https://www.youtube.com/watch?v=gC18kqOcCEI",
+      "published": "2026-10-26T20:19:13+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "Kling IPO Signals a \"Voltron\" AI Video Model?",
+      "url": "https://www.youtube.com/watch?v=QwzgUvqpleg",
+      "published": "2026-10-26T14:16:38+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Mati Staniszewski on Voice AI in India | ElevenLabs Summit",
-      "url": "https://www.youtube.com/watch?v=hy5xVXAy8Cs",
-      "published": "2026-10-26T10:49:40+00:00"
+      "title": "Turn one product photo into a full set of UGC ads, instantly.",
+      "url": "https://www.youtube.com/watch?v=_Ti9MWwU8qE",
+      "published": "2026-10-26T16:11:02+00:00"
     }
   ]
 }
