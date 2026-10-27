@@ -1,118 +1,27 @@
 {
-  "checked_at": "2026-10-27T17:11:44.249999+00:00",
-  "new_count": 16,
+  "checked_at": "2026-10-27T21:41:00.134174+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Lawyers Stay in Control | AT&T + OpenAI",
-      "url": "https://www.youtube.com/watch?v=Yim7JrVzSkk",
-      "published": "2026-10-27T15:40:48+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "SIX-SECOND KNOCKOUT 🤯💥",
+      "url": "https://www.youtube.com/watch?v=KzK5X7wlVAw",
+      "published": "2026-10-27T18:45:47+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Runway",
       "category": "AI",
-      "title": "Getting a Head Start with Codex | Mitchell Hashimoto",
-      "url": "https://www.youtube.com/watch?v=lPZQrVFcz3c",
-      "published": "2026-10-27T15:04:57+00:00"
+      "title": "How to use Runway Ads | Runway",
+      "url": "https://www.youtube.com/watch?v=ZWqzW_6-svA",
+      "published": "2026-10-27T19:21:26+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Theoretically Media",
       "category": "AI",
-      "title": "From Ideas to Prototypes with Codex | Shopify’s Mikhail Parakhin",
-      "url": "https://www.youtube.com/watch?v=cflbzHRvGvg",
-      "published": "2026-10-27T15:03:41+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "How Sotira Gives Unsold Inventory a Second Life with Codex",
-      "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo",
-      "published": "2026-10-27T15:02:46+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
-      "url": "https://www.youtube.com/watch?v=vKMDQJpRSvA",
-      "published": "2026-10-27T14:55:22+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
-      "url": "https://www.youtube.com/watch?v=ilG7LPrngkI",
-      "published": "2026-10-27T14:54:56+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Better Sources, Better Presentations | Hebbia on Astra",
-      "url": "https://www.youtube.com/watch?v=uhpS6vfhrH8",
-      "published": "2026-10-27T14:50:21+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Taking on Harder Problems with Astra | Jump Trading",
-      "url": "https://www.youtube.com/watch?v=kc9SMiwHw5g",
-      "published": "2026-10-27T14:47:57+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Moving IPO Work Forward with AI | Cooley + OpenAI",
-      "url": "https://www.youtube.com/watch?v=XAVYrC9lY7Q",
-      "published": "2026-10-27T14:42:25+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
-      "url": "https://www.youtube.com/watch?v=tFmlEKQkZi0",
-      "published": "2026-10-27T12:49:09+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
-      "url": "https://www.youtube.com/watch?v=0qb0FQo3M5c",
-      "published": "2026-10-27T12:45:06+00:00"
-    },
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
-      "published": "2026-10-27T16:00:41+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "Ten years. A Millionfold Leap in AI.",
-      "url": "https://www.youtube.com/watch?v=7cJlIJpKBW4",
-      "published": "2026-10-27T16:36:42+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "AI in the UK: Drug Discovery, Robotics and AI Factories | NVIDIA",
-      "url": "https://www.youtube.com/watch?v=XWYMvOFMacA",
-      "published": "2026-10-27T13:00:19+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "Crazy Spy Tech You Can Use For Free!",
-      "url": "https://www.youtube.com/watch?v=EUjd_UBApoA",
-      "published": "2026-10-27T16:43:52+00:00"
-    },
-    {
-      "channel_name": "Wes Roth",
-      "category": "AI",
-      "title": "OpenAI just broke physics...",
-      "url": "https://www.youtube.com/watch?v=lskEzJ7ixw0",
-      "published": "2026-10-27T12:10:55+00:00"
+      "title": "Genie 4 Is the FUTURE of AI World Models!",
+      "url": "https://www.youtube.com/watch?v=kJgYSiIZMb8",
+      "published": "2026-10-27T19:30:09+00:00"
     }
   ]
 }
