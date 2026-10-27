@@ -1,104 +1,34 @@
 {
-  "checked_at": "2026-10-26T22:09:42.862508+00:00",
-  "new_count": 14,
+  "checked_at": "2026-10-27T03:15:24.244212+00:00",
+  "new_count": 4,
   "videos": [
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "JOHN GARBARINO vs APOSTLE SPENCER",
-      "url": "https://www.youtube.com/watch?v=sFtf54eibM8",
-      "published": "2026-10-26T21:06:58+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Feel what it’s like to be there live. Pure BKFC chaos from the stands 🤯💥",
-      "url": "https://www.youtube.com/watch?v=htRcgTH2ou8",
-      "published": "2026-10-26T19:31:24+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "PAWEL “GORILLA” WERSZYNIN announced himself in a big way in his BKFC debut 😳💥",
-      "url": "https://www.youtube.com/watch?v=UZO51D33n7E",
-      "published": "2026-10-26T17:26:23+00:00"
-    },
-    {
-      "channel_name": "Exploring With Josh",
-      "category": "猎奇",
-      "title": "I Explored the Deadliest Island in New York City (North Brother Island) FULL MOVIE",
-      "url": "https://www.youtube.com/watch?v=6pY4wKs0-3Y",
-      "published": "2026-10-26T19:17:10+00:00"
-    },
     {
       "channel_name": "OpenAI",
       "category": "AI",
       "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
-      "url": "https://www.youtube.com/watch?v=crEHJon4iD4",
-      "published": "2026-10-26T20:06:50+00:00"
+      "url": "https://www.youtube.com/watch?v=Wanw4woz7zc",
+      "published": "2026-10-26T23:24:00+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Hebbia on Astra: Better research, better presentations | OpenAI",
-      "url": "https://www.youtube.com/watch?v=aNMZjoPGPOg",
-      "published": "2026-10-26T19:58:02+00:00"
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://www.youtube.com/watch?v=zUybw-9ejZ4",
+      "published": "2026-10-26T22:03:54+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "GPT-6.1 Terra is now in orbit",
-      "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
-      "published": "2026-10-26T18:12:28+00:00"
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://www.youtube.com/watch?v=8fp-G14hvUk",
+      "published": "2026-10-26T22:03:40+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Audi is Reimagining Production With Digital Twins and Physical AI",
-      "url": "https://www.youtube.com/watch?v=ouNWfNvqlDg",
-      "published": "2026-10-26T19:49:36+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "Using AI Agents to Teach Robots to Walk in Simulation #NVIDIAGTC #Microducks #Robotics",
-      "url": "https://www.youtube.com/watch?v=bXNTUB209KE",
-      "published": "2026-10-26T16:00:24+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Getting started with App Studio | Runway",
-      "url": "https://www.youtube.com/watch?v=pH0VxfRj3Is",
-      "published": "2026-10-26T17:56:54+00:00"
-    },
-    {
-      "channel_name": "Runway",
-      "category": "AI",
-      "title": "Introducing App Studio | Runway",
-      "url": "https://www.youtube.com/watch?v=W2t7CbNpZ8M",
-      "published": "2026-10-26T17:56:52+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "ANOTHER Flying Car? (Not Tesla / Not AI)",
-      "url": "https://www.youtube.com/watch?v=gC18kqOcCEI",
-      "published": "2026-10-26T20:19:13+00:00"
-    },
-    {
-      "channel_name": "Theoretically Media",
-      "category": "AI",
-      "title": "Kling IPO Signals a \"Voltron\" AI Video Model?",
-      "url": "https://www.youtube.com/watch?v=QwzgUvqpleg",
-      "published": "2026-10-26T14:16:38+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Turn one product photo into a full set of UGC ads, instantly.",
-      "url": "https://www.youtube.com/watch?v=_Ti9MWwU8qE",
-      "published": "2026-10-26T16:11:02+00:00"
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://www.youtube.com/watch?v=inrYeej3Big",
+      "published": "2026-10-26T22:03:06+00:00"
     }
   ]
 }
