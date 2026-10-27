@@ -1,69 +1,118 @@
 {
-  "checked_at": "2026-10-27T11:23:15.403571+00:00",
-  "new_count": 9,
+  "checked_at": "2026-10-27T17:11:44.249999+00:00",
+  "new_count": 16,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "ONE OF THE WILDEST FIGHTS IN BKFC HISTORY WENT DOWN IN HAWAII 🌺🔥",
-      "url": "https://www.youtube.com/watch?v=gnpu0DYEkIc",
-      "published": "2026-10-27T02:47:09+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Lawyers Stay in Control | AT&T + OpenAI",
+      "url": "https://www.youtube.com/watch?v=Yim7JrVzSkk",
+      "published": "2026-10-27T15:40:48+00:00"
     },
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "JOE LAUZON made one hell of a first impression in his BKFC debut at BKFC 92 in BOSTON 🔥",
-      "url": "https://www.youtube.com/watch?v=rlmIHLkysYc",
-      "published": "2026-10-27T01:21:37+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Getting a Head Start with Codex | Mitchell Hashimoto",
+      "url": "https://www.youtube.com/watch?v=lPZQrVFcz3c",
+      "published": "2026-10-27T15:04:57+00:00"
     },
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Two big moments from BKFC 91 in Naples. Massive knockdown ➡️ brutal KO 💥",
-      "url": "https://www.youtube.com/watch?v=a80tpC9I1ZI",
-      "published": "2026-10-26T22:27:36+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "From Ideas to Prototypes with Codex | Shopify’s Mikhail Parakhin",
+      "url": "https://www.youtube.com/watch?v=cflbzHRvGvg",
+      "published": "2026-10-27T15:03:41+00:00"
     },
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "That delayed reaction was CRAZY 😳",
-      "url": "https://www.youtube.com/watch?v=JTjiSkVI0EY",
-      "published": "2026-10-27T05:43:15+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Sotira Gives Unsold Inventory a Second Life with Codex",
+      "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo",
+      "published": "2026-10-27T15:02:46+00:00"
     },
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He went down and the punches kept coming 😳 #streetbeefs #boxing",
-      "url": "https://www.youtube.com/watch?v=xccKw8dw1_c",
-      "published": "2026-10-27T03:01:24+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
+      "url": "https://www.youtube.com/watch?v=vKMDQJpRSvA",
+      "published": "2026-10-27T14:55:22+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
+      "url": "https://www.youtube.com/watch?v=ilG7LPrngkI",
+      "published": "2026-10-27T14:54:56+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Better Sources, Better Presentations | Hebbia on Astra",
+      "url": "https://www.youtube.com/watch?v=uhpS6vfhrH8",
+      "published": "2026-10-27T14:50:21+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Taking on Harder Problems with Astra | Jump Trading",
+      "url": "https://www.youtube.com/watch?v=kc9SMiwHw5g",
+      "published": "2026-10-27T14:47:57+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Moving IPO Work Forward with AI | Cooley + OpenAI",
+      "url": "https://www.youtube.com/watch?v=XAVYrC9lY7Q",
+      "published": "2026-10-27T14:42:25+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
+      "url": "https://www.youtube.com/watch?v=tFmlEKQkZi0",
+      "published": "2026-10-27T12:49:09+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
+      "url": "https://www.youtube.com/watch?v=0qb0FQo3M5c",
+      "published": "2026-10-27T12:45:06+00:00"
+    },
+    {
+      "channel_name": "Google DeepMind",
+      "category": "AI",
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
+      "published": "2026-10-27T16:00:41+00:00"
     },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "AI in France: From NVIDIA’s First Chip to AI Factories | NVIDIA",
-      "url": "https://www.youtube.com/watch?v=dmbT2IHpOKU",
-      "published": "2026-10-26T23:43:23+00:00"
+      "title": "Ten years. A Millionfold Leap in AI.",
+      "url": "https://www.youtube.com/watch?v=7cJlIJpKBW4",
+      "published": "2026-10-27T16:36:42+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "OpenAI Just Made a Discovery Nobody Thought Was Possible",
-      "url": "https://www.youtube.com/watch?v=3uoStyWxO5M",
-      "published": "2026-10-27T04:30:10+00:00"
+      "title": "AI in the UK: Drug Discovery, Robotics and AI Factories | NVIDIA",
+      "url": "https://www.youtube.com/watch?v=XWYMvOFMacA",
+      "published": "2026-10-27T13:00:19+00:00"
     },
     {
-      "channel_name": "MattVidPro AI",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "GPT-6.1 Terra vs Claude 5.5: Same Prompt, Not Even Close",
-      "url": "https://www.youtube.com/watch?v=6Il7tudXo1E",
-      "published": "2026-10-26T23:19:12+00:00"
+      "title": "Crazy Spy Tech You Can Use For Free!",
+      "url": "https://www.youtube.com/watch?v=EUjd_UBApoA",
+      "published": "2026-10-27T16:43:52+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "Wes Roth",
       "category": "AI",
-      "title": "Varun Mayya on 3 Years of AI Avatars With ElevenLabs",
-      "url": "https://www.youtube.com/watch?v=DxJ67NoUV18",
-      "published": "2026-10-27T11:15:28+00:00"
+      "title": "OpenAI just broke physics...",
+      "url": "https://www.youtube.com/watch?v=lskEzJ7ixw0",
+      "published": "2026-10-27T12:10:55+00:00"
     }
   ]
 }
