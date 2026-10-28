@@ -1,5 +1,104 @@
 {
-  "checked_at": "2026-10-28T03:29:38.089245+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-10-28T11:56:21.922242+00:00",
+  "new_count": 14,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "TAYLOR STARLING IS WILD! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=VvBzX38hP28",
+      "published": "2026-10-28T02:46:02+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "One of the most brutal fights in BKFC history | AGI FAULKNER vs DAVID OSCAR 💥",
+      "url": "https://www.youtube.com/watch?v=j5n6J1rXPXo",
+      "published": "2026-10-28T00:53:30+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Head kick didn’t even faze him 😯",
+      "url": "https://www.youtube.com/watch?v=ZyrF-O9i1T8",
+      "published": "2026-10-28T03:57:51+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "Could You Defeat A DEMOGORGON ?",
+      "url": "https://www.youtube.com/watch?v=oSFV-EecsWk",
+      "published": "2026-10-27T22:02:01+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
+      "url": "https://www.youtube.com/watch?v=M2Oa42hF67E",
+      "published": "2026-10-28T09:45:24+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+      "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
+      "published": "2026-10-28T09:45:18+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
+      "url": "https://www.youtube.com/watch?v=z-WZMjNsg-k",
+      "published": "2026-10-28T09:45:16+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Legora is transforming legal work with OpenAI",
+      "url": "https://www.youtube.com/watch?v=yJxZef1Ylok",
+      "published": "2026-10-28T09:45:14+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "How AI Is Advancing Human Health",
+      "url": "https://www.youtube.com/watch?v=QqeKRvAkIc8",
+      "published": "2026-10-28T00:45:39+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "DeepSeek Just Made American AI Companies Panic",
+      "url": "https://www.youtube.com/watch?v=t0mTwJxP4eM",
+      "published": "2026-10-28T06:00:22+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "AI builds EVERYTHING...",
+      "url": "https://www.youtube.com/watch?v=6-sMVePCKS4",
+      "published": "2026-10-28T07:36:56+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Inside Urban Company's 5 Million Minutes of AI Calls a Month",
+      "url": "https://www.youtube.com/watch?v=oQQjQnpApao",
+      "published": "2026-10-28T11:15:15+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Candid Health automates payer calls with ElevenAgents",
+      "url": "https://www.youtube.com/watch?v=92SfO1k66v4",
+      "published": "2026-10-28T10:00:05+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Losing is Voice to ALS, Aníbal is Preserving it for his Students",
+      "url": "https://www.youtube.com/watch?v=A3FmmbU0JhI",
+      "published": "2026-10-28T09:00:06+00:00"
+    }
+  ]
 }
