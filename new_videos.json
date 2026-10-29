@@ -1,62 +1,97 @@
 {
-  "checked_at": "2026-10-29T12:05:27.509655+00:00",
-  "new_count": 8,
+  "checked_at": "2026-10-29T22:17:29.250367+00:00",
+  "new_count": 13,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "WHAT A BKFC DEBUT FOR BIG BEN! 🤯💥",
-      "url": "https://www.youtube.com/watch?v=2XY7ghL_Ok4",
-      "published": "2026-10-29T04:11:44+00:00"
+      "title": "3 SECONDS. THAT'S ALL IT TOOK! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=eAY9iBWPBuE",
+      "published": "2026-10-29T18:49:01+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "YOU DON'T WANT TO MAKE LEONARDO PERDOMO MAD! 😤👊",
-      "url": "https://www.youtube.com/watch?v=1r6--d27IZo",
-      "published": "2026-10-29T01:16:18+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He Made That Slam Look Too Easy 😳",
-      "url": "https://www.youtube.com/watch?v=aYFs3khTOdE",
-      "published": "2026-10-29T01:27:30+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Bro switched the whole game plan mid-fight",
-      "url": "https://www.youtube.com/watch?v=gacXvRgZXtU",
-      "published": "2026-10-28T23:55:41+00:00"
+      "title": "GET READY FOR THE FIRST EVER BKFC BRUISE CRUISE! Jan 22-25, Miami ➡️ Nassau: Book now at BKFSEA.COM",
+      "url": "https://www.youtube.com/watch?v=wmR0kqCih10",
+      "published": "2026-10-29T14:19:26+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "API credits, now in ChatGPT Pro and Business plans",
-      "url": "https://www.youtube.com/watch?v=ujmyzWSj8IU",
-      "published": "2026-10-28T23:45:26+00:00"
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "url": "https://www.youtube.com/watch?v=L6pzlo1QvoM",
+      "published": "2026-10-29T16:23:43+00:00"
     },
     {
-      "channel_name": "Luma AI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Change an ad’s outfit and location in Luma",
-      "url": "https://www.youtube.com/watch?v=RsWbRcSVBCo",
-      "published": "2026-10-29T01:24:32+00:00"
+      "title": "GTC Berlin 2026: Power Demand, Increasing Grid Reliability and Resiliency",
+      "url": "https://www.youtube.com/watch?v=JXEMFLQwi4A",
+      "published": "2026-10-29T21:36:29+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Designed in Berlin, for GTC Berlin.",
+      "url": "https://www.youtube.com/watch?v=8mYfTR3E3Cw",
+      "published": "2026-10-29T21:35:36+00:00"
+    },
+    {
+      "channel_name": "Pika Labs",
+      "category": "AI",
+      "title": "Introducing Pika H3 Flex | Built for Professional Iteration",
+      "url": "https://www.youtube.com/watch?v=-R2ftjEOSX0",
+      "published": "2026-10-29T18:10:15+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Kling 4.0 Creator Highlights: Dynamic Motions",
+      "url": "https://www.youtube.com/watch?v=V-qElAG3kDQ",
+      "published": "2026-10-29T12:30:12+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Gemini 4 Carbon - The Worlds Smartest AI (Beats Opus 5.5 and GPT-6 Astra)",
+      "url": "https://www.youtube.com/watch?v=yNI84SU9x4I",
+      "published": "2026-10-29T19:36:52+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "3 Critical Tasks AI Can Automate For You",
+      "url": "https://www.youtube.com/watch?v=evXFML_Rnc0",
+      "published": "2026-10-29T15:28:47+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "AI Video Just Stepped Into the Real World!",
+      "url": "https://www.youtube.com/watch?v=mpqgn9DMld4",
+      "published": "2026-10-29T21:07:35+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "How AI Is Changing Content and Advertising in India",
-      "url": "https://www.youtube.com/watch?v=bwyxgCjYWgU",
-      "published": "2026-10-29T11:30:07+00:00"
+      "title": "Trick or treat, but make it a character swap",
+      "url": "https://www.youtube.com/watch?v=JQys7FHvq64",
+      "published": "2026-10-29T20:20:33+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Angle Health resolves 90% of provider calls with ElevenAgents",
-      "url": "https://www.youtube.com/watch?v=21rK4A-Iowg",
-      "published": "2026-10-29T10:00:10+00:00"
+      "title": "Introducing SFX v3",
+      "url": "https://www.youtube.com/watch?v=O4662zuKj2A",
+      "published": "2026-10-29T18:01:12+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Turn yourself into any Halloween character with Recast",
+      "url": "https://www.youtube.com/watch?v=766JUlV0baU",
+      "published": "2026-10-29T15:41:05+00:00"
     }
   ]
 }
