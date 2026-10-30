@@ -1,48 +1,41 @@
 {
-  "checked_at": "2026-10-30T11:57:28.069521+00:00",
-  "new_count": 6,
+  "checked_at": "2026-10-30T17:45:20.357018+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "Steve Ronin",
+      "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "Investigating The Most Haunted Places In The World Nobody Dares To Go",
-      "url": "https://www.youtube.com/watch?v=Gf-O9G_twLs",
-      "published": "2026-10-30T03:00:31+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "CONOR McGREGOR'S FORMER OPPONENT MARCUS BRIMAGE came out swinging at BKFC 35! 🤯💥",
-      "url": "https://www.youtube.com/watch?v=HsZ1gFiDpD8",
-      "published": "2026-10-30T02:18:58+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "WHAT A BKFC DEBUT! 🤯💥 Cuba's EDUARDO CONCEPCION delivered a lightning-fast knockout at BKFC 18!",
-      "url": "https://www.youtube.com/watch?v=tXTywRA2iKU",
-      "published": "2026-10-30T00:43:03+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "THAT SLAP WAS PERSONAL! 😳👋",
-      "url": "https://www.youtube.com/watch?v=6o89v3yocuE",
-      "published": "2026-10-29T22:11:51+00:00"
+      "title": "*NEW* Fights to Watch While Your Food Gets Cold | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=tuv_1RpywO0",
+      "published": "2026-10-30T17:33:16+00:00"
     },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "This was evenly matched",
-      "url": "https://www.youtube.com/watch?v=jmGUIJ8pGkM",
-      "published": "2026-10-30T02:35:57+00:00"
+      "title": "Ref putting it all on the line😂😂 #boxing",
+      "url": "https://www.youtube.com/watch?v=n_Lyrgmcmqg",
+      "published": "2026-10-30T13:35:07+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
-      "url": "https://www.youtube.com/watch?v=GNYHDltnwZQ",
-      "published": "2026-10-29T22:48:11+00:00"
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "url": "https://www.youtube.com/watch?v=7TtGMileCus",
+      "published": "2026-10-30T15:24:48+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "url": "https://www.youtube.com/watch?v=Oi9DHk57KeQ",
+      "published": "2026-10-30T15:22:47+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Kling AI Originals｜My Favorite Night of the Year",
+      "url": "https://www.youtube.com/watch?v=7M3cBctwbqY",
+      "published": "2026-10-30T15:00:04+00:00"
     }
   ]
 }
