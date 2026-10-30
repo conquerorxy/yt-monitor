@@ -1,41 +1,62 @@
 {
-  "checked_at": "2026-10-30T17:45:20.357018+00:00",
-  "new_count": 5,
+  "checked_at": "2026-10-30T21:51:48.482137+00:00",
+  "new_count": 8,
   "videos": [
     {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "*NEW* Fights to Watch While Your Food Gets Cold | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=tuv_1RpywO0",
-      "published": "2026-10-30T17:33:16+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Ref putting it all on the line😂😂 #boxing",
-      "url": "https://www.youtube.com/watch?v=n_Lyrgmcmqg",
-      "published": "2026-10-30T13:35:07+00:00"
-    },
-    {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
-      "url": "https://www.youtube.com/watch?v=7TtGMileCus",
-      "published": "2026-10-30T15:24:48+00:00"
+      "title": "There are many futures. Which do you want to build?",
+      "url": "https://www.youtube.com/watch?v=o4D1J1YWjhg",
+      "published": "2026-10-30T20:17:12+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
-      "url": "https://www.youtube.com/watch?v=Oi9DHk57KeQ",
-      "published": "2026-10-30T15:22:47+00:00"
+      "title": "NVIDIA GTC Berlin 2026 Event Highlights: AI in Action Across Europe",
+      "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ",
+      "published": "2026-10-30T20:27:20+00:00"
     },
     {
-      "channel_name": "Kling AI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Kling AI Originals｜My Favorite Night of the Year",
-      "url": "https://www.youtube.com/watch?v=7M3cBctwbqY",
-      "published": "2026-10-30T15:00:04+00:00"
+      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
+      "url": "https://www.youtube.com/watch?v=ndtnt5kWT5A",
+      "published": "2026-10-30T19:47:01+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "From Berlin to your living room. 🌍",
+      "url": "https://www.youtube.com/watch?v=rg6gRXwHaS8",
+      "published": "2026-10-30T18:26:58+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Google Just Created an AI That Simulates Reality",
+      "url": "https://www.youtube.com/watch?v=tFUEzE9EsN4",
+      "published": "2026-10-30T18:00:38+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "6 AI Updates Worth Knowing & A Bubble-Bursting IPO",
+      "url": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
+      "published": "2026-10-30T21:15:04+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "When a humanoid and a drone become besties",
+      "url": "https://www.youtube.com/watch?v=4sGplZdBy6A",
+      "published": "2026-10-30T19:21:44+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "my bots just BROKE Wall St...",
+      "url": "https://www.youtube.com/watch?v=rY8FuDONHxw",
+      "published": "2026-10-30T18:39:37+00:00"
     }
   ]
 }
