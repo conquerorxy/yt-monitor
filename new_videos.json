@@ -1,20 +1,41 @@
 {
-  "checked_at": "2026-10-31T16:39:12.367726+00:00",
-  "new_count": 2,
+  "checked_at": "2026-10-31T20:51:43.923322+00:00",
+  "new_count": 5,
   "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "DALVIN BLAIR Sends a Viking Straight to VALHALLA With His FIRST PUNCH! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=V8-faucf7M0",
+      "published": "2026-10-31T19:38:01+00:00"
+    },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "That spinning back kick came out of NOWHERE 😳",
-      "url": "https://www.youtube.com/watch?v=oi08hWsA-qU",
-      "published": "2026-10-31T16:31:45+00:00"
+      "title": "He Picked Him Up Like It Was NOTHING 😳",
+      "url": "https://www.youtube.com/watch?v=-OKv9SgQYhY",
+      "published": "2026-10-31T20:49:54+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "UNC with the Armbar #mma",
+      "url": "https://www.youtube.com/watch?v=gUKfW-kO0TA",
+      "published": "2026-10-31T19:00:11+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "AI News Is Getting Absolutely RIDICULOUS",
-      "url": "https://www.youtube.com/watch?v=UIYoKcIvSVo",
-      "published": "2026-10-31T16:15:15+00:00"
+      "title": "The robots were told there’d be candy. 🍬🎃",
+      "url": "https://www.youtube.com/watch?v=8K08Ywgduno",
+      "published": "2026-10-31T18:04:07+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Glasses That Make You Telepathic",
+      "url": "https://www.youtube.com/watch?v=_9R7QOhJh-o",
+      "published": "2026-10-31T18:16:57+00:00"
     }
   ]
 }
