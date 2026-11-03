@@ -1,139 +1,69 @@
 {
-  "checked_at": "2026-11-03T13:25:58.799638+00:00",
-  "new_count": 19,
+  "checked_at": "2026-11-03T22:46:16.025908+00:00",
+  "new_count": 9,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "WHAT A PERFORMANCE FROM RICO DISCIULLO! FOUR KNOCKDOWNS and a BRUTAL KNOCKOUT! 💥🥶",
-      "url": "https://www.youtube.com/watch?v=BrhcxTVy4Nw",
-      "published": "2026-11-03T02:41:53+00:00"
+      "title": "“GOGO” — LIGHTS OUT! 👊💥",
+      "url": "https://www.youtube.com/watch?v=Six21kun8Go",
+      "published": "2026-11-03T18:46:59+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "GOGO'S LAST FIGHT WAS AN ABSOLUTE BRAWL! 🤯🔥",
-      "url": "https://www.youtube.com/watch?v=Y5cirBny0MU",
-      "published": "2026-11-03T01:40:37+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "ABSOLUTELY RUTHLESS FROM DAVID BURKE! 🥶💥",
-      "url": "https://www.youtube.com/watch?v=z-OC4IKZngw",
-      "published": "2026-11-02T23:29:32+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "SEAN WEIR'S BKFC 81 FIGHT WAS ABSOLUTE MADNESS! 🤯",
-      "url": "https://www.youtube.com/watch?v=_pTk-YzANBc",
-      "published": "2026-11-02T20:03:39+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "WALTER PUGLIESI vs DOMINIK HEROLD | BKFC FIGHT CUT",
-      "url": "https://www.youtube.com/watch?v=KmMoAHvEFgs",
-      "published": "2026-11-02T18:32:20+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Bro just emoted #mma",
-      "url": "https://www.youtube.com/watch?v=PSIjSa0uPx8",
-      "published": "2026-11-03T11:08:51+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "They went straight to work",
-      "url": "https://www.youtube.com/watch?v=zJP30dJBn9U",
-      "published": "2026-11-03T02:11:41+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Submission ftw #mma",
-      "url": "https://www.youtube.com/watch?v=0SOUOYax4ro",
-      "published": "2026-11-03T01:43:36+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Dominated him #mma",
-      "url": "https://www.youtube.com/watch?v=t6NopgMWzPA",
-      "published": "2026-11-02T20:00:17+00:00"
+      "title": "THE REF SAID “NOPE!” 😂👀 TOWNSEL vs PEREZ WAS WILD! 🤯",
+      "url": "https://www.youtube.com/watch?v=IFTywhPRELw",
+      "published": "2026-11-03T17:15:36+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Coinbase on OpenAI Private Intelligence",
-      "url": "https://www.youtube.com/watch?v=NbDF90z-g6w",
-      "published": "2026-11-02T22:44:26+00:00"
+      "title": "TamaGPT",
+      "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
+      "published": "2026-11-03T18:30:30+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Coinbase on OpenAI Private Intelligence",
-      "url": "https://www.youtube.com/watch?v=Amm9ySSET4c",
-      "published": "2026-11-02T16:59:21+00:00"
+      "title": "Qodo brings company context into Codex code review",
+      "url": "https://www.youtube.com/watch?v=yC72iQx6rM0",
+      "published": "2026-11-03T18:11:23+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "From AI Infrastructure to the 6G Future",
-      "url": "https://www.youtube.com/watch?v=yLMjEpMio2w",
-      "published": "2026-11-03T13:00:13+00:00"
+      "title": "ChatGPT Voice is now in Finances",
+      "url": "https://www.youtube.com/watch?v=63pcV4z0DwI",
+      "published": "2026-11-03T18:04:51+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Your Spark, Your Story: Yannik Marek | NVIDIA RTX Spark",
-      "url": "https://www.youtube.com/watch?v=sooiYbnctEw",
-      "published": "2026-11-02T20:51:00+00:00"
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "url": "https://www.youtube.com/watch?v=JR7xBi2kJjY",
+      "published": "2026-11-03T16:51:36+00:00"
     },
     {
-      "channel_name": "Luma AI",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Expression Sheet - Luma",
-      "url": "https://www.youtube.com/watch?v=MZ-1e4uYEiA",
-      "published": "2026-11-03T02:43:45+00:00"
+      "title": "Glean on privacy and OpenAI Private Intelligence",
+      "url": "https://www.youtube.com/watch?v=2h16j4K_NbA",
+      "published": "2026-11-03T16:46:37+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "Runway",
       "category": "AI",
-      "title": "AI Is Now Doing Things Scientists Thought Were Impossible",
-      "url": "https://www.youtube.com/watch?v=9FjbFGYKxAc",
-      "published": "2026-11-03T09:00:26+00:00"
+      "title": "The Next Industrial Revolution | inside view",
+      "url": "https://www.youtube.com/watch?v=hb8WqJqM4SE",
+      "published": "2026-11-03T14:35:19+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "Generate Worlds in Real-Time (Free & Open Source)",
-      "url": "https://www.youtube.com/watch?v=lZes3U_WIug",
-      "published": "2026-11-02T23:12:03+00:00"
-    },
-    {
-      "channel_name": "Theoretically Media",
-      "category": "AI",
-      "title": "The Most Insane AI Film You'll See Today (Seedance 2.5)",
-      "url": "https://www.youtube.com/watch?v=1yLAbK5F3E8",
-      "published": "2026-11-02T15:58:23+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "AI Realism Workflow the Pros Use (Eleven v4 + Seedance 2.5)",
-      "url": "https://www.youtube.com/watch?v=8oB9sf1SKhs",
-      "published": "2026-11-03T13:00:15+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Sound design is one of the most powerful tools for keeping viewers' attention",
-      "url": "https://www.youtube.com/watch?v=w9Gbhhv6rzU",
-      "published": "2026-11-02T22:09:17+00:00"
+      "title": "A real-life speeder bike from Return of the Jedi (Not AI)",
+      "url": "https://www.youtube.com/watch?v=PRAY_SewRxI",
+      "published": "2026-11-03T20:51:24+00:00"
     }
   ]
 }
