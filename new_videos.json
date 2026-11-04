@@ -1,5 +1,55 @@
 {
-  "checked_at": "2026-11-04T04:21:58.555824+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-04T13:37:13.830204+00:00",
+  "new_count": 7,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "HAMMER VS HAMMER — LIGHTS OUT IN JUST 19 SECONDS! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=kS8DIoxOO-s",
+      "published": "2026-11-03T22:53:31+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They didn’t see this coming 🫨",
+      "url": "https://www.youtube.com/watch?v=FDQ2Nb5Ocbk",
+      "published": "2026-11-04T04:50:43+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "Is This A Shotgun or Origami ??? (The Folding 12 Gauge Shotgun)",
+      "url": "https://www.youtube.com/watch?v=QP29WSF5js4",
+      "published": "2026-11-03T23:02:18+00:00"
+    },
+    {
+      "channel_name": "Luma AI",
+      "category": "AI",
+      "title": "Try Character Sheet in Luma.",
+      "url": "https://www.youtube.com/watch?v=CcTv6V938mA",
+      "published": "2026-11-04T02:07:07+00:00"
+    },
+    {
+      "channel_name": "MattVidPro AI",
+      "category": "AI",
+      "title": "Claude Reverse Engineered Two 3DS Games to Add Real 3D",
+      "url": "https://www.youtube.com/watch?v=o5iRKvXZEcY",
+      "published": "2026-11-03T23:46:02+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Direct AI Voices with Audio Tags and Voice Changer (Full Tutorial)",
+      "url": "https://www.youtube.com/watch?v=eKSVnRvBTXc",
+      "published": "2026-11-04T13:00:33+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "FLUX 3 Max is 75% off in ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=8JL5hvPK5sg",
+      "published": "2026-11-04T10:51:08+00:00"
+    }
+  ]
 }
