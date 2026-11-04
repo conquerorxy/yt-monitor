@@ -1,55 +1,69 @@
 {
-  "checked_at": "2026-11-04T13:37:13.830204+00:00",
-  "new_count": 7,
+  "checked_at": "2026-11-04T23:03:58.264410+00:00",
+  "new_count": 9,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "HAMMER VS HAMMER — LIGHTS OUT IN JUST 19 SECONDS! 🤯💥",
-      "url": "https://www.youtube.com/watch?v=kS8DIoxOO-s",
-      "published": "2026-11-03T22:53:31+00:00"
+      "title": "DANNY CHRISTIE'S BKFC DEBUT WAS A BLOODBATH! 🩸🤯 BACK THIS SATURDAY AT BKFC 96! #BKFC",
+      "url": "https://www.youtube.com/watch?v=FsJwOO9reOE",
+      "published": "2026-11-04T22:54:26+00:00"
     },
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "They didn’t see this coming 🫨",
-      "url": "https://www.youtube.com/watch?v=FDQ2Nb5Ocbk",
-      "published": "2026-11-04T04:50:43+00:00"
+      "title": "One of the wildest, most dramatic fights of the year 🤯🔥 WALTER PUGLIESI vs LORENZO HUNT",
+      "url": "https://www.youtube.com/watch?v=H3nUNxBnDzA",
+      "published": "2026-11-04T20:57:47+00:00"
     },
     {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "Is This A Shotgun or Origami ??? (The Folding 12 Gauge Shotgun)",
-      "url": "https://www.youtube.com/watch?v=QP29WSF5js4",
-      "published": "2026-11-03T23:02:18+00:00"
-    },
-    {
-      "channel_name": "Luma AI",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Try Character Sheet in Luma.",
-      "url": "https://www.youtube.com/watch?v=CcTv6V938mA",
-      "published": "2026-11-04T02:07:07+00:00"
+      "title": "Messi asks ChatGPT to reimagine his room",
+      "url": "https://www.youtube.com/watch?v=6IttBmI4P9M",
+      "published": "2026-11-04T19:25:46+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "url": "https://www.youtube.com/watch?v=0LDs5rvx1EI",
+      "published": "2026-11-04T17:33:11+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "url": "https://www.youtube.com/watch?v=44GBqQGc-v0",
+      "published": "2026-11-04T17:27:07+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "GPT 6 Astra Just Did the Unthinkable",
+      "url": "https://www.youtube.com/watch?v=lmLsiBmwEFE",
+      "published": "2026-11-04T14:15:38+00:00"
     },
     {
       "channel_name": "MattVidPro AI",
       "category": "AI",
-      "title": "Claude Reverse Engineered Two 3DS Games to Add Real 3D",
-      "url": "https://www.youtube.com/watch?v=o5iRKvXZEcY",
-      "published": "2026-11-03T23:46:02+00:00"
+      "title": "Pushing the 3D slider on Minecraft 3DS… for real this time",
+      "url": "https://www.youtube.com/watch?v=2jOFe_LeCsI",
+      "published": "2026-11-04T15:24:05+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "How I Get Claude To Edit My Videos (No Code Needed)",
+      "url": "https://www.youtube.com/watch?v=ep4psgAFOqc",
+      "published": "2026-11-04T16:40:16+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Direct AI Voices with Audio Tags and Voice Changer (Full Tutorial)",
-      "url": "https://www.youtube.com/watch?v=eKSVnRvBTXc",
-      "published": "2026-11-04T13:00:33+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "FLUX 3 Max is 75% off in ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=8JL5hvPK5sg",
-      "published": "2026-11-04T10:51:08+00:00"
+      "title": "Introducing Captions in ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=tEOMPQ5xFUs",
+      "published": "2026-11-04T18:00:23+00:00"
     }
   ]
 }
