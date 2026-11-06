@@ -1,13 +1,97 @@
 {
-  "checked_at": "2026-11-06T04:38:43.241696+00:00",
-  "new_count": 1,
+  "checked_at": "2026-11-06T13:34:45.390769+00:00",
+  "new_count": 13,
   "videos": [
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "ONE OF THE MOST BRUTAL KNOCKOUTS OF THE YEAR! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=2nWG1xFpkZc",
+      "published": "2026-11-06T03:02:09+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "DRAKO RODRIGUEZ AND WILL SHUTT PUT ON AN ABSOLUTE SHOW AT BKFC 33! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=sYuGOj4MsU4",
+      "published": "2026-11-06T01:04:05+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "RODNEY “THE ANIMAL” HINTON IS AN ABSOLUTE MADMAN! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=J6t-cFFdbYk",
+      "published": "2026-11-05T22:39:34+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "The fastest knockout in BKFC history 🤯Justin Watson needed just seconds to get the finish at BKFC 69",
+      "url": "https://www.youtube.com/watch?v=x0-1-E7MYlI",
+      "published": "2026-11-05T21:19:08+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Pre-Event Press Conference: BKFC 96 GLASGOW | LIVE!",
+      "url": "https://www.youtube.com/watch?v=8GFc-keh_TE",
+      "published": "2026-11-05T18:44:23+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Night night😴 #mma",
+      "url": "https://www.youtube.com/watch?v=kfLk8I_h2gg",
+      "published": "2026-11-06T10:52:19+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He thought the match was still going on 🫨🥊",
+      "url": "https://www.youtube.com/watch?v=o7IzgDPJtHI",
+      "published": "2026-11-06T00:41:56+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* You Were Only Supposed to Watch One Fight | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=UYiQy_1c4RU",
+      "published": "2026-11-05T15:55:11+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "What will people REALLY use these for?",
-      "url": "https://www.youtube.com/watch?v=hniPlxcQ7X4",
-      "published": "2026-11-05T19:07:54+00:00"
+      "title": "Washington, D.C. is up next. 🏛️",
+      "url": "https://www.youtube.com/watch?v=pheCh2nQPjQ",
+      "published": "2026-11-05T17:49:47+00:00"
+    },
+    {
+      "channel_name": "Luma AI",
+      "category": "AI",
+      "title": "Try the Luma MCP for Claude and ChatGPT",
+      "url": "https://www.youtube.com/watch?v=nnZtTiQFWGo",
+      "published": "2026-11-05T16:00:31+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "REDLINE | Kling Originals",
+      "url": "https://www.youtube.com/watch?v=S-1kzYWAQ6c",
+      "published": "2026-11-06T10:14:02+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Something Strange Is Happening With GPT-6.2",
+      "url": "https://www.youtube.com/watch?v=R-OeFlyzveI",
+      "published": "2026-11-06T08:30:00+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Gemini Omni Flash 1.2 is live on ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=Kw9yRFd2HP0",
+      "published": "2026-11-05T18:02:14+00:00"
     }
   ]
 }
