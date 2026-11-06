@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-11-05T23:08:07.880252+00:00",
+  "checked_at": "2026-11-06T04:38:43.241696+00:00",
   "new_count": 1,
   "videos": [
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
-      "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4",
-      "published": "2026-11-05T17:14:11+00:00"
+      "title": "What will people REALLY use these for?",
+      "url": "https://www.youtube.com/watch?v=hniPlxcQ7X4",
+      "published": "2026-11-05T19:07:54+00:00"
     }
   ]
 }
