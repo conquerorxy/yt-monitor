@@ -1,5 +1,55 @@
 {
-  "checked_at": "2026-11-07T04:03:58.158759+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-07T12:14:35.940835+00:00",
+  "new_count": 7,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "LEONARDO PERDOMO VS ARNOLD ADAMS — WHAT A FINISH AT BKFC 78! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=e3ep4cluj38",
+      "published": "2026-11-07T02:05:23+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "SOMETIMES BRYCE HENRY GETS A LITTLE BORED DURING FIGHTS! 😂♟️",
+      "url": "https://www.youtube.com/watch?v=HjVXd5C1bVc",
+      "published": "2026-11-07T00:07:50+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "15 SECONDS WAS ALL RONNY HAUSER NEEDED! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=fOKKJHziiQw",
+      "published": "2026-11-06T23:29:10+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He stood on business 🙌🥊",
+      "url": "https://www.youtube.com/watch?v=c5QeDo6Cuus",
+      "published": "2026-11-07T03:27:40+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "How Siemens Plans Production in Minutes With NVIDIA AI",
+      "url": "https://www.youtube.com/watch?v=784YQBiZArk",
+      "published": "2026-11-06T23:10:49+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Anthropics Model 4 Just Shocked The AI Industry",
+      "url": "https://www.youtube.com/watch?v=7eQree8FhKI",
+      "published": "2026-11-06T23:00:13+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "That is Some Crazy Fabric",
+      "url": "https://www.youtube.com/watch?v=w3z3Fa7ACt8",
+      "published": "2026-11-07T07:36:33+00:00"
+    }
+  ]
 }
