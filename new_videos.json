@@ -1,48 +1,41 @@
 {
-  "checked_at": "2026-11-08T12:35:19.783301+00:00",
-  "new_count": 6,
+  "checked_at": "2026-11-08T21:32:46.878236+00:00",
+  "new_count": 5,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "TIMBERRRRR! ANOTHER KO FOR COREY CHAPMAN 😱",
-      "url": "https://www.youtube.com/watch?v=M1SCJXNyJqo",
-      "published": "2026-11-08T02:15:05+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Post-Event Press Conference: BKFC 96 GLASGOW | WEIR vs COHOON | LIVE!",
-      "url": "https://www.youtube.com/watch?v=wYX0c57x6Eo",
-      "published": "2026-11-08T00:09:54+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "GLASGOW BELONGS TO THE BUTCHER! 🥶🔥",
-      "url": "https://www.youtube.com/watch?v=6ichulcbnnY",
-      "published": "2026-11-07T23:39:11+00:00"
+      "title": "KAI STEWART VS NICO GAFFIE — FIVE ROUNDS FOR THE GOLD! 🏆🔥",
+      "url": "https://www.youtube.com/watch?v=gRVdPCp1Af8",
+      "published": "2026-11-08T20:02:33+00:00"
     },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "Big men brawl",
-      "url": "https://www.youtube.com/watch?v=lFHX9NVGPjM",
-      "published": "2026-11-08T01:08:03+00:00"
+      "title": "Crazy KO #boxing",
+      "url": "https://www.youtube.com/watch?v=L_4dFvf4vi8",
+      "published": "2026-11-08T12:35:11+00:00"
     },
     {
-      "channel_name": "MattVidPro AI",
-      "category": "AI",
-      "title": "ChatGPT can make GIFs now (and people went feral)",
-      "url": "https://www.youtube.com/watch?v=tgdG27lr26s",
-      "published": "2026-11-08T02:00:18+00:00"
+      "channel_name": "Exploring With Josh",
+      "category": "猎奇",
+      "title": "I Bought HELL HOUSE (The Warrens' Most Terrifying Conjuring Case)",
+      "url": "https://www.youtube.com/watch?v=-I32cCAAH8I",
+      "published": "2026-11-08T19:47:36+00:00"
     },
     {
-      "channel_name": "MattVidPro AI",
+      "channel_name": "TheAIGRID",
       "category": "AI",
-      "title": "ChatGPT Can Make GIFs Now (Images 2.6 Tested)",
-      "url": "https://www.youtube.com/watch?v=fQnrdr2DcqQ",
-      "published": "2026-11-07T23:00:31+00:00"
+      "title": "The Government Is About To Ban AGI",
+      "url": "https://www.youtube.com/watch?v=PD03ve61CFY",
+      "published": "2026-11-08T15:30:00+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This controls games characters AND robots",
+      "url": "https://www.youtube.com/watch?v=jKjir4-HmQI",
+      "published": "2026-11-08T18:30:51+00:00"
     }
   ]
 }
