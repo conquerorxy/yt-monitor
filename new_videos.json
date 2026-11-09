@@ -1,5 +1,27 @@
 {
-  "checked_at": "2026-11-09T04:01:22.396053+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-09T14:53:16.643762+00:00",
+  "new_count": 3,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "RYAN PETERSEN — COMEBACK OF THE YEAR?! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=N5G-Yp5p2YE",
+      "published": "2026-11-09T02:58:42+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Two wild moments from BKFC 91 Naples! A massive knockdown followed by a BRUTAL KO! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=Ip0bXyULlHs",
+      "published": "2026-11-09T00:22:11+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He couldn’t get out of this 🥊",
+      "url": "https://www.youtube.com/watch?v=7CGBuONPVAI",
+      "published": "2026-11-09T03:52:57+00:00"
+    }
+  ]
 }
