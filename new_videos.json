@@ -1,5 +1,104 @@
 {
-  "checked_at": "2026-11-10T01:03:17.460959+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-10T14:05:43.563368+00:00",
+  "new_count": 14,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BRYAN DURAN VS “FELONY” CHARLES BENNETT — WHAT A BATTLE! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=weO1pLEnWbY",
+      "published": "2026-11-10T03:40:05+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BRYCE HALL MADE HIS BARE-KNUCKLE DEBUT — AND IT GOT WILD! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=H2v7wOsp-j4",
+      "published": "2026-11-10T01:51:43+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "MAURICE MORRIS MADE A STATEMENT IN HIS BKFC DEBUT! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=1XRuHLEFFZE",
+      "published": "2026-11-09T23:49:50+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "PAIGE VANZANT and RACHAEL OSTOVICH met at BKFC 19 and delivered a great fight 🔥",
+      "url": "https://www.youtube.com/watch?v=id69xpe_YEE",
+      "published": "2026-11-09T20:23:48+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Had to stop this #mma",
+      "url": "https://www.youtube.com/watch?v=Lw6EJQQR4H4",
+      "published": "2026-11-10T12:07:38+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* We Saved You a Seat for the Fights | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=lW-2qGvuaYI",
+      "published": "2026-11-10T06:16:51+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He caught him PERFECTLY!!! 🥊🫨👀",
+      "url": "https://www.youtube.com/watch?v=9UGzmnhdhsM",
+      "published": "2026-11-10T03:53:36+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://www.youtube.com/watch?v=FNTz0CdqL6g",
+      "published": "2026-11-10T02:41:23+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Custom tools: The future of brand identities",
+      "url": "https://www.youtube.com/watch?v=tZWZHePbd8g",
+      "published": "2026-11-09T16:00:11+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Claude Fable 5.2 Just Changed Everything",
+      "url": "https://www.youtube.com/watch?v=GipTWtfaiLs",
+      "published": "2026-11-10T11:30:05+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This Airtaxi is Ready For Primetime!",
+      "url": "https://www.youtube.com/watch?v=GcFRheDNh5U",
+      "published": "2026-11-10T04:29:38+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Anthropic's Fable 5.2 is the World’s Best AI Model",
+      "url": "https://www.youtube.com/watch?v=2TM8W66NI_8",
+      "published": "2026-11-09T23:16:34+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "NOTHING will be smarter than Fable 5.2...",
+      "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+      "published": "2026-11-10T00:02:58+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Introducing ElevenAgents Campaign Manager",
+      "url": "https://www.youtube.com/watch?v=iYTqtJlfbqU",
+      "published": "2026-11-09T15:43:14+00:00"
+    }
+  ]
 }
