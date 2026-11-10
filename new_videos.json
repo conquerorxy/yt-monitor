@@ -1,104 +1,111 @@
 {
-  "checked_at": "2026-11-10T14:05:43.563368+00:00",
-  "new_count": 14,
+  "checked_at": "2026-11-10T22:42:31.000165+00:00",
+  "new_count": 15,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "BRYAN DURAN VS “FELONY” CHARLES BENNETT — WHAT A BATTLE! 🤯🔥",
-      "url": "https://www.youtube.com/watch?v=weO1pLEnWbY",
-      "published": "2026-11-10T03:40:05+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "BRYCE HALL MADE HIS BARE-KNUCKLE DEBUT — AND IT GOT WILD! 🤯🔥",
-      "url": "https://www.youtube.com/watch?v=H2v7wOsp-j4",
-      "published": "2026-11-10T01:51:43+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "MAURICE MORRIS MADE A STATEMENT IN HIS BKFC DEBUT! 🤯🔥",
-      "url": "https://www.youtube.com/watch?v=1XRuHLEFFZE",
-      "published": "2026-11-09T23:49:50+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "PAIGE VANZANT and RACHAEL OSTOVICH met at BKFC 19 and delivered a great fight 🔥",
-      "url": "https://www.youtube.com/watch?v=id69xpe_YEE",
-      "published": "2026-11-09T20:23:48+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Had to stop this #mma",
-      "url": "https://www.youtube.com/watch?v=Lw6EJQQR4H4",
-      "published": "2026-11-10T12:07:38+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "*NEW* We Saved You a Seat for the Fights | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=lW-2qGvuaYI",
-      "published": "2026-11-10T06:16:51+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He caught him PERFECTLY!!! 🥊🫨👀",
-      "url": "https://www.youtube.com/watch?v=9UGzmnhdhsM",
-      "published": "2026-11-10T03:53:36+00:00"
+      "title": "Pawel “Gorilla” Werszynin made one hell of a first impression in his BKFC debut 😳💥",
+      "url": "https://www.youtube.com/watch?v=pwgxb99p4bE",
+      "published": "2026-11-10T21:40:32+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://www.youtube.com/watch?v=FNTz0CdqL6g",
-      "published": "2026-11-10T02:41:23+00:00"
+      "title": "Answering your questions about GPT-Live",
+      "url": "https://www.youtube.com/watch?v=5YXlrzC_RYE",
+      "published": "2026-11-10T21:10:08+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Introducing Businesses in ChatGPT in beta",
+      "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
+      "published": "2026-11-10T18:07:12+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
+      "url": "https://www.youtube.com/watch?v=sSyzj08Cy2U",
+      "published": "2026-11-10T16:07:53+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
+      "url": "https://www.youtube.com/watch?v=vdEGZYIvFiI",
+      "published": "2026-11-10T16:02:15+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How CodeRabbit uses OpenAI to review AI-generated code",
+      "url": "https://www.youtube.com/watch?v=ZTxzWJeGFAA",
+      "published": "2026-11-10T15:05:40+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Meet the Startup: Aegiq, A Full-Stack Photonic Quantum Computing Company",
+      "url": "https://www.youtube.com/watch?v=N5YLi8Ar3Wg",
+      "published": "2026-11-10T17:00:21+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA Alpamayo 2 Edge is here, bringing adaptive AI reasoning in real-time to the vehicle. 🚘",
+      "url": "https://www.youtube.com/watch?v=OZ5KXB6kHUg",
+      "published": "2026-11-10T16:08:39+00:00"
     },
     {
       "channel_name": "Runway",
       "category": "AI",
-      "title": "Custom tools: The future of brand identities",
-      "url": "https://www.youtube.com/watch?v=tZWZHePbd8g",
-      "published": "2026-11-09T16:00:11+00:00"
+      "title": "When Video Becomes an Interface | inside view",
+      "url": "https://www.youtube.com/watch?v=1XV_2WrnZH0",
+      "published": "2026-11-10T16:13:03+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "Pika Labs",
       "category": "AI",
-      "title": "Claude Fable 5.2 Just Changed Everything",
-      "url": "https://www.youtube.com/watch?v=GipTWtfaiLs",
-      "published": "2026-11-10T11:30:05+00:00"
+      "title": "Seedream 5.5 on Pika",
+      "url": "https://www.youtube.com/watch?v=Z-QheyESpEw",
+      "published": "2026-11-10T18:37:06+00:00"
+    },
+    {
+      "channel_name": "Luma AI",
+      "category": "AI",
+      "title": "Create a campaign without leaving ChatGPT or Claude",
+      "url": "https://www.youtube.com/watch?v=DhzxCI8ZlOY",
+      "published": "2026-11-10T20:12:11+00:00"
+    },
+    {
+      "channel_name": "Luma AI",
+      "category": "AI",
+      "title": "How To Make AI Slop Videos Look Realistic",
+      "url": "https://www.youtube.com/watch?v=HTGP4WTUPh8",
+      "published": "2026-11-10T19:15:48+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "This Airtaxi is Ready For Primetime!",
-      "url": "https://www.youtube.com/watch?v=GcFRheDNh5U",
-      "published": "2026-11-10T04:29:38+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "Anthropic's Fable 5.2 is the World’s Best AI Model",
-      "url": "https://www.youtube.com/watch?v=2TM8W66NI_8",
-      "published": "2026-11-09T23:16:34+00:00"
-    },
-    {
-      "channel_name": "Wes Roth",
-      "category": "AI",
-      "title": "NOTHING will be smarter than Fable 5.2...",
-      "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
-      "published": "2026-11-10T00:02:58+00:00"
+      "title": "When you give a humanoid roller skates",
+      "url": "https://www.youtube.com/watch?v=isqwXApzV5E",
+      "published": "2026-11-10T19:35:17+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Introducing ElevenAgents Campaign Manager",
-      "url": "https://www.youtube.com/watch?v=iYTqtJlfbqU",
-      "published": "2026-11-09T15:43:14+00:00"
+      "title": "Introducing Scribe v3",
+      "url": "https://www.youtube.com/watch?v=cw_NRHMOPtw",
+      "published": "2026-11-10T18:27:05+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Seedream 5.5 Is Here - Everything You NEED to Know",
+      "url": "https://www.youtube.com/watch?v=Gl2GFbqTZtA",
+      "published": "2026-11-10T14:23:28+00:00"
     }
   ]
 }
