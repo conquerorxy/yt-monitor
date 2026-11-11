@@ -1,5 +1,104 @@
 {
-  "checked_at": "2026-11-11T04:06:19.216289+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-11T13:22:31.192664+00:00",
+  "new_count": 14,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "HOW FAST ARE HOWARD DAVIS’ HANDS?! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=-HKQajDofFE",
+      "published": "2026-11-11T03:23:01+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "VINTAGE BKFC! 🔥 David Mundell in his second BKFC fight at BKFC 8! 👊 #BKFC #BareKnuckle",
+      "url": "https://www.youtube.com/watch?v=jQifF4GPWxw",
+      "published": "2026-11-11T00:38:38+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He put his ALL into this 👀🥊",
+      "url": "https://www.youtube.com/watch?v=d5lGL7uC_go",
+      "published": "2026-11-11T04:05:52+00:00"
+    },
+    {
+      "channel_name": "Exploring With Josh",
+      "category": "猎奇",
+      "title": "Locked Inside Hell House w/ Elton",
+      "url": "https://www.youtube.com/watch?v=x3W3PDLJ7D0",
+      "published": "2026-11-11T04:29:44+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "Can A EF5 Tornado Shelter Stop A 20mm Solothurn Anti-Tank Rifle ???",
+      "url": "https://www.youtube.com/watch?v=ySafh_Ku-WQ",
+      "published": "2026-11-10T22:46:36+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Building with GPT-Live and Image Generation | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=jDxKzlGLCas",
+      "published": "2026-11-11T01:24:08+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Build What’s Next on the ChatGPT Platform with Plugins | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=pIW_8VyvCuQ",
+      "published": "2026-11-11T01:24:08+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Sites and the Next Generation of Web Apps | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=QRm7VNMnurA",
+      "published": "2026-11-11T01:24:07+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "What Will You Build With Coding Agents That Don’t Quit? | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=U1IVZy9FhVQ",
+      "published": "2026-11-11T01:24:07+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Harness-as-a-Service: Building with the Agents API | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=b7l_Dhe1h8M",
+      "published": "2026-11-11T01:24:07+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Codex Security: From Vulnerability to Verified Fix | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=gUQN7juxvVI",
+      "published": "2026-11-11T01:24:07+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "What Comes After Loops?: Deep Dive Into Agentic Architecture | DevDay 2026",
+      "url": "https://www.youtube.com/watch?v=nAubbmlhPfI",
+      "published": "2026-11-11T01:24:07+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "What Makes an AI World Feel Alive? | Kang Tae-woo × Kling 4.0",
+      "url": "https://www.youtube.com/watch?v=L-C3KwOttp0",
+      "published": "2026-11-11T12:27:28+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Fable 5.2 Is Quite Insane!",
+      "url": "https://www.youtube.com/watch?v=Mt54ez7xsiI",
+      "published": "2026-11-11T04:59:41+00:00"
+    }
+  ]
 }
