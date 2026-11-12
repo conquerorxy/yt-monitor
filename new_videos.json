@@ -1,5 +1,55 @@
 {
-  "checked_at": "2026-11-12T05:23:29.159602+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-12T14:27:27.588255+00:00",
+  "new_count": 7,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "RODE IN WITH STYLE, LEFT WITH A KO! 🏍️💥",
+      "url": "https://www.youtube.com/watch?v=XS7xfOUgzl0",
+      "published": "2026-11-12T02:38:04+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "TIMMY MASON vs GABRIEL FREYRE",
+      "url": "https://www.youtube.com/watch?v=YHzrCIL9BRw",
+      "published": "2026-11-12T01:21:51+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "THE ROCKSTAR NEEDED JUST 21 SECONDS! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=mERw1VFQiwg",
+      "published": "2026-11-12T00:08:56+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "🫡🇺🇸Happy Veterans Day!",
+      "url": "https://www.youtube.com/watch?v=PFdAWgqSRMM",
+      "published": "2026-11-11T23:52:47+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He’s quick with it 🙌😳🫨",
+      "url": "https://www.youtube.com/watch?v=891ZoxrCJuw",
+      "published": "2026-11-12T00:43:17+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "What Codex Unlocks for Holiday Extras",
+      "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
+      "published": "2026-11-12T09:45:17+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "ElevenLabs is more than voice",
+      "url": "https://www.youtube.com/watch?v=xhcJ3ttKFUo",
+      "published": "2026-11-12T11:03:38+00:00"
+    }
+  ]
 }
