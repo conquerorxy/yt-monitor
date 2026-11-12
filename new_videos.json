@@ -1,55 +1,41 @@
 {
-  "checked_at": "2026-11-12T14:27:27.588255+00:00",
-  "new_count": 7,
+  "checked_at": "2026-11-12T23:03:32.669343+00:00",
+  "new_count": 5,
   "videos": [
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "RODE IN WITH STYLE, LEFT WITH A KO! 🏍️💥",
-      "url": "https://www.youtube.com/watch?v=XS7xfOUgzl0",
-      "published": "2026-11-12T02:38:04+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "TIMMY MASON vs GABRIEL FREYRE",
-      "url": "https://www.youtube.com/watch?v=YHzrCIL9BRw",
-      "published": "2026-11-12T01:21:51+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "THE ROCKSTAR NEEDED JUST 21 SECONDS! 🤯💥",
-      "url": "https://www.youtube.com/watch?v=mERw1VFQiwg",
-      "published": "2026-11-12T00:08:56+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "🫡🇺🇸Happy Veterans Day!",
-      "url": "https://www.youtube.com/watch?v=PFdAWgqSRMM",
-      "published": "2026-11-11T23:52:47+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He’s quick with it 🙌😳🫨",
-      "url": "https://www.youtube.com/watch?v=891ZoxrCJuw",
-      "published": "2026-11-12T00:43:17+00:00"
-    },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "What Codex Unlocks for Holiday Extras",
-      "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
-      "published": "2026-11-12T09:45:17+00:00"
+      "title": "Cyber at the Frontier",
+      "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
+      "published": "2026-11-12T22:37:14+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Anthropic Just Got a BIG Problem… Gemini 4 Carbon Is Here",
+      "url": "https://www.youtube.com/watch?v=VMraE40YKrU",
+      "published": "2026-11-12T19:15:10+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "MASSIVE AI Shake-Up That Changes Everything",
+      "url": "https://www.youtube.com/watch?v=iTe0IB5Ugf8",
+      "published": "2026-11-12T20:32:27+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "How to automate your photo library",
+      "url": "https://www.youtube.com/watch?v=IehCboBcYsA",
+      "published": "2026-11-12T17:20:42+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "ElevenLabs is more than voice",
-      "url": "https://www.youtube.com/watch?v=xhcJ3ttKFUo",
-      "published": "2026-11-12T11:03:38+00:00"
+      "title": "Introducing Dub & Sync in ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=ecuwiQ2z7sI",
+      "published": "2026-11-12T15:45:35+00:00"
     }
   ]
 }
