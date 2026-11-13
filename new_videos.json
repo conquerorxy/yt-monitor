@@ -1,41 +1,5 @@
 {
-  "checked_at": "2026-11-12T23:03:32.669343+00:00",
-  "new_count": 5,
-  "videos": [
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Cyber at the Frontier",
-      "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
-      "published": "2026-11-12T22:37:14+00:00"
-    },
-    {
-      "channel_name": "TheAIGRID",
-      "category": "AI",
-      "title": "Anthropic Just Got a BIG Problem… Gemini 4 Carbon Is Here",
-      "url": "https://www.youtube.com/watch?v=VMraE40YKrU",
-      "published": "2026-11-12T19:15:10+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "MASSIVE AI Shake-Up That Changes Everything",
-      "url": "https://www.youtube.com/watch?v=iTe0IB5Ugf8",
-      "published": "2026-11-12T20:32:27+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "How to automate your photo library",
-      "url": "https://www.youtube.com/watch?v=IehCboBcYsA",
-      "published": "2026-11-12T17:20:42+00:00"
-    },
-    {
-      "channel_name": "ElevenLabs",
-      "category": "AI",
-      "title": "Introducing Dub & Sync in ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=ecuwiQ2z7sI",
-      "published": "2026-11-12T15:45:35+00:00"
-    }
-  ]
+  "checked_at": "2026-11-13T04:33:04.075713+00:00",
+  "new_count": 0,
+  "videos": []
 }
