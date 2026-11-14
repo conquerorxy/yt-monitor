@@ -1,5 +1,90 @@
 {
-  "checked_at": "2026-11-14T04:29:06.978555+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-14T12:49:28.815706+00:00",
+  "new_count": 12,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "MIKE PERRY vs MVP",
+      "url": "https://www.youtube.com/watch?v=nMtGW6jK5oU",
+      "published": "2026-11-14T02:05:54+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "INCREDIBLE COMEBACK! 🤯🇧🇷 Guilherme Viana gets dropped, then KOs Robinson Perez! 💥",
+      "url": "https://www.youtube.com/watch?v=52IczSfZpUw",
+      "published": "2026-11-13T22:00:20+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "Dragon Slayer Ballista",
+      "url": "https://www.youtube.com/watch?v=yiq9WL46luY",
+      "published": "2026-11-14T01:38:05+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "6 Underrated Ways to Use ChatGPT",
+      "url": "https://www.youtube.com/watch?v=ErOVIC-MGVA",
+      "published": "2026-11-13T18:15:41+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
+      "url": "https://www.youtube.com/watch?v=PkAmyub12K8",
+      "published": "2026-11-13T16:56:45+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+      "url": "https://www.youtube.com/watch?v=pfbfZKxUEDQ",
+      "published": "2026-11-13T16:38:23+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Autonomous Vehicle Safety: 5 Things to Know",
+      "url": "https://www.youtube.com/watch?v=5ibgnmypP8I",
+      "published": "2026-11-13T22:00:05+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Meet GR00T 2, our most advanced, open System One model for robotics research.",
+      "url": "https://www.youtube.com/watch?v=IOcODanTpN0",
+      "published": "2026-11-13T19:36:39+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Meet the Startup: Prima Mente, an AI Biology Company",
+      "url": "https://www.youtube.com/watch?v=iC6H8KOQTFU",
+      "published": "2026-11-13T18:14:03+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "OpenAI's New AI Is Too Powerful To Release",
+      "url": "https://www.youtube.com/watch?v=qCE5A2bWZz8",
+      "published": "2026-11-14T08:45:27+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "AI News: Things Will Never Be The Same",
+      "url": "https://www.youtube.com/watch?v=G_Jrexy_5Bg",
+      "published": "2026-11-13T17:21:49+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "Gemini 4 Swarm is out of control...",
+      "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+      "published": "2026-11-13T14:16:35+00:00"
+    }
+  ]
 }
