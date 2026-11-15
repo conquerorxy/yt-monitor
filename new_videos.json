@@ -1,5 +1,55 @@
 {
-  "checked_at": "2026-11-15T04:15:43.957057+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-15T13:16:13.200472+00:00",
+  "new_count": 7,
+  "videos": [
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "WHAT A FIGHT BETWEEN BRYAN DURAN AND LOUIE LOPEZ! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=l9FOgJ5d2_M",
+      "published": "2026-11-15T02:44:21+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "LEONARDO PERDOMO DOES IT AGAIN! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=3D2zE4gVUws",
+      "published": "2026-11-15T01:42:17+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "GARETH CORRAN vs DANNY MOIR! 🤯🔥 Relentless pressure and a first-round KO! 💥",
+      "url": "https://www.youtube.com/watch?v=uCkgXe7ZRL8",
+      "published": "2026-11-14T21:08:32+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "THROWING ABSOLUTE BOMBS! 🤯💥 BKFC UK Lightweight Champion Jonny Graham! 😤🔥 #BKFC",
+      "url": "https://www.youtube.com/watch?v=fOLLHsF5Kmg",
+      "published": "2026-11-14T18:25:43+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "They had to stop this",
+      "url": "https://www.youtube.com/watch?v=2HlW849-ves",
+      "published": "2026-11-15T01:05:47+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "Kling Originals | My Favorite Night of the Year | Behind the Scenes",
+      "url": "https://www.youtube.com/watch?v=sikFS6LW604",
+      "published": "2026-11-15T02:56:37+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "The Self-Driving Car With Balls",
+      "url": "https://www.youtube.com/watch?v=X3r-mZtPfP8",
+      "published": "2026-11-15T07:12:15+00:00"
+    }
+  ]
 }
