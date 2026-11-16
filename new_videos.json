@@ -1,5 +1,76 @@
 {
-  "checked_at": "2026-11-16T04:15:17.615820+00:00",
-  "new_count": 0,
-  "videos": []
+  "checked_at": "2026-11-16T14:28:51.015048+00:00",
+  "new_count": 10,
+  "videos": [
+    {
+      "channel_name": "Steve Ronin",
+      "category": "猎奇",
+      "title": "Investigating The Appalachian Mountain's Most Haunted Location (The Bennington Triangle)",
+      "url": "https://www.youtube.com/watch?v=LK_So92rfQU",
+      "published": "2026-11-15T23:00:04+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "ONE OF THE WILDEST FIGHTS IN BKFC HISTORY! 🤯🔥 DREW STUVE vs SONNY SMITH",
+      "url": "https://www.youtube.com/watch?v=f5jkFYx2dt0",
+      "published": "2026-11-16T01:08:29+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "The one-punch power of Agi Faulkner! 💥",
+      "url": "https://www.youtube.com/watch?v=SDOiiBPeTOw",
+      "published": "2026-11-15T22:23:52+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "*NEW* You Were Going to Scroll Anyway | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=YATpl-ZaUbU",
+      "published": "2026-11-16T04:38:02+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "That was NASTYYYY 🥊👀",
+      "url": "https://www.youtube.com/watch?v=5h9VlE6jvKQ",
+      "published": "2026-11-16T01:48:11+00:00"
+    },
+    {
+      "channel_name": "Exploring With Josh",
+      "category": "猎奇",
+      "title": "DEMONIC ENCOUNTER Inside the Haunted Warren Museum… (WE QUIT)",
+      "url": "https://www.youtube.com/watch?v=-KY1Z0N3t2U",
+      "published": "2026-11-15T22:30:09+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "La Cousinade",
+      "url": "https://www.youtube.com/watch?v=soNLXvgUqNY",
+      "published": "2026-11-16T05:00:26+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "How Kling 4.0 Tackles High-Speed Car Racing | Redline BTS",
+      "url": "https://www.youtube.com/watch?v=DFdnCgdZUaE",
+      "published": "2026-11-16T04:13:31+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "3D Printing Entire Buildings is So Wild To Me",
+      "url": "https://www.youtube.com/watch?v=ETw45WHQ6Z4",
+      "published": "2026-11-16T05:35:39+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "Claude just changed EVERYTHING...",
+      "url": "https://www.youtube.com/watch?v=pjYntsza2FA",
+      "published": "2026-11-15T23:27:16+00:00"
+    }
+  ]
 }
