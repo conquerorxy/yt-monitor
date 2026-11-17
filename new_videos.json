@@ -1,76 +1,118 @@
 {
-  "checked_at": "2026-11-16T14:28:51.015048+00:00",
-  "new_count": 10,
+  "checked_at": "2026-11-17T01:24:39.583952+00:00",
+  "new_count": 16,
   "videos": [
     {
-      "channel_name": "Steve Ronin",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "Investigating The Appalachian Mountain's Most Haunted Location (The Bennington Triangle)",
-      "url": "https://www.youtube.com/watch?v=LK_So92rfQU",
-      "published": "2026-11-15T23:00:04+00:00"
+      "title": "ICE-COLD KNOCKOUT FROM ZAC CAVENDER! 🥶💥",
+      "url": "https://www.youtube.com/watch?v=45T4jv0gFn4",
+      "published": "2026-11-16T23:25:45+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "ONE OF THE WILDEST FIGHTS IN BKFC HISTORY! 🤯🔥 DREW STUVE vs SONNY SMITH",
-      "url": "https://www.youtube.com/watch?v=f5jkFYx2dt0",
-      "published": "2026-11-16T01:08:29+00:00"
+      "title": "Countdown to BKFC FIGHT NIGHT MYRTLE BEACH & FREE FIGHTS!",
+      "url": "https://www.youtube.com/watch?v=hrGALwRGFOo",
+      "published": "2026-11-16T22:40:14+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "The one-punch power of Agi Faulkner! 💥",
-      "url": "https://www.youtube.com/watch?v=SDOiiBPeTOw",
-      "published": "2026-11-15T22:23:52+00:00"
+      "title": "Weigh In: BKFC MYRTLE BEACH | LIVE!",
+      "url": "https://www.youtube.com/watch?v=_rR_mBHeJIk",
+      "published": "2026-11-16T22:37:09+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "KEITH RICHARDSON vs DEREK PEREZ! 👊🔥",
+      "url": "https://www.youtube.com/watch?v=ZU-Crq9OF3Q",
+      "published": "2026-11-16T21:41:33+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "ONE-PUNCH POWER FROM RYAN ROBERTS! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=odgXbp9mqJE",
+      "published": "2026-11-16T18:31:40+00:00"
     },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "*NEW* You Were Going to Scroll Anyway | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=YATpl-ZaUbU",
-      "published": "2026-11-16T04:38:02+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "That was NASTYYYY 🥊👀",
-      "url": "https://www.youtube.com/watch?v=5h9VlE6jvKQ",
-      "published": "2026-11-16T01:48:11+00:00"
-    },
-    {
-      "channel_name": "Exploring With Josh",
-      "category": "猎奇",
-      "title": "DEMONIC ENCOUNTER Inside the Haunted Warren Museum… (WE QUIT)",
-      "url": "https://www.youtube.com/watch?v=-KY1Z0N3t2U",
-      "published": "2026-11-15T22:30:09+00:00"
+      "title": "Old Head Wasn't Done Yet 😳 #shorts",
+      "url": "https://www.youtube.com/watch?v=RJbyMJO2G9s",
+      "published": "2026-11-16T16:31:04+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "La Cousinade",
-      "url": "https://www.youtube.com/watch?v=soNLXvgUqNY",
-      "published": "2026-11-16T05:00:26+00:00"
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "url": "https://www.youtube.com/watch?v=Zbv70lLBHgo",
+      "published": "2026-11-16T20:23:56+00:00"
     },
     {
-      "channel_name": "Kling AI",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Kling 4.0 Tackles High-Speed Car Racing | Redline BTS",
-      "url": "https://www.youtube.com/watch?v=DFdnCgdZUaE",
-      "published": "2026-11-16T04:13:31+00:00"
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA",
+      "published": "2026-11-16T16:55:56+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "NVIDIA cuPhoton Brings Real-Time Black Hole Science to GPUs",
+      "url": "https://www.youtube.com/watch?v=E3Hy-WRJbXE",
+      "published": "2026-11-16T18:32:32+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Real-Time Discovery Starts With NVIDIA DAQIRI",
+      "url": "https://www.youtube.com/watch?v=uGZO6I-CJtM",
+      "published": "2026-11-16T18:30:41+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "20 Years of CUDA: Honoring the Architects of Progress",
+      "url": "https://www.youtube.com/watch?v=v2I4vqz87fk",
+      "published": "2026-11-16T18:09:00+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "Make an AI Short Film in Claude | Runway MCP",
+      "url": "https://www.youtube.com/watch?v=V7YAhthJCh0",
+      "published": "2026-11-16T16:55:29+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "AI Just Reached A Tipping Point",
+      "url": "https://www.youtube.com/watch?v=6LmezY6_kGY",
+      "published": "2026-11-16T21:00:36+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "3D Printing Entire Buildings is So Wild To Me",
-      "url": "https://www.youtube.com/watch?v=ETw45WHQ6Z4",
-      "published": "2026-11-16T05:35:39+00:00"
+      "title": "This had never been done before!",
+      "url": "https://www.youtube.com/watch?v=btjS7OaffpM",
+      "published": "2026-11-16T22:27:42+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Claude just changed EVERYTHING...",
-      "url": "https://www.youtube.com/watch?v=pjYntsza2FA",
-      "published": "2026-11-15T23:27:16+00:00"
+      "title": "ElevenLabs Black Friday is live",
+      "url": "https://www.youtube.com/watch?v=bVitHbXAifg",
+      "published": "2026-11-16T18:06:03+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Introducing the Year of More: $200K Creator Competition & 55% off select annual plans",
+      "url": "https://www.youtube.com/watch?v=i8Zii7wj7Ys",
+      "published": "2026-11-16T15:00:43+00:00"
     }
   ]
 }
