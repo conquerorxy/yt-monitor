@@ -1,55 +1,69 @@
 {
-  "checked_at": "2026-11-18T14:55:12.785283+00:00",
-  "new_count": 7,
+  "checked_at": "2026-11-18T23:46:15.284320+00:00",
+  "new_count": 9,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "LORENZO HUNT WAS ON A RAMPAGE! 😤🔥",
-      "url": "https://www.youtube.com/watch?v=JSK3392oOSM",
-      "published": "2026-11-18T02:45:14+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "Introducing ChatGPT for Accounting",
+      "url": "https://www.youtube.com/watch?v=AhmCKHNqhB8",
+      "published": "2026-11-18T21:01:26+00:00"
     },
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "HOWARD DAVIS vs JAMES BROWN! 👊 WHAT A PERFORMANCE FROM HD!",
-      "url": "https://www.youtube.com/watch?v=A2QYGE-GsvA",
-      "published": "2026-11-18T01:10:11+00:00"
+      "channel_name": "Google DeepMind",
+      "category": "AI",
+      "title": "Behind the scenes with Genie 4",
+      "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
+      "published": "2026-11-18T18:12:24+00:00"
+    },
+    {
+      "channel_name": "Google DeepMind",
+      "category": "AI",
+      "title": "Introducing the new Project Genie, powered by Genie 4",
+      "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
+      "published": "2026-11-18T18:12:21+00:00"
     },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Can Open Source Make AI Agents Safer?",
-      "url": "https://www.youtube.com/watch?v=y9AALMeAeGI",
-      "published": "2026-11-18T11:00:32+00:00"
+      "title": "AI is getting better at figuring out how software works. Even when the code is hidden.",
+      "url": "https://www.youtube.com/watch?v=2Y3e3RYNjFk",
+      "published": "2026-11-18T20:00:13+00:00"
     },
     {
-      "channel_name": "Kling AI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Meet Kling Image 4.0",
-      "url": "https://www.youtube.com/watch?v=N2vkFjJO0Ek",
-      "published": "2026-11-18T02:00:30+00:00"
+      "title": "NVIDIA SC26 Special Address",
+      "url": "https://www.youtube.com/watch?v=uJG53ligJt4",
+      "published": "2026-11-18T18:36:18+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "GPT 6 2 Astra Is Better Than People Think",
-      "url": "https://www.youtube.com/watch?v=hx1wLU9fldA",
-      "published": "2026-11-18T14:45:24+00:00"
+      "title": "The AI Podcast is back.",
+      "url": "https://www.youtube.com/watch?v=gn_LIY2D2Ag",
+      "published": "2026-11-18T14:41:35+00:00"
+    },
+    {
+      "channel_name": "Pika Labs",
+      "category": "AI",
+      "title": "Pika Enact | A Research Preview of Scenes that Respond",
+      "url": "https://www.youtube.com/watch?v=wPANJO-EaCw",
+      "published": "2026-11-18T20:07:57+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-      "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-      "published": "2026-11-18T01:43:27+00:00"
+      "title": "Insane AI Breakthroughs Nobody Is Talking About",
+      "url": "https://www.youtube.com/watch?v=-oA6oLxWpJg",
+      "published": "2026-11-18T22:08:16+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "AI video just got scary good...",
-      "url": "https://www.youtube.com/watch?v=Na1v2yaUXlY",
-      "published": "2026-11-18T11:00:34+00:00"
+      "title": "The Reason No One Can Catch NVIDIA",
+      "url": "https://www.youtube.com/watch?v=hT0qW_DRFLw",
+      "published": "2026-11-18T19:02:01+00:00"
     }
   ]
 }
