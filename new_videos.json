@@ -1,76 +1,90 @@
 {
-  "checked_at": "2026-11-17T15:20:23.450189+00:00",
-  "new_count": 10,
+  "checked_at": "2026-11-18T00:21:16.864528+00:00",
+  "new_count": 12,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "WHAT A BKFC DEBUT! 🤯🔥 Michael Larrimore delivers a spectacular KO in just 22 seconds! 💥",
-      "url": "https://www.youtube.com/watch?v=mz3zAyEncA4",
-      "published": "2026-11-17T03:07:25+00:00"
+      "title": "ANOTHER KNOCKOUT FROM LEONARDO PERDOMO! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=88A6LX-Id34",
+      "published": "2026-11-17T23:58:30+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "12 SECONDS. THAT'S ALL DAVID SANCHEZ NEEDED! 🤯💥",
-      "url": "https://www.youtube.com/watch?v=wsScpg0wgE8",
-      "published": "2026-11-17T01:41:09+00:00"
+      "title": "KEITH RICHARDSON vs JUSTIN SCOGGINS! 👊 FIVE ROUNDS OF NONSTOP ACTION! 🤯",
+      "url": "https://www.youtube.com/watch?v=QGVjT6q5Rtw",
+      "published": "2026-11-17T22:30:00+00:00"
     },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "This one got stopped #mma #streetbeefs",
-      "url": "https://www.youtube.com/watch?v=NOopVM50wuo",
-      "published": "2026-11-17T12:53:29+00:00"
+      "title": "He had the whole crowd cheering 📣 🥊",
+      "url": "https://www.youtube.com/watch?v=EWmTQW1PXk0",
+      "published": "2026-11-18T00:05:19+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "The 50 BMG Can Cannon (The Most Powerful Can Cannon EVER !!!)",
+      "url": "https://www.youtube.com/watch?v=HTyf8ljTEN4",
+      "published": "2026-11-17T23:04:10+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Revolut’s lean teams take on bigger challenges with OpenAI",
-      "url": "https://www.youtube.com/watch?v=ZIpm-0RczCk",
-      "published": "2026-11-17T09:45:35+00:00"
+      "title": "An underrated way to use ChatGPT: Life admin",
+      "url": "https://www.youtube.com/watch?v=2pdF52EVlbM",
+      "published": "2026-11-18T00:06:39+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How one engineer built a code review service with Codex | Revolut’s Dmitry Pitik",
-      "url": "https://www.youtube.com/watch?v=R_sl8zEp9ng",
-      "published": "2026-11-17T09:45:34+00:00"
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00",
+      "published": "2026-11-17T23:24:04+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Making marketing feel local across 40 markets | Revolut’s Kim Maniovich",
-      "url": "https://www.youtube.com/watch?v=xkeXefmxArU",
-      "published": "2026-11-17T09:45:31+00:00"
+      "title": "Building 3D video sets with GPT-6.2 Astra",
+      "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
+      "published": "2026-11-17T18:41:32+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Faster fraud response for safer shopping | Revolut’s David Abitbol",
-      "url": "https://www.youtube.com/watch?v=-O0tMcyH4Wo",
-      "published": "2026-11-17T09:45:26+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Making seven years of design documentation AI-readable in a day | Revolut’s Dmytro Pavlov",
-      "url": "https://www.youtube.com/watch?v=hAASMPKkaXA",
-      "published": "2026-11-17T09:45:10+00:00"
+      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+      "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+      "published": "2026-11-17T17:55:40+00:00"
     },
     {
       "channel_name": "Kling AI",
       "category": "AI",
-      "title": "WHEN TIME STANDS STILL | KLING IMAGE 4.0",
-      "url": "https://www.youtube.com/watch?v=yWSHflA8ZxU",
-      "published": "2026-11-17T15:00:38+00:00"
+      "title": "Think 4K is enough?",
+      "url": "https://www.youtube.com/watch?v=NzSxI9wTnkI",
+      "published": "2026-11-17T16:35:54+00:00"
     },
     {
-      "channel_name": "Theoretically Media",
+      "channel_name": "MattVidPro AI",
       "category": "AI",
-      "title": "Seedance 2.5 Flash Is Cheap. But Is It Good?",
-      "url": "https://www.youtube.com/watch?v=oXlOoCIwJp8",
-      "published": "2026-11-17T14:25:35+00:00"
+      "title": "I Spent a Week Making 3 Games With Claude Fable 5.2 (Honest Review)",
+      "url": "https://www.youtube.com/watch?v=8fNfcx25q24",
+      "published": "2026-11-17T16:45:59+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "ChatGPT 6.2 Astra is \"A Mess\"",
+      "url": "https://www.youtube.com/watch?v=LxKNPrXBuyU",
+      "published": "2026-11-17T23:38:50+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "OpenAI JUST made EVERYONE MAD...",
+      "url": "https://www.youtube.com/watch?v=tEysfZGzJc8",
+      "published": "2026-11-17T20:38:00+00:00"
     }
   ]
 }
