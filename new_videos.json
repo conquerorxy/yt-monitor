@@ -1,27 +1,27 @@
 {
-  "checked_at": "2026-11-19T05:27:56.108718+00:00",
+  "checked_at": "2026-11-19T15:01:12.153855+00:00",
   "new_count": 3,
   "videos": [
     {
-      "channel_name": "BKFC",
+      "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "MATT RUSSO vs JANCARLOS RIVERA! 👊 ONE OF THE WILDEST FIGHTS OF BKFC 93! 🤯",
-      "url": "https://www.youtube.com/watch?v=C-ZoenVqpqw",
-      "published": "2026-11-19T02:45:15+00:00"
+      "title": "Body shot drops him #boxing",
+      "url": "https://www.youtube.com/watch?v=5Jl8Dcn2K0Q",
+      "published": "2026-11-19T12:48:32+00:00"
     },
     {
-      "channel_name": "MattVidPro AI",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "GTA 6 Launch Night LIVE: GTA V → PS5 GTA VI",
-      "url": "https://www.youtube.com/watch?v=biFz8gYnoak",
-      "published": "2026-10-21T21:24:13+00:00"
+      "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
+      "url": "https://www.youtube.com/watch?v=ikNf7eW8CHk",
+      "published": "2026-11-19T11:38:57+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Google's Neon is wild...",
-      "url": "https://www.youtube.com/watch?v=-0uvPVwPFgM",
-      "published": "2026-11-19T04:49:11+00:00"
+      "title": "Mati Staniszewski on New Models & Voice AI Agents | ElevenLabs Summit NYC",
+      "url": "https://www.youtube.com/watch?v=c4iUBGu_bWQ",
+      "published": "2026-11-19T12:00:08+00:00"
     }
   ]
 }
