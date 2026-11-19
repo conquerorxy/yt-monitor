@@ -1,69 +1,27 @@
 {
-  "checked_at": "2026-11-18T23:46:15.284320+00:00",
-  "new_count": 9,
+  "checked_at": "2026-11-19T05:27:56.108718+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Introducing ChatGPT for Accounting",
-      "url": "https://www.youtube.com/watch?v=AhmCKHNqhB8",
-      "published": "2026-11-18T21:01:26+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "MATT RUSSO vs JANCARLOS RIVERA! 👊 ONE OF THE WILDEST FIGHTS OF BKFC 93! 🤯",
+      "url": "https://www.youtube.com/watch?v=C-ZoenVqpqw",
+      "published": "2026-11-19T02:45:15+00:00"
     },
     {
-      "channel_name": "Google DeepMind",
+      "channel_name": "MattVidPro AI",
       "category": "AI",
-      "title": "Behind the scenes with Genie 4",
-      "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
-      "published": "2026-11-18T18:12:24+00:00"
+      "title": "GTA 6 Launch Night LIVE: GTA V → PS5 GTA VI",
+      "url": "https://www.youtube.com/watch?v=biFz8gYnoak",
+      "published": "2026-10-21T21:24:13+00:00"
     },
     {
-      "channel_name": "Google DeepMind",
+      "channel_name": "Wes Roth",
       "category": "AI",
-      "title": "Introducing the new Project Genie, powered by Genie 4",
-      "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
-      "published": "2026-11-18T18:12:21+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "AI is getting better at figuring out how software works. Even when the code is hidden.",
-      "url": "https://www.youtube.com/watch?v=2Y3e3RYNjFk",
-      "published": "2026-11-18T20:00:13+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "NVIDIA SC26 Special Address",
-      "url": "https://www.youtube.com/watch?v=uJG53ligJt4",
-      "published": "2026-11-18T18:36:18+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
-      "category": "AI",
-      "title": "The AI Podcast is back.",
-      "url": "https://www.youtube.com/watch?v=gn_LIY2D2Ag",
-      "published": "2026-11-18T14:41:35+00:00"
-    },
-    {
-      "channel_name": "Pika Labs",
-      "category": "AI",
-      "title": "Pika Enact | A Research Preview of Scenes that Respond",
-      "url": "https://www.youtube.com/watch?v=wPANJO-EaCw",
-      "published": "2026-11-18T20:07:57+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "Insane AI Breakthroughs Nobody Is Talking About",
-      "url": "https://www.youtube.com/watch?v=-oA6oLxWpJg",
-      "published": "2026-11-18T22:08:16+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "The Reason No One Can Catch NVIDIA",
-      "url": "https://www.youtube.com/watch?v=hT0qW_DRFLw",
-      "published": "2026-11-18T19:02:01+00:00"
+      "title": "Google's Neon is wild...",
+      "url": "https://www.youtube.com/watch?v=-0uvPVwPFgM",
+      "published": "2026-11-19T04:49:11+00:00"
     }
   ]
 }
