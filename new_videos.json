@@ -1,27 +1,90 @@
 {
-  "checked_at": "2026-11-19T15:01:12.153855+00:00",
-  "new_count": 3,
+  "checked_at": "2026-11-20T00:08:08.487323+00:00",
+  "new_count": 12,
   "videos": [
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "Body shot drops him #boxing",
-      "url": "https://www.youtube.com/watch?v=5Jl8Dcn2K0Q",
-      "published": "2026-11-19T12:48:32+00:00"
+      "title": "TOBY MISECH ROCKED “FELONY” CHARLES BENNETT! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=K-JmOdDUWvM",
+      "published": "2026-11-19T22:17:29+00:00"
     },
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
-      "url": "https://www.youtube.com/watch?v=ikNf7eW8CHk",
-      "published": "2026-11-19T11:38:57+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "BERSERK MODE ACTIVATED! 😤🔥",
+      "url": "https://www.youtube.com/watch?v=jW_u9yonpJ0",
+      "published": "2026-11-19T21:31:31+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "A 50 BMG Can Cannon ???",
+      "url": "https://www.youtube.com/watch?v=uQG7xsWhIM0",
+      "published": "2026-11-19T21:13:03+00:00"
+    },
+    {
+      "channel_name": "Google DeepMind",
       "category": "AI",
-      "title": "Mati Staniszewski on New Models & Voice AI Agents | ElevenLabs Summit NYC",
-      "url": "https://www.youtube.com/watch?v=c4iUBGu_bWQ",
-      "published": "2026-11-19T12:00:08+00:00"
+      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+      "url": "https://www.youtube.com/watch?v=FORdPIWOH5k",
+      "published": "2026-11-19T19:58:06+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "AI is more than a better way to search.",
+      "url": "https://www.youtube.com/watch?v=Hgv4wjYXHKw",
+      "published": "2026-11-19T20:15:21+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Europe’s AI Future With Judith Dada | Pub Conversations",
+      "url": "https://www.youtube.com/watch?v=N5YwZjN4_oI",
+      "published": "2026-11-19T20:00:07+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Think childproofing, but for AI.",
+      "url": "https://www.youtube.com/watch?v=xkSVuGruhgE",
+      "published": "2026-11-19T17:00:13+00:00"
+    },
+    {
+      "channel_name": "Runway",
+      "category": "AI",
+      "title": "World Models Are Coming for the Physical World",
+      "url": "https://www.youtube.com/watch?v=B6upO4MNl1c",
+      "published": "2026-11-19T19:45:59+00:00"
+    },
+    {
+      "channel_name": "Luma AI",
+      "category": "AI",
+      "title": "How to Make Al Videos With Consistent Characters (Step by step)",
+      "url": "https://www.youtube.com/watch?v=4t4tOgVd8Kk",
+      "published": "2026-11-19T22:03:04+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "Gemini 4 Neon Just Shocked The AI Industry",
+      "url": "https://www.youtube.com/watch?v=PxljkirVeCw",
+      "published": "2026-11-19T19:30:23+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This will test if AI truly is a bubble",
+      "url": "https://www.youtube.com/watch?v=YbZDDCHDSnE",
+      "published": "2026-11-19T21:14:46+00:00"
+    },
+    {
+      "channel_name": "Theoretically Media",
+      "category": "AI",
+      "title": "GTA 6 Goes AI: The Useful, the Fake & the Hilarious Slop",
+      "url": "https://www.youtube.com/watch?v=fSGLyVe1XpM",
+      "published": "2026-11-19T22:55:02+00:00"
     }
   ]
 }
