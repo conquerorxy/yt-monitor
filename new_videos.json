@@ -1,62 +1,76 @@
 {
-  "checked_at": "2026-11-20T14:43:37.594135+00:00",
-  "new_count": 8,
+  "checked_at": "2026-11-20T23:33:28.615666+00:00",
+  "new_count": 10,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "Weigh In: BKFC MYRTLE BEACH | LIVE!",
-      "url": "https://www.youtube.com/watch?v=_rR_mBHeJIk",
-      "published": "2026-11-20T00:28:55+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He couldn’t continue 🥊🫨",
-      "url": "https://www.youtube.com/watch?v=h_KBD_WpxaQ",
-      "published": "2026-11-20T03:23:34+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "*NEW* Fights Worth Sending to the Group Chat | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=R4h7YRaLy5c",
-      "published": "2026-11-20T02:10:50+00:00"
+      "title": "6 KNOCKDOWNS FROM RANDY KAMAIOPILI JR! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=DyyddcA8x1s",
+      "published": "2026-11-20T22:43:51+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Create and Share a Dashboard in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=OSHSopaYjTw",
-      "published": "2026-11-20T06:07:50+00:00"
+      "title": "How to claim your business in ChatGPT with Shopify",
+      "url": "https://www.youtube.com/watch?v=mX7wHNnsghs",
+      "published": "2026-11-20T20:48:27+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Ask Questions About Your Data in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=JEgTn37Sk50",
-      "published": "2026-11-20T06:05:59+00:00"
+      "title": "An underrated way to use ChatGPT: Finding a doctor",
+      "url": "https://www.youtube.com/watch?v=X19Q12hmRjY",
+      "published": "2026-11-20T17:22:23+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Connect Your Team’s Data to ChatGPT",
-      "url": "https://www.youtube.com/watch?v=oJIuz3AFfEQ",
-      "published": "2026-11-20T06:02:57+00:00"
+      "title": "3 ChatGPT Tips to Save Money",
+      "url": "https://www.youtube.com/watch?v=WGvsk0LIveU",
+      "published": "2026-11-20T16:00:17+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Pika Labs",
       "category": "AI",
-      "title": "Meet the Data Agent in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=KrlfehIapEA",
-      "published": "2026-11-20T05:35:32+00:00"
+      "title": "Seedance 2.5 Flash on Pika",
+      "url": "https://www.youtube.com/watch?v=kYCc3HhpQ28",
+      "published": "2026-11-20T18:01:50+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "Luma AI",
       "category": "AI",
-      "title": "Create and Share a Report in ChatGPT Space",
-      "url": "https://www.youtube.com/watch?v=3_fayTbZrW8",
-      "published": "2026-11-20T05:32:52+00:00"
+      "title": "\"One Last Change,\" I promise - Luma",
+      "url": "https://www.youtube.com/watch?v=i9R06fl_nWw",
+      "published": "2026-11-20T20:08:05+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "This Tool Makes AI Writing Sound Scarily Human",
+      "url": "https://www.youtube.com/watch?v=VUazcvYqU30",
+      "published": "2026-11-20T21:15:04+00:00"
+    },
+    {
+      "channel_name": "MattVidPro AI",
+      "category": "AI",
+      "title": "Thoughts on GPT-6.2 Astra: Cheaper, But Is It Enough?",
+      "url": "https://www.youtube.com/watch?v=2Iq29ZWxJA8",
+      "published": "2026-11-20T22:40:11+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "AI News: This Is The Make or Break Week!!",
+      "url": "https://www.youtube.com/watch?v=wqNIzUmNt9M",
+      "published": "2026-11-20T19:00:16+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Create AI Characters That Never Change Faces (Full Tutorial)",
+      "url": "https://www.youtube.com/watch?v=qKVaAu2UPk8",
+      "published": "2026-11-20T15:22:13+00:00"
     }
   ]
 }
