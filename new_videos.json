@@ -1,76 +1,48 @@
 {
-  "checked_at": "2026-11-20T23:33:28.615666+00:00",
-  "new_count": 10,
+  "checked_at": "2026-11-21T05:07:26.071004+00:00",
+  "new_count": 6,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "6 KNOCKDOWNS FROM RANDY KAMAIOPILI JR! 🤯🔥",
-      "url": "https://www.youtube.com/watch?v=DyyddcA8x1s",
-      "published": "2026-11-20T22:43:51+00:00"
+      "title": "BKFC MYRTLE BEACH | LIVE!",
+      "url": "https://www.youtube.com/watch?v=uR2cPAibPRc",
+      "published": "2026-11-21T03:29:33+00:00"
     },
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "How to claim your business in ChatGPT with Shopify",
-      "url": "https://www.youtube.com/watch?v=mX7wHNnsghs",
-      "published": "2026-11-20T20:48:27+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Countdown to BKFC FIGHT NIGHT MYRTLE BEACH & FREE FIGHTS!",
+      "url": "https://www.youtube.com/watch?v=hrGALwRGFOo",
+      "published": "2026-11-21T03:05:30+00:00"
     },
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "An underrated way to use ChatGPT: Finding a doctor",
-      "url": "https://www.youtube.com/watch?v=X19Q12hmRjY",
-      "published": "2026-11-20T17:22:23+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "3 ChatGPT Tips to Save Money",
-      "url": "https://www.youtube.com/watch?v=WGvsk0LIveU",
-      "published": "2026-11-20T16:00:17+00:00"
-    },
-    {
-      "channel_name": "Pika Labs",
-      "category": "AI",
-      "title": "Seedance 2.5 Flash on Pika",
-      "url": "https://www.youtube.com/watch?v=kYCc3HhpQ28",
-      "published": "2026-11-20T18:01:50+00:00"
-    },
-    {
-      "channel_name": "Luma AI",
-      "category": "AI",
-      "title": "\"One Last Change,\" I promise - Luma",
-      "url": "https://www.youtube.com/watch?v=i9R06fl_nWw",
-      "published": "2026-11-20T20:08:05+00:00"
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "That was perfect 👌 🥊🙌",
+      "url": "https://www.youtube.com/watch?v=bd1O9e0mqmE",
+      "published": "2026-11-21T03:11:59+00:00"
     },
     {
       "channel_name": "TheAIGRID",
       "category": "AI",
-      "title": "This Tool Makes AI Writing Sound Scarily Human",
-      "url": "https://www.youtube.com/watch?v=VUazcvYqU30",
-      "published": "2026-11-20T21:15:04+00:00"
-    },
-    {
-      "channel_name": "MattVidPro AI",
-      "category": "AI",
-      "title": "Thoughts on GPT-6.2 Astra: Cheaper, But Is It Enough?",
-      "url": "https://www.youtube.com/watch?v=2Iq29ZWxJA8",
-      "published": "2026-11-20T22:40:11+00:00"
+      "title": "AI Just Cracked One Of The Worlds BIGGEST Mystery",
+      "url": "https://www.youtube.com/watch?v=DFexUtE1vVA",
+      "published": "2026-11-20T23:45:37+00:00"
     },
     {
       "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "AI News: This Is The Make or Break Week!!",
-      "url": "https://www.youtube.com/watch?v=wqNIzUmNt9M",
-      "published": "2026-11-20T19:00:16+00:00"
+      "title": "What else could you use this for?",
+      "url": "https://www.youtube.com/watch?v=7_pMINxEEPU",
+      "published": "2026-11-21T03:42:44+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "Wes Roth",
       "category": "AI",
-      "title": "Create AI Characters That Never Change Faces (Full Tutorial)",
-      "url": "https://www.youtube.com/watch?v=qKVaAu2UPk8",
-      "published": "2026-11-20T15:22:13+00:00"
+      "title": "Claude JUST solved the Riemann Hypothesis...",
+      "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+      "published": "2026-11-21T02:24:48+00:00"
     }
   ]
 }
