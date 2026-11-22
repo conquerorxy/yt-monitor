@@ -1,20 +1,27 @@
 {
-  "checked_at": "2026-11-21T22:40:04.374534+00:00",
-  "new_count": 2,
+  "checked_at": "2026-11-22T04:32:42.429047+00:00",
+  "new_count": 3,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "DARREN TILL'S BKFC DEBUT! 🤯🔥 Derek Brunson Calls Him Out for a Potential Rematch!",
-      "url": "https://www.youtube.com/watch?v=HCQU_Y0UVT0",
-      "published": "2026-11-21T19:27:17+00:00"
+      "title": "STEPHEN TOWNSEL vs JEREMY SMITH! 👊🔥 Tomahawk's Slick Footwork Leads to a TKO at BKFC 66!",
+      "url": "https://www.youtube.com/watch?v=KXYRMtfJBqY",
+      "published": "2026-11-22T03:36:38+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "They built cyborg cockroaches with built-in AI...",
-      "url": "https://www.youtube.com/watch?v=GFxHjrYwoFk",
-      "published": "2026-11-21T21:25:07+00:00"
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "KNOCKOUT OF THE YEAR CONTENDER?! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=zUjD1Sdq1KE",
+      "published": "2026-11-21T23:41:07+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He started spamming all combos 🥊🫨",
+      "url": "https://www.youtube.com/watch?v=jfRZNlhzUko",
+      "published": "2026-11-22T03:32:05+00:00"
     }
   ]
 }
