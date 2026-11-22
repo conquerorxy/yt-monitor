@@ -1,13 +1,27 @@
 {
-  "checked_at": "2026-11-22T13:53:11.552194+00:00",
-  "new_count": 1,
+  "checked_at": "2026-11-22T23:04:13.935698+00:00",
+  "new_count": 3,
   "videos": [
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "WHAT A BATTLE BETWEEN LORENZO HUNT AND WALTER PUGLIESI IN NAPLES! 🤯🔥",
+      "url": "https://www.youtube.com/watch?v=-IUIIArqu1k",
+      "published": "2026-11-22T21:35:34+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "MARCO “BARRACUDA” GIUSTARINI DROPS DAN CHAPMAN WITH A CLEAN SHOT IN ROUND 1! 🤯💥",
+      "url": "https://www.youtube.com/watch?v=2BB4TXuvoXw",
+      "published": "2026-11-22T21:11:35+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "OpenAI Warns AI Could Take Over Within 12 Months",
-      "url": "https://www.youtube.com/watch?v=Dx_oAiLIK1E",
-      "published": "2026-11-22T07:15:22+00:00"
+      "title": "Google Cooked With This New Model!",
+      "url": "https://www.youtube.com/watch?v=8RNSJ6Ud4nY",
+      "published": "2026-11-22T20:58:01+00:00"
     }
   ]
 }
