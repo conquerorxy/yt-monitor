@@ -1,27 +1,13 @@
 {
-  "checked_at": "2026-11-22T04:32:42.429047+00:00",
-  "new_count": 3,
+  "checked_at": "2026-11-22T13:53:11.552194+00:00",
+  "new_count": 1,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "STEPHEN TOWNSEL vs JEREMY SMITH! 👊🔥 Tomahawk's Slick Footwork Leads to a TKO at BKFC 66!",
-      "url": "https://www.youtube.com/watch?v=KXYRMtfJBqY",
-      "published": "2026-11-22T03:36:38+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "KNOCKOUT OF THE YEAR CONTENDER?! 🤯💥",
-      "url": "https://www.youtube.com/watch?v=zUjD1Sdq1KE",
-      "published": "2026-11-21T23:41:07+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He started spamming all combos 🥊🫨",
-      "url": "https://www.youtube.com/watch?v=jfRZNlhzUko",
-      "published": "2026-11-22T03:32:05+00:00"
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "OpenAI Warns AI Could Take Over Within 12 Months",
+      "url": "https://www.youtube.com/watch?v=Dx_oAiLIK1E",
+      "published": "2026-11-22T07:15:22+00:00"
     }
   ]
 }
