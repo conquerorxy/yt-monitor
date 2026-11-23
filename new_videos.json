@@ -1,13 +1,41 @@
 {
-  "checked_at": "2026-11-23T05:08:38.600716+00:00",
-  "new_count": 1,
+  "checked_at": "2026-11-23T17:03:04.350907+00:00",
+  "new_count": 5,
   "videos": [
     {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "LEONARDO PERDOMO vs BEAR HILL! 👊🔥Straight out of the MIKE TYSON playbook!",
-      "url": "https://www.youtube.com/watch?v=4DhJPd3CIts",
-      "published": "2026-11-23T01:40:03+00:00"
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+      "url": "https://www.youtube.com/watch?v=gAmjBqXNoFI",
+      "published": "2026-11-23T15:23:23+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+      "url": "https://www.youtube.com/watch?v=PXKvR8ta22Q",
+      "published": "2026-11-23T15:21:09+00:00"
+    },
+    {
+      "channel_name": "Kling AI",
+      "category": "AI",
+      "title": "One Prompt, a Complete Image Set | Kling Image 4.0",
+      "url": "https://www.youtube.com/watch?v=Rtz4pjhh8yc",
+      "published": "2026-11-23T12:40:48+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "OpenAI's SHOCKING new warning...",
+      "url": "https://www.youtube.com/watch?v=f5_c0O_chy4",
+      "published": "2026-11-23T07:35:14+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Podcasting has never been easier",
+      "url": "https://www.youtube.com/watch?v=H2y0qIMk6xk",
+      "published": "2026-11-23T15:26:40+00:00"
     }
   ]
 }
