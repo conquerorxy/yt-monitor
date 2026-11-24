@@ -1,90 +1,76 @@
 {
-  "checked_at": "2026-11-24T03:41:39.716893+00:00",
-  "new_count": 12,
+  "checked_at": "2026-11-24T16:49:40.492498+00:00",
+  "new_count": 10,
   "videos": [
     {
-      "channel_name": "Steve Ronin",
-      "category": "猎奇",
-      "title": "The Missing Disappearance of Japan's Abandoned Ghost Town",
-      "url": "https://www.youtube.com/watch?v=6sdpJHQVutw",
-      "published": "2026-11-23T21:00:26+00:00"
-    },
-    {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "WRONG GUY TO TRY THAT ON! 😬💀",
-      "url": "https://www.youtube.com/watch?v=mNsiHa2fF8o",
-      "published": "2026-11-24T02:05:17+00:00"
+      "title": "DEREK BRUNSON'S BKFC DEBUT! ⚡ 3 KNOCKDOWNS & A SECOND-ROUND TKO!",
+      "url": "https://www.youtube.com/watch?v=MzAJzDUIWSQ",
+      "published": "2026-11-24T06:33:26+00:00"
     },
     {
-      "channel_name": "BKFC",
+      "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "PICTURE-PERFECT COUNTER UPPERCUT! 🎯⚡",
-      "url": "https://www.youtube.com/watch?v=7X9LcY1NMZk",
-      "published": "2026-11-24T00:29:50+00:00"
+      "title": "Body Shot Finishes Hit Different | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=058_I1pCdU4",
+      "published": "2026-11-24T06:31:23+00:00"
     },
     {
-      "channel_name": "BKFC",
+      "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "MICHAEL MANNO vs FRANKIE SHUGHART! ⚡ 25 SECONDS TO WIN HIS BKFC DEBUT!",
-      "url": "https://www.youtube.com/watch?v=5I5KE4-043o",
-      "published": "2026-11-23T22:44:19+00:00"
-    },
-    {
-      "channel_name": "Exploring With Josh",
-      "category": "猎奇",
-      "title": "The Night HELL HOUSE Finally Broke Us (We Quit)",
-      "url": "https://www.youtube.com/watch?v=sNbDXDyjRtw",
-      "published": "2026-11-23T19:02:55+00:00"
-    },
-    {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "The MACH 5 Bullet (5X The Speed Of SOUND - The New World’s Fastest Bullet !!!)",
-      "url": "https://www.youtube.com/watch?v=ZsqqX0AUg3c",
-      "published": "2026-11-23T23:21:09+00:00"
+      "title": "They had to stop this 🥊😳",
+      "url": "https://www.youtube.com/watch?v=VvKpvGqJqPc",
+      "published": "2026-11-24T04:23:00+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Waiting for a better price on that gift? Use ChatGPT.",
-      "url": "https://www.youtube.com/watch?v=asUuxCqj0GE",
-      "published": "2026-11-24T01:36:38+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
-      "url": "https://www.youtube.com/watch?v=w-ltt0Np2cY",
-      "published": "2026-11-23T20:03:11+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
-      "url": "https://www.youtube.com/watch?v=MpsO8Ds8uyo",
-      "published": "2026-11-23T20:02:15+00:00"
+      "title": "Conheça o novíssimo ChatGPT Modo Voz.",
+      "url": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
+      "published": "2026-11-24T13:14:46+00:00"
     },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Tomorrow on the NVIDIA AI Podcast.",
-      "url": "https://www.youtube.com/watch?v=oF2xi9BaHco",
-      "published": "2026-11-23T22:03:46+00:00"
+      "title": "How Eli Lilly and Company Accelerates Drug Discovery with NVIDIA",
+      "url": "https://www.youtube.com/watch?v=IArSmPMHQug",
+      "published": "2026-11-24T16:37:31+00:00"
     },
     {
       "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Unwrap new possibilities this holiday season. 🎁",
-      "url": "https://www.youtube.com/watch?v=2b4QUm0tuVc",
-      "published": "2026-11-23T19:03:04+00:00"
+      "title": "How Eli Lilly and Company Accelerates Drug Discovery with NVIDIA",
+      "url": "https://www.youtube.com/watch?v=z7tcQiyLK8E",
+      "published": "2026-11-24T16:37:11+00:00"
     },
     {
-      "channel_name": "Matt Wolfe",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Believe it or not, this ISN’T AI",
-      "url": "https://www.youtube.com/watch?v=u1ozwejEwBo",
-      "published": "2026-11-23T21:09:34+00:00"
+      "title": "“Governance is what made us go faster.”",
+      "url": "https://www.youtube.com/watch?v=kTJ8NDNYua8",
+      "published": "2026-11-24T14:21:00+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Why Transparency Matters for AI Security",
+      "url": "https://www.youtube.com/watch?v=aAbtjH0-oQQ",
+      "published": "2026-11-24T11:00:17+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Introducing Huedini in ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=xEeTA9I8W4k",
+      "published": "2026-11-24T15:19:03+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Black Friday",
+      "url": "https://www.youtube.com/watch?v=ZwLD7Kk6UNU",
+      "published": "2026-11-24T12:41:33+00:00"
     }
   ]
 }
