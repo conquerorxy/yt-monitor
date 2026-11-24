@@ -1,41 +1,90 @@
 {
-  "checked_at": "2026-11-23T17:03:04.350907+00:00",
-  "new_count": 5,
+  "checked_at": "2026-11-24T03:41:39.716893+00:00",
+  "new_count": 12,
   "videos": [
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
-      "url": "https://www.youtube.com/watch?v=gAmjBqXNoFI",
-      "published": "2026-11-23T15:23:23+00:00"
+      "channel_name": "Steve Ronin",
+      "category": "猎奇",
+      "title": "The Missing Disappearance of Japan's Abandoned Ghost Town",
+      "url": "https://www.youtube.com/watch?v=6sdpJHQVutw",
+      "published": "2026-11-23T21:00:26+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "WRONG GUY TO TRY THAT ON! 😬💀",
+      "url": "https://www.youtube.com/watch?v=mNsiHa2fF8o",
+      "published": "2026-11-24T02:05:17+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "PICTURE-PERFECT COUNTER UPPERCUT! 🎯⚡",
+      "url": "https://www.youtube.com/watch?v=7X9LcY1NMZk",
+      "published": "2026-11-24T00:29:50+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "MICHAEL MANNO vs FRANKIE SHUGHART! ⚡ 25 SECONDS TO WIN HIS BKFC DEBUT!",
+      "url": "https://www.youtube.com/watch?v=5I5KE4-043o",
+      "published": "2026-11-23T22:44:19+00:00"
+    },
+    {
+      "channel_name": "Exploring With Josh",
+      "category": "猎奇",
+      "title": "The Night HELL HOUSE Finally Broke Us (We Quit)",
+      "url": "https://www.youtube.com/watch?v=sNbDXDyjRtw",
+      "published": "2026-11-23T19:02:55+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "The MACH 5 Bullet (5X The Speed Of SOUND - The New World’s Fastest Bullet !!!)",
+      "url": "https://www.youtube.com/watch?v=ZsqqX0AUg3c",
+      "published": "2026-11-23T23:21:09+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
-      "url": "https://www.youtube.com/watch?v=PXKvR8ta22Q",
-      "published": "2026-11-23T15:21:09+00:00"
+      "title": "Waiting for a better price on that gift? Use ChatGPT.",
+      "url": "https://www.youtube.com/watch?v=asUuxCqj0GE",
+      "published": "2026-11-24T01:36:38+00:00"
     },
     {
-      "channel_name": "Kling AI",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "One Prompt, a Complete Image Set | Kling Image 4.0",
-      "url": "https://www.youtube.com/watch?v=Rtz4pjhh8yc",
-      "published": "2026-11-23T12:40:48+00:00"
+      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+      "url": "https://www.youtube.com/watch?v=w-ltt0Np2cY",
+      "published": "2026-11-23T20:03:11+00:00"
     },
     {
-      "channel_name": "Wes Roth",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "OpenAI's SHOCKING new warning...",
-      "url": "https://www.youtube.com/watch?v=f5_c0O_chy4",
-      "published": "2026-11-23T07:35:14+00:00"
+      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+      "url": "https://www.youtube.com/watch?v=MpsO8Ds8uyo",
+      "published": "2026-11-23T20:02:15+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "Podcasting has never been easier",
-      "url": "https://www.youtube.com/watch?v=H2y0qIMk6xk",
-      "published": "2026-11-23T15:26:40+00:00"
+      "title": "Tomorrow on the NVIDIA AI Podcast.",
+      "url": "https://www.youtube.com/watch?v=oF2xi9BaHco",
+      "published": "2026-11-23T22:03:46+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "Unwrap new possibilities this holiday season. 🎁",
+      "url": "https://www.youtube.com/watch?v=2b4QUm0tuVc",
+      "published": "2026-11-23T19:03:04+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "Believe it or not, this ISN’T AI",
+      "url": "https://www.youtube.com/watch?v=u1ozwejEwBo",
+      "published": "2026-11-23T21:09:34+00:00"
     }
   ]
 }
