@@ -1,76 +1,104 @@
 {
-  "checked_at": "2026-11-24T16:49:40.492498+00:00",
-  "new_count": 10,
+  "checked_at": "2026-11-25T01:48:54.038889+00:00",
+  "new_count": 14,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "DEREK BRUNSON'S BKFC DEBUT! ⚡ 3 KNOCKDOWNS & A SECOND-ROUND TKO!",
-      "url": "https://www.youtube.com/watch?v=MzAJzDUIWSQ",
-      "published": "2026-11-24T06:33:26+00:00"
+      "title": "JESSICA EYE vs MARIYA AGAPOVA! 👊⚡",
+      "url": "https://www.youtube.com/watch?v=kh4EJ-LDriY",
+      "published": "2026-11-25T01:43:47+00:00"
     },
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "Body Shot Finishes Hit Different | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=058_I1pCdU4",
-      "published": "2026-11-24T06:31:23+00:00"
+      "title": "A 360° SPIN... THEN HE DROPPED HIM?! 🌀😳",
+      "url": "https://www.youtube.com/watch?v=8hk7VqNhOKA",
+      "published": "2026-11-24T21:11:59+00:00"
     },
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "They had to stop this 🥊😳",
-      "url": "https://www.youtube.com/watch?v=VvKpvGqJqPc",
-      "published": "2026-11-24T04:23:00+00:00"
+      "title": "NOW THAT'S A BARE-KNUCKLE BRAWL! 😤🚨",
+      "url": "https://www.youtube.com/watch?v=4Yyeest_eZ4",
+      "published": "2026-11-24T17:11:38+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Conheça o novíssimo ChatGPT Modo Voz.",
-      "url": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
-      "published": "2026-11-24T13:14:46+00:00"
+      "title": "Experiment with SVG & 3D Design with the Codex Plugin",
+      "url": "https://www.youtube.com/watch?v=1u0hTd86_HU",
+      "published": "2026-11-24T21:32:42+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Eli Lilly and Company Accelerates Drug Discovery with NVIDIA",
-      "url": "https://www.youtube.com/watch?v=IArSmPMHQug",
-      "published": "2026-11-24T16:37:31+00:00"
+      "title": "How to Search for Exoplanets",
+      "url": "https://www.youtube.com/watch?v=p8lvQQebvpg",
+      "published": "2026-11-24T20:00:45+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How Eli Lilly and Company Accelerates Drug Discovery with NVIDIA",
-      "url": "https://www.youtube.com/watch?v=z7tcQiyLK8E",
-      "published": "2026-11-24T16:37:11+00:00"
+      "title": "Make sense of your day | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
+      "published": "2026-11-24T17:14:03+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "“Governance is what made us go faster.”",
-      "url": "https://www.youtube.com/watch?v=kTJ8NDNYua8",
-      "published": "2026-11-24T14:21:00+00:00"
+      "title": "Make a day of it | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
+      "published": "2026-11-24T17:14:01+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Why Transparency Matters for AI Security",
-      "url": "https://www.youtube.com/watch?v=aAbtjH0-oQQ",
-      "published": "2026-11-24T11:00:17+00:00"
+      "title": "Make room in your day | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=Faoam45LT-Q",
+      "published": "2026-11-24T17:13:58+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Introducing Huedini in ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=xEeTA9I8W4k",
-      "published": "2026-11-24T15:19:03+00:00"
+      "title": "Make your day move | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=DLV3XRdJAog",
+      "published": "2026-11-24T17:13:55+00:00"
     },
     {
-      "channel_name": "ElevenLabs",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Black Friday",
-      "url": "https://www.youtube.com/watch?v=ZwLD7Kk6UNU",
-      "published": "2026-11-24T12:41:33+00:00"
+      "title": "School Day | Make A Day Do Anything with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=bGiFYYrmnAg",
+      "published": "2026-11-24T17:09:11+00:00"
+    },
+    {
+      "channel_name": "Google DeepMind",
+      "category": "AI",
+      "title": "The brain helped us build AI. Now AI is explaining the brain.",
+      "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
+      "published": "2026-11-24T17:51:08+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "OpenAI’s Next Model Is Scaring Its Own Employees",
+      "url": "https://www.youtube.com/watch?v=-xjNO0GoNbY",
+      "published": "2026-11-24T23:15:05+00:00"
+    },
+    {
+      "channel_name": "MattVidPro AI",
+      "category": "AI",
+      "title": "Is Claude Opus 5.6 Already Live in Stealth?",
+      "url": "https://www.youtube.com/watch?v=xC_TV3yuoSE",
+      "published": "2026-11-24T23:43:18+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "This helmet tells you when to turn ⮑",
+      "url": "https://www.youtube.com/watch?v=PQYURWk9-w0",
+      "published": "2026-11-24T20:11:42+00:00"
     }
   ]
 }
