@@ -1,104 +1,48 @@
 {
-  "checked_at": "2026-11-25T01:48:54.038889+00:00",
-  "new_count": 14,
+  "checked_at": "2026-11-25T16:37:53.809917+00:00",
+  "new_count": 6,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "JESSICA EYE vs MARIYA AGAPOVA! 👊⚡",
-      "url": "https://www.youtube.com/watch?v=kh4EJ-LDriY",
-      "published": "2026-11-25T01:43:47+00:00"
+      "title": "LORENZO HUNT vs HECTOR LOMBARD! ⚔️ THE MOST EPIC RIVALRY IN BKFC HISTORY?!",
+      "url": "https://www.youtube.com/watch?v=g_pk3bkzz3U",
+      "published": "2026-11-25T03:06:26+00:00"
     },
     {
-      "channel_name": "BKFC",
+      "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "A 360° SPIN... THEN HE DROPPED HIM?! 🌀😳",
-      "url": "https://www.youtube.com/watch?v=8hk7VqNhOKA",
-      "published": "2026-11-24T21:11:59+00:00"
+      "title": "*NEW* The Fight Side of the Internet | STREETBEEFS",
+      "url": "https://www.youtube.com/watch?v=YWji2OLxhUU",
+      "published": "2026-11-25T05:18:11+00:00"
     },
     {
-      "channel_name": "BKFC",
+      "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "NOW THAT'S A BARE-KNUCKLE BRAWL! 😤🚨",
-      "url": "https://www.youtube.com/watch?v=4Yyeest_eZ4",
-      "published": "2026-11-24T17:11:38+00:00"
+      "title": "He stopped him in the end 🥊",
+      "url": "https://www.youtube.com/watch?v=vfcwg_c6chs",
+      "published": "2026-11-25T04:06:51+00:00"
+    },
+    {
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "Did GTA 6 Really Put STREETBEEFS in the Game? 👀",
+      "url": "https://www.youtube.com/watch?v=38wGRhT0un8",
+      "published": "2026-11-25T01:41:20+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "Experiment with SVG & 3D Design with the Codex Plugin",
-      "url": "https://www.youtube.com/watch?v=1u0hTd86_HU",
-      "published": "2026-11-24T21:32:42+00:00"
+      "title": "How to Set Up Finances in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=hwKct_1ilEQ",
+      "published": "2026-11-25T14:00:28+00:00"
     },
     {
-      "channel_name": "OpenAI",
+      "channel_name": "NVIDIA",
       "category": "AI",
-      "title": "How to Search for Exoplanets",
-      "url": "https://www.youtube.com/watch?v=p8lvQQebvpg",
-      "published": "2026-11-24T20:00:45+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Make sense of your day | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
-      "published": "2026-11-24T17:14:03+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Make a day of it | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
-      "published": "2026-11-24T17:14:01+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Make room in your day | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=Faoam45LT-Q",
-      "published": "2026-11-24T17:13:58+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "Make your day move | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=DLV3XRdJAog",
-      "published": "2026-11-24T17:13:55+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "School Day | Make A Day Do Anything with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=bGiFYYrmnAg",
-      "published": "2026-11-24T17:09:11+00:00"
-    },
-    {
-      "channel_name": "Google DeepMind",
-      "category": "AI",
-      "title": "The brain helped us build AI. Now AI is explaining the brain.",
-      "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
-      "published": "2026-11-24T17:51:08+00:00"
-    },
-    {
-      "channel_name": "TheAIGRID",
-      "category": "AI",
-      "title": "OpenAI’s Next Model Is Scaring Its Own Employees",
-      "url": "https://www.youtube.com/watch?v=-xjNO0GoNbY",
-      "published": "2026-11-24T23:15:05+00:00"
-    },
-    {
-      "channel_name": "MattVidPro AI",
-      "category": "AI",
-      "title": "Is Claude Opus 5.6 Already Live in Stealth?",
-      "url": "https://www.youtube.com/watch?v=xC_TV3yuoSE",
-      "published": "2026-11-24T23:43:18+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "This helmet tells you when to turn ⮑",
-      "url": "https://www.youtube.com/watch?v=PQYURWk9-w0",
-      "published": "2026-11-24T20:11:42+00:00"
+      "title": "One name. Two worlds. A shared commitment to safety. 🏔️🚗",
+      "url": "https://www.youtube.com/watch?v=5_peDo1mukg",
+      "published": "2026-11-25T16:00:36+00:00"
     }
   ]
 }
