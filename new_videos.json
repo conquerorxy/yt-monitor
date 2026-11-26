@@ -1,62 +1,41 @@
 {
-  "checked_at": "2026-11-26T01:25:09.076703+00:00",
-  "new_count": 8,
+  "checked_at": "2026-11-26T16:10:09.603142+00:00",
+  "new_count": 5,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "DALVIN BLAIR vs JUSTIN WALTERS! 💀⚡ ONE OF THE FASTEST KNOCKOUTS IN BKFC HISTORY! ⏱️",
-      "url": "https://www.youtube.com/watch?v=3ibdjDrxkts",
-      "published": "2026-11-26T00:46:00+00:00"
+      "title": "RULE #1: DON'T MESS WITH “RAMBO”! 😬 MATT RUSSO vs SAMUEL SAMPLES! 🪖💣",
+      "url": "https://www.youtube.com/watch?v=JyZqdgfZ1WM",
+      "published": "2026-11-26T04:35:59+00:00"
     },
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "EDUARDO CONCEPCION'S 5-SECOND KNOCKOUT!⚡",
-      "url": "https://www.youtube.com/watch?v=ZQh9j1xRtJA",
-      "published": "2026-11-25T18:46:34+00:00"
+      "title": "ERNESTO SUAREZ vs ANGELO COLON! ⚡ DOMINANT BKFC DEBUT ENDS IN ROUND 1!",
+      "url": "https://www.youtube.com/watch?v=b8jw0H7YPvY",
+      "published": "2026-11-26T02:46:42+00:00"
     },
     {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "You had us at Deployed",
-      "url": "https://www.youtube.com/watch?v=C6DENY3rgqg",
-      "published": "2026-11-25T23:50:43+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "How your dot can keep work moving while you’re away",
-      "url": "https://www.youtube.com/watch?v=A4UNP-axGHU",
-      "published": "2026-11-25T18:21:11+00:00"
-    },
-    {
-      "channel_name": "OpenAI",
-      "category": "AI",
-      "title": "School Day | Make a day do anything with ChatGPT  (Official)",
-      "url": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
-      "published": "2026-11-25T16:45:33+00:00"
-    },
-    {
-      "channel_name": "Matt Wolfe",
-      "category": "AI",
-      "title": "I've never seen a drone do this...",
-      "url": "https://www.youtube.com/watch?v=BWpsNrkt6Z4",
-      "published": "2026-11-25T16:37:45+00:00"
+      "channel_name": "Street Beefs",
+      "category": "猎奇",
+      "title": "He couldn’t get out of this 😳🥊🫨",
+      "url": "https://www.youtube.com/watch?v=etZnSrIRX-E",
+      "published": "2026-11-26T05:14:45+00:00"
     },
     {
       "channel_name": "Wes Roth",
       "category": "AI",
-      "title": "HOLY S*** HOLY S*** HOLY S*** HOLY S*** HOLY S***",
-      "url": "https://www.youtube.com/watch?v=RlemAajyNrQ",
-      "published": "2026-11-25T22:11:34+00:00"
+      "title": "Hermes Agent just leveled up...",
+      "url": "https://www.youtube.com/watch?v=uClZwJ-BoSc",
+      "published": "2026-11-26T05:44:08+00:00"
     },
     {
       "channel_name": "ElevenLabs",
       "category": "AI",
-      "title": "Last chance to enter The Year of More",
-      "url": "https://www.youtube.com/watch?v=LQAHLnDiVTk",
-      "published": "2026-11-25T17:59:36+00:00"
+      "title": "Add AI Voiceovers to Any Video in Minutes",
+      "url": "https://www.youtube.com/watch?v=X0yezvS3zR4",
+      "published": "2026-11-26T14:31:24+00:00"
     }
   ]
 }
