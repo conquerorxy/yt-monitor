@@ -1,48 +1,62 @@
 {
-  "checked_at": "2026-11-25T16:37:53.809917+00:00",
-  "new_count": 6,
+  "checked_at": "2026-11-26T01:25:09.076703+00:00",
+  "new_count": 8,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "LORENZO HUNT vs HECTOR LOMBARD! ⚔️ THE MOST EPIC RIVALRY IN BKFC HISTORY?!",
-      "url": "https://www.youtube.com/watch?v=g_pk3bkzz3U",
-      "published": "2026-11-25T03:06:26+00:00"
+      "title": "DALVIN BLAIR vs JUSTIN WALTERS! 💀⚡ ONE OF THE FASTEST KNOCKOUTS IN BKFC HISTORY! ⏱️",
+      "url": "https://www.youtube.com/watch?v=3ibdjDrxkts",
+      "published": "2026-11-26T00:46:00+00:00"
     },
     {
-      "channel_name": "Street Beefs",
+      "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "*NEW* The Fight Side of the Internet | STREETBEEFS",
-      "url": "https://www.youtube.com/watch?v=YWji2OLxhUU",
-      "published": "2026-11-25T05:18:11+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "He stopped him in the end 🥊",
-      "url": "https://www.youtube.com/watch?v=vfcwg_c6chs",
-      "published": "2026-11-25T04:06:51+00:00"
-    },
-    {
-      "channel_name": "Street Beefs",
-      "category": "猎奇",
-      "title": "Did GTA 6 Really Put STREETBEEFS in the Game? 👀",
-      "url": "https://www.youtube.com/watch?v=38wGRhT0un8",
-      "published": "2026-11-25T01:41:20+00:00"
+      "title": "EDUARDO CONCEPCION'S 5-SECOND KNOCKOUT!⚡",
+      "url": "https://www.youtube.com/watch?v=ZQh9j1xRtJA",
+      "published": "2026-11-25T18:46:34+00:00"
     },
     {
       "channel_name": "OpenAI",
       "category": "AI",
-      "title": "How to Set Up Finances in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=hwKct_1ilEQ",
-      "published": "2026-11-25T14:00:28+00:00"
+      "title": "You had us at Deployed",
+      "url": "https://www.youtube.com/watch?v=C6DENY3rgqg",
+      "published": "2026-11-25T23:50:43+00:00"
     },
     {
-      "channel_name": "NVIDIA",
+      "channel_name": "OpenAI",
       "category": "AI",
-      "title": "One name. Two worlds. A shared commitment to safety. 🏔️🚗",
-      "url": "https://www.youtube.com/watch?v=5_peDo1mukg",
-      "published": "2026-11-25T16:00:36+00:00"
+      "title": "How your dot can keep work moving while you’re away",
+      "url": "https://www.youtube.com/watch?v=A4UNP-axGHU",
+      "published": "2026-11-25T18:21:11+00:00"
+    },
+    {
+      "channel_name": "OpenAI",
+      "category": "AI",
+      "title": "School Day | Make a day do anything with ChatGPT  (Official)",
+      "url": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
+      "published": "2026-11-25T16:45:33+00:00"
+    },
+    {
+      "channel_name": "Matt Wolfe",
+      "category": "AI",
+      "title": "I've never seen a drone do this...",
+      "url": "https://www.youtube.com/watch?v=BWpsNrkt6Z4",
+      "published": "2026-11-25T16:37:45+00:00"
+    },
+    {
+      "channel_name": "Wes Roth",
+      "category": "AI",
+      "title": "HOLY S*** HOLY S*** HOLY S*** HOLY S*** HOLY S***",
+      "url": "https://www.youtube.com/watch?v=RlemAajyNrQ",
+      "published": "2026-11-25T22:11:34+00:00"
+    },
+    {
+      "channel_name": "ElevenLabs",
+      "category": "AI",
+      "title": "Last chance to enter The Year of More",
+      "url": "https://www.youtube.com/watch?v=LQAHLnDiVTk",
+      "published": "2026-11-25T17:59:36+00:00"
     }
   ]
 }
