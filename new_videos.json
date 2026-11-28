@@ -1,20 +1,55 @@
 {
-  "checked_at": "2026-11-27T15:56:33.569420+00:00",
-  "new_count": 2,
+  "checked_at": "2026-11-28T00:56:20.947400+00:00",
+  "new_count": 7,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "EMMA MURRAY vs CRYSTAL VAN WYK! ⚔️🔥 THE PUNCH VOLUME IN THIS FIGHT WAS INSANE! 😳",
-      "url": "https://www.youtube.com/watch?v=X6sQQjPxB-k",
-      "published": "2026-11-27T01:49:42+00:00"
+      "title": "AN ABSOLUTELY WILD FIGHT! 😳🔥 MALONE vs SEWELL — 6 ROUNDS OF CHAOS AT BKFC 96!",
+      "url": "https://www.youtube.com/watch?v=Ci_K1IhTwr8",
+      "published": "2026-11-28T00:06:51+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "Live 330 BARRY BOYLE",
+      "url": "https://www.youtube.com/watch?v=mcVPxoeRFTU",
+      "published": "2026-11-27T22:11:48+00:00"
+    },
+    {
+      "channel_name": "BKFC",
+      "category": "猎奇",
+      "title": "MIKE RICHMAN vs JOE ELMORE! ⚔️ 5-ROUND BATTLE AT KNUCKLEMANIA VI! 🔥",
+      "url": "https://www.youtube.com/watch?v=x3YzHrhvVJE",
+      "published": "2026-11-27T21:26:37+00:00"
     },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "WWYD in this situation? #boxing #mma",
-      "url": "https://www.youtube.com/watch?v=_PhHfbpL0dk",
-      "published": "2026-11-27T13:07:03+00:00"
+      "title": "Triangle choke ftw #mma",
+      "url": "https://www.youtube.com/watch?v=ilGemdKq8nM",
+      "published": "2026-11-27T23:00:33+00:00"
+    },
+    {
+      "channel_name": "Kentucky Ballistics",
+      "category": "猎奇",
+      "title": "What Is The BEST Deer Rifle? -Part 2- (I Tested Your Requests !!!)",
+      "url": "https://www.youtube.com/watch?v=IxewrygSeRQ",
+      "published": "2026-11-27T22:52:26+00:00"
+    },
+    {
+      "channel_name": "NVIDIA",
+      "category": "AI",
+      "title": "One livestream. Four Spotlight Sessions. Straight from #NVIDIAGTC in Washington, D.C.",
+      "url": "https://www.youtube.com/watch?v=sHWEMk0l2iU",
+      "published": "2026-11-27T18:06:08+00:00"
+    },
+    {
+      "channel_name": "TheAIGRID",
+      "category": "AI",
+      "title": "How Google Just TOOK OVER The AI Industry (Neon, Hydrogen And Carbon)",
+      "url": "https://www.youtube.com/watch?v=IdraRU3BJGk",
+      "published": "2026-11-27T21:15:28+00:00"
     }
   ]
 }
