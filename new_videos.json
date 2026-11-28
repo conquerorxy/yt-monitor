@@ -1,55 +1,34 @@
 {
-  "checked_at": "2026-11-28T00:56:20.947400+00:00",
-  "new_count": 7,
+  "checked_at": "2026-11-28T14:53:07.230927+00:00",
+  "new_count": 4,
   "videos": [
     {
       "channel_name": "BKFC",
       "category": "猎奇",
-      "title": "AN ABSOLUTELY WILD FIGHT! 😳🔥 MALONE vs SEWELL — 6 ROUNDS OF CHAOS AT BKFC 96!",
-      "url": "https://www.youtube.com/watch?v=Ci_K1IhTwr8",
-      "published": "2026-11-28T00:06:51+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "Live 330 BARRY BOYLE",
-      "url": "https://www.youtube.com/watch?v=mcVPxoeRFTU",
-      "published": "2026-11-27T22:11:48+00:00"
-    },
-    {
-      "channel_name": "BKFC",
-      "category": "猎奇",
-      "title": "MIKE RICHMAN vs JOE ELMORE! ⚔️ 5-ROUND BATTLE AT KNUCKLEMANIA VI! 🔥",
-      "url": "https://www.youtube.com/watch?v=x3YzHrhvVJE",
-      "published": "2026-11-27T21:26:37+00:00"
+      "title": "WHAT AN INSANE KNOCKOUT! 🚨😱 COLE CAMERON vs PHIL CARACAPPA! ⚡",
+      "url": "https://www.youtube.com/watch?v=hZAaXTTaocI",
+      "published": "2026-11-28T02:46:51+00:00"
     },
     {
       "channel_name": "Street Beefs",
       "category": "猎奇",
-      "title": "Triangle choke ftw #mma",
-      "url": "https://www.youtube.com/watch?v=ilGemdKq8nM",
-      "published": "2026-11-27T23:00:33+00:00"
+      "title": "The crowd got really involved in this 🥊",
+      "url": "https://www.youtube.com/watch?v=-27YDaOd-ow",
+      "published": "2026-11-28T05:09:18+00:00"
     },
     {
-      "channel_name": "Kentucky Ballistics",
-      "category": "猎奇",
-      "title": "What Is The BEST Deer Rifle? -Part 2- (I Tested Your Requests !!!)",
-      "url": "https://www.youtube.com/watch?v=IxewrygSeRQ",
-      "published": "2026-11-27T22:52:26+00:00"
-    },
-    {
-      "channel_name": "NVIDIA",
+      "channel_name": "Kling AI",
       "category": "AI",
-      "title": "One livestream. Four Spotlight Sessions. Straight from #NVIDIAGTC in Washington, D.C.",
-      "url": "https://www.youtube.com/watch?v=sHWEMk0l2iU",
-      "published": "2026-11-27T18:06:08+00:00"
+      "title": "Kling 4.0 Creator Highlights | 4K 10-bit HDR",
+      "url": "https://www.youtube.com/watch?v=Ju4SBGCQHnk",
+      "published": "2026-11-28T14:23:05+00:00"
     },
     {
-      "channel_name": "TheAIGRID",
+      "channel_name": "Matt Wolfe",
       "category": "AI",
-      "title": "How Google Just TOOK OVER The AI Industry (Neon, Hydrogen And Carbon)",
-      "url": "https://www.youtube.com/watch?v=IdraRU3BJGk",
-      "published": "2026-11-27T21:15:28+00:00"
+      "title": "They're Making Robot Bees Now?",
+      "url": "https://www.youtube.com/watch?v=gUlFwEG_lD0",
+      "published": "2026-11-28T06:28:30+00:00"
     }
   ]
 }
